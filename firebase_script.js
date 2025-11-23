@@ -2911,7 +2911,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function checkDevTools() {
-        const threshold = 160; // 개발자 도구 예상 두께
+        const threshold = 16; // 개발자 도구 예상 두께
         const widthDiff = window.outerWidth - window.innerWidth > threshold;
         const heightDiff = window.outerHeight - window.innerHeight > threshold;
 
@@ -2926,4 +2926,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // === 17. 게임 시작 ===
     initGame();
+
 });
