@@ -1,1 +1,2882 @@
-const _0x16078b=_0x5274;function _0x5274(_0x847407,_0x2b7fa2){const _0x1db4db=_0x1db4();return _0x5274=function(_0x5274fc,_0x358998){_0x5274fc=_0x5274fc-0x148;let _0x3260e6=_0x1db4db[_0x5274fc];return _0x3260e6;},_0x5274(_0x847407,_0x2b7fa2);}function _0x1db4(){const _0x274d71=['(복구\x20처리\x20중...)','AAPL','타임\x20어택이\x20이미\x20진행\x20중입니다.','padStart','Berkshire\x20Hathaway\x20B\x20(버크셔\x20해서웨이\x20B)','createElement','하이일드\x20채권\x20(High-Yield)','line','신청\x20가능','hidden','lastScore','Amazon\x20(아마존)','showNetWorthRankBtn','도지코인\x20(Dogecoin)','text-base\x20font-medium\x20text-red-600','isArray','파산\x20신청\x20트랜잭션\x20오류:','🚨\x20경고\x20🚨<br><br>보유한\x20모든\x20주식을\x20현재\x20시장가로\x20즉시\x20매도합니다.<br>(상장\x20폐지\x20등\x20거래\x20불가\x20종목\x20제외)<br><br>정말로\x20실행하시겠습니까?','밀\x20(Wheat)','❌\x20초기화\x20실패','logoutBtn','shadow-sm','관리자\x20계정으로\x20로그인되었습니다.','새\x20플레이어\x20데이터\x20생성\x20중...','(--.--%)','타임\x20어택을\x20취소하시겠습니까?','bankruptTimestamp','toString','로그인\x20성공:','players/','bankLoanAmount','fill','transaction','주가\x20설정에\x20실패했습니다.\x20(오류:\x20','isInTimeAttack','bonds','timeAttack','confirmMessage','은\x20(Silver)','remove','뉴스\x20게시\x20오류:','ILoveCat','auth','isDelisted','천연가스\x20(Natural\x20Gas)','rankingCloseBtn','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22flex\x20justify-between\x20items-center\x20text-xs\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22text-slate-500\x22>','update','초기화\x20실패:\x20필수\x20DOM(googleLoginBtn)을\x20찾을\x20수\x20없습니다.','의\x20마켓/가격\x20정보를\x20찾을\x20수\x20없어\x20청산을\x20건너뜁니다.','delistTimestamp','쿠키\x20컴퍼니\x20(CookieCo)','timeAttackCancelBtn','rankingList','[매수]\x20','\x20cursor-pointer\x20transition-colors','loanRepayTimestamp','TSM','[매수]','className','parsed','bankNextInterest','[매도]','toFixed','</span>','number','🚨\x20경고\x20🚨\x0a\x0a\x27마켓\x20데이터\x27와\x20\x27당신\x20자신의\x20플레이어\x20데이터\x27를\x20모두\x20초기화하시겠습니까?\x0a\x0a(다른\x20플레이어의\x20데이터는\x20유지됩니다)','signInWithPopup','HY_B','name','now','buy','text-sm\x20text-slate-700','snapshot','은행\x20대출/상환\x20트랜잭션\x20오류:','정말로\x20파산을\x20신청하시겠습니까?\x20모든\x20자산(주식,\x20예금)이\x20청산되며,\x20현금\x20300만,\x20대출\x20500만으로\x20시작합니다.\x20(10분\x20쿨타임\x20적용)','price','adminMenuBtn','OIL','JPM','현대자동차\x20(Hyundai\x20Motor)','newsBox','bankModal','남은\x20시간:\x20','amount','bigEventChance','appendChild','ref','border-transparent\x20hover:bg-slate-50','DOM\x20Element\x20ID\x20\x22','분\x20경과에\x20대한\x20복리\x20이자가\x20적용되어\x0a','쿠키컴퍼니\x20(CookieCo)','flex','665155mwMwxu','networth','현재\x20거래할\x20수\x20없는\x20종목입니다.\x20(가격\x20정보\x20오류)','\x22를\x20찾을\x20수\x20없습니다.','원을\x20추가로\x20받았습니다!','loanTimestamp','WTI\x20원유\x20(Crude\x20Oil)','META','exists','keys','displayName','의\x20청산\x20비용\x20계산\x20실패\x20(FEE_RATE\x20오류).','chart','stocks','sellAllBtn','bankSavingsAmount','adminNewsSubmitBtn','Coca-Cola\x20(코카콜라)','unshift','정확한\x20예금액을\x20입력하세요.','ETH','뉴스\x20게시에\x20실패했습니다.\x20(DB\x20오류)','417521adqqkY','Johnson\x20&\x20Johnson\x20(존슨\x20앤\x20존슨)','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22flex\x20justify-between\x20items-center\x20text-sm\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22text-slate-500\x22>','NFLX','미국\x20장기채\x20(US\x20Long\x20Bond)','정확한\x20대출액을\x20입력하세요.','Procter\x20&\x20Gamble\x20(P&G)','미국\x20단기채\x20(US\x20Short\x20Bond)','NVDA','분\x20전','%)</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','bg-indigo-100\x20border-indigo-500','BRK-B','ko-KR','DIS','30분\x20타임\x20어택을\x20시작하시겠습니까?<br><br>현재\x20게임(현금,\x20주식,\x20은행)이\x20안전하게\x20저장된\x20후,\x20초기\x20자본으로\x20새\x20게임을\x20시작합니다.','bankModalCash','일\x20전','warn','미국\x20회사채\x20(Corp.\x20Bond)','은행\x20대출/상환에\x20실패했습니다.\x20(DB\x20오류)','COST','Vanguard\x20Total\x20World\x20ETF\x20(뱅가드\x20토탈\x20월드\x20ETF)','timestamp','Netflix\x20(넷플릭스)','showMiscBtn','text-xs\x20text-slate-500\x20mt-1','bankNextLoanTimer','historyList','jaewon.lee.2008@gmail.com','MSFT','[파산]\x20파산을\x20신청하여\x20모든\x20자산이\x20초기화되었습니다.\x20(구제금\x20300만,\x20대출\x20500만)','솔라나\x20(Solana)','textContent','타임\x20어택을\x20시작할\x20수\x20없습니다.','진행\x20중인\x20타임\x20어택을\x20재개합니다.\x20(남은\x20시간:\x20','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22font-mono\x20text-slate-900\x20ml-2\x22>','endTime','네이버\x20(NAVER)','cash','는\x20거래\x20불가\x20상태이므로\x20건너뜁니다.','<p\x20class=\x22text-slate-500\x20text-sm\x22>표시할\x20랭킹이\x20없습니다.</p>','예금할\x20현금이\x20부족합니다.','13875741QFWFNu','right','onAuthStateChanged','data','Visa\x20(비자)','MCD','Firebase\x20매도\x20트랜잭션\x20오류\x20(Promise):','adminStockPrice','금\x20(Gold)','flex\x20justify-between\x20items-center\x20text-sm\x20py-1','로그아웃됨','timeattack','1주당\x20비용(pricePerShare)\x20계산\x20실패.\x20FEE_RATE가\x20정의되었는지\x20확인하세요.','text-slate-400','prevPrice','WMT','bg-indigo-600','Firebase\x20멀티플레이어\x20게임에\x20오신\x20것을\x20환영합니다!','signOut','misc','21414ncHaDv','Tesla\x20(테슬라)','push','text-red-600','NKE',')</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22font-mono\x20','values','adminStockTicker','maxLoanInfo','limitToLast','p-3\x20rounded-lg\x20border\x20','개\x20종목\x20청산\x20(총\x20수익:\x20','saveBtn','관리자:\x20','addEventListener','pow','text-red-700','타임\x20어택\x20종료\x20트랜잭션이\x20중단되었습니다.','bankNextInterestTimer','trim','committed','개발자\x20기분\x20(Dev\x20Mood)','시간\x20전','[전액\x20매수]\x20','portfolioList','주\x20(총\x20','방금\x20전','Google\x20로그인\x20실패:','news','cloneNode','Firebase\x20쓰기\x20오류:','text-slate-500','[은행]','946796ZKbKor','confirmCancelBtn','child','Walmart\x20(월마트)','₩--','change','SK하이닉스\x20(SK\x20Hynix)','save','set','[전액\x20매도]\x20','SLVR','orderByChild','뉴스\x20내용을\x20입력하세요.','Alphabet\x20(구글)',',\x20총\x20손익:\x20','타임\x20어택\x20종료\x20트랜잭션\x20오류:','NGAS','대출이\x20있는\x20상태에서는\x20예금할\x20수\x20없습니다.','GoogleAuthProvider','totalNetWorth','alertModal','플레이어\x20데이터를\x20불러오는\x20데\x20실패했습니다.','ServerValue','20240183@bangok.hs.kr','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','text-blue-700','authScreen','history','HYMT','market/stocks/','타임\x20어택이\x20취소되었습니다.','매도할\x20수\x20있는\x20주식이\x20없습니다.','대출\x20한도를\x20초과했습니다.\x20(최대:\x20','forEach','Firebase\x20매수\x20트랜잭션\x20오류\x20(Promise):','error','confirmOkBtn','showBondsBtn','Exxon\x20Mobil\x20(엑슨모빌)','replaceWith','관리자:\x20주식\x20시장\x20타이머\x20시작\x20(주기:\x20','<span\x20class=\x22text-xs\x20font-bold\x20text-red-600\x22>(거래정지)</span>','플레이어\x20데이터\x20읽기\x20실패:','Disney\x20(디즈니)','adminStockManipulateBtn','+\x200','value','assets','bankRepaymentAmount','none','Firebase\x20쓰기\x20권한을\x20확인하세요.','PEP','getElementById','CORP_B','Anonymous','매수\x20실패.\x20DB\x20오류가\x20발생했습니다.\x20(NaN\x20또는\x20undefined\x20저장\x20시도)','2097816hzocLl','대출\x20쿨타임\x20중입니다.\x20(남은\x20시간:\x20','includes','CBHVz5QNzUgiES6psrBYOREsgJE2','은행\x20예금/인출에\x20실패했습니다.\x20(DB\x20오류)','showTimeAttackRankBtn','Anonymous\x20User','NVIDIA\x20(엔비디아)','SEC','보유하지\x20않은\x20종목입니다.','JNJ','timeAttackBtn','DOMContentLoaded','LG에너지솔루션\x20(LG\x20Energy\x20Solution)','showAssetsBtn','message','loan','현금이\x20부족합니다.','구리\x20(Copper)','Microsoft\x20(마이크로소프트)','startTime','withdraw','click','bankruptCooldownTimer','이더리움\x20(Ethereum)','datasets','Apple\x20(애플)','val','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22flex-1\x20font-medium\x20text-slate-700\x20truncate\x22\x20title=\x22','stockTicker','stockName','년\x20전','stockSelector','baseRiseProbability','then','createInitialMarketState\x20함수에\x20구문\x20오류가\x20있습니다.\x20F12\x20콘솔을\x20확인하세요.','confirmModal','catch','타임\x20어택\x20시작\x20트랜잭션\x20오류:','<span\x20class=\x22text-xs\x20w-4\x20text-right\x22>','savings','sellBtn','hover:bg-slate-100','rankingModal','[강제\x20청산]\x20','24YigQpg','innerHTML','McDonald\x27s\x20(맥도날드)','alertMessage','--:--','adminCloseBtn','TIMESTAMP','savingsTimestamp','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22font-bold\x20w-12\x22>','timeAttackTimerDisplay','\x20(으)로\x20강제\x20설정했습니다.','abs','email','market','유효한\x20수량을\x20입력하세요.','initialPrice','alertCloseBtn','거래\x20수익\x20계산에\x20실패했습니다.\x20(FEE_RATE\x20오류)','거래\x20비용\x20계산에\x20실패했습니다.\x20(FEE_RATE\x20오류)','adminModal','leaderboard','showStocksBtn','송송그룹\x20(Song)','은행\x20예금/인출\x20트랜잭션\x20오류:','div','(거래\x20정지)','SOL','addHistoryLogToPlayer\x20함수\x20실패:','수익(revenue)\x20계산\x20실패.\x20FEE_RATE가\x20정의되었는지\x20확인하세요.','repayBtn','undefined','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22flex\x20justify-between\x20items-center\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22font-bold\x20text-slate-800\x22>','baseVolatility','floor','length','reverse','sort','labels','reload','add','averagePrice','random','390776dWjlre','Meta\x20Platforms\x20(메타)','toLocaleString','uid','bank','database','showRankingModalBtn','slice','totalGrossHoldings','비용(cost)\x20계산\x20실패.\x20FEE_RATE가\x20정의되었는지\x20확인하세요.','sell','로그인\x20실패:\x20','대출\x20상환\x20필요','score','대출\x20가능','❌\x20비밀번호가\x20틀렸습니다.','text-blue-600','text-white','bg-white','adminNewsContent','초기화\x20함수(createInitialMarketState)\x20오류:','63yXXKiB','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','stockValue','repay','주\x20(실현손익:\x20','shares','🔥\x20타임\x20어택\x20(','loanBtn','saveAmount','text-3xl\x20font-bold\x20','rgba(79,\x2070,\x20229,\x200.1)','파산\x20신청\x20쿨타임\x20중입니다.\x20(남은\x20시간:\x20','파산\x20신청에\x20실패했습니다.\x20(DB\x20오류)','mainGame','COPR','buyMaxBtn','주가\x20설정\x20(트랜잭션)\x20오류:','onclick','BOND_L','1주도\x20매수할\x20현금이\x20부족합니다.','disabled','LGES','인출할\x20예금이\x20없습니다.','Starbucks\x20(스타벅스)','Home\x20Depot\x20(홈디포)','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22flex\x20justify-between\x20items-center\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22font-bold\x20text-sm\x20','타임\x20어택\x20진행\x20중...','devResetBtn','showCoinsBtn','Nike\x20(나이키)','googleLoginBtn','진행\x20중이던\x20타임\x20어택이\x20종료되었습니다.\x20결과를\x20처리합니다.','올바른\x20가격(숫자)을\x20입력하세요.','비트코인\x20(Bitcoin)','마켓과\x20당신의\x20데이터가\x20초기화되었습니다.\x20페이지를\x20새로고침합니다.','players','buyBtn','classList','Firebase\x20전액\x20매도\x20트랜잭션\x20오류\x20(Promise):','coins','삼성전자\x20(Samsung\x20Elec.)','Costco\x20(코스트코)','TSMC\x20(TSMC)','Firebase\x20전액\x20매수\x20트랜잭션\x20오류\x20(Promise):','WHEAT','10:00','log'];_0x1db4=function(){return _0x274d71;};return _0x1db4();}(function(_0x23bb5e,_0x1e2a7e){const _0x54c241=_0x5274,_0x52cb22=_0x23bb5e();while(!![]){try{const _0x3c6937=-parseInt(_0x54c241(0x25b))/0x1+-parseInt(_0x54c241(0x29a))/0x2+-parseInt(_0x54c241(0x14d))/0x3+parseInt(_0x54c241(0x2bb))/0x4+parseInt(_0x54c241(0x245))/0x5*(-parseInt(_0x54c241(0x17a))/0x6)+-parseInt(_0x54c241(0x1b9))/0x7*(-parseInt(_0x54c241(0x1a4))/0x8)+parseInt(_0x54c241(0x286))/0x9;if(_0x3c6937===_0x1e2a7e)break;else _0x52cb22['push'](_0x52cb22['shift']());}catch(_0x431bf1){_0x52cb22['push'](_0x52cb22['shift']());}}}(_0x1db4,0x8856f),document[_0x16078b(0x2a8)](_0x16078b(0x159),()=>{const _0x5c9152=_0x16078b,_0x15f084=0x4c4b40,_0x335811=0x64,_0x1ab741=0x1e,_0x2fc9b6=0.0075,_0x5256e2=0x1e*0x3c,_0x2e540b=0xa*0x3c*0x3e8;let _0xaef20a=null;const _0x22105b=[_0x5c9152(0x1e9),_0x5c9152(0x279),'GOOGL','AMZN',_0x5c9152(0x263),_0x5c9152(0x24c),'TSLA',_0x5c9152(0x267),'V',_0x5c9152(0x157),'XOM',_0x5c9152(0x237),_0x5c9152(0x221),_0x5c9152(0x25e),'SBUX',_0x5c9152(0x29e),_0x5c9152(0x28b),'KO',_0x5c9152(0x269),'VT','PG',_0x5c9152(0x295),_0x5c9152(0x270),_0x5c9152(0x148),'HD',_0x5c9152(0x155),'SKH',_0x5c9152(0x1ce),_0x5c9152(0x2d7),'NAVER'],_0x2c125b=['GOLD',_0x5c9152(0x2c5),_0x5c9152(0x236),_0x5c9152(0x2cb),_0x5c9152(0x1c7),_0x5c9152(0x1e5)],_0x1917a2=[_0x5c9152(0x1cb),'BOND_S',_0x5c9152(0x14a),_0x5c9152(0x22c)],_0x414211=['BTC',_0x5c9152(0x259),'DOGE',_0x5c9152(0x194)],_0x524618=['DEV_MOOD','SONG','COOKIE'],_0x277d40=[..._0x22105b,..._0x2c125b,..._0x1917a2,..._0x524618],_0x487124={'AAPL':_0x5c9152(0x167),'MSFT':_0x5c9152(0x160),'GOOGL':_0x5c9152(0x2c8),'AMZN':_0x5c9152(0x1f3),'NVDA':_0x5c9152(0x154),'META':_0x5c9152(0x1a5),'TSLA':_0x5c9152(0x29b),'BRK-B':_0x5c9152(0x1ec),'V':_0x5c9152(0x28a),'JNJ':_0x5c9152(0x25c),'XOM':'Exxon\x20Mobil\x20(엑슨모빌)','JPM':'JPMorgan\x20Chase\x20(JP모건\x20체이스)','TSM':'TSMC\x20(TSMC)','NFLX':'Netflix\x20(넷플릭스)','SBUX':_0x5c9152(0x1d0),'NKE':'Nike\x20(나이키)','MCD':'McDonald\x27s\x20(맥도날드)','KO':_0x5c9152(0x256),'DIS':_0x5c9152(0x2e6),'VT':_0x5c9152(0x271),'PG':_0x5c9152(0x261),'WMT':_0x5c9152(0x2be),'COST':_0x5c9152(0x1e2),'PEP':'PepsiCo\x20(펩시코)','HD':_0x5c9152(0x1d1),'SEC':'삼성전자\x20(Samsung\x20Elec.)','SKH':_0x5c9152(0x2c1),'LGES':_0x5c9152(0x15a),'HYMT':'현대자동차\x20(Hyundai\x20Motor)','NAVER':_0x5c9152(0x281),'GOLD':_0x5c9152(0x28e),'SLVR':'은\x20(Silver)','OIL':_0x5c9152(0x24b),'NGAS':_0x5c9152(0x214),'COPR':_0x5c9152(0x15f),'WHEAT':_0x5c9152(0x1fa),'BOND_L':'미국\x20장기채\x20(US\x20Long\x20Bond)','BOND_S':'미국\x20단기채\x20(US\x20Short\x20Bond)','CORP_B':_0x5c9152(0x26e),'HY_B':_0x5c9152(0x1ee),'BTC':_0x5c9152(0x1da),'ETH':_0x5c9152(0x165),'DOGE':_0x5c9152(0x1f5),'SOL':_0x5c9152(0x27b),'DEV_MOOD':'개발자\x20무드\x20(Dev\x20Mood)','SONG':'송송\x20그룹\x20(SongSong)','COOKIE':_0x5c9152(0x21b)};let _0x3c2700={},_0x130615={},_0x36df50={},_0x3ef746=_0x5c9152(0x252),_0x311427=_0x5c9152(0x1e9),_0x1ca37c='networth',_0x91c413=[],_0x426095=[],_0x66d12a=null,_0x1bb798=null,_0x576dab=null,_0x304504=null,_0x47b218=null,_0x225543=![],_0x2f5615=null;const _0x4681d8={'authScreen':null,'googleLoginBtn':null,'mainGame':null,'showStocksBtn':null,'showAssetsBtn':null,'showBondsBtn':null,'showCoinsBtn':null,'showMiscBtn':null,'stockSelector':null,'stockName':null,'stockTicker':null,'price':null,'change':null,'chart':null,'amount':null,'buyBtn':null,'sellBtn':null,'buyMaxBtn':null,'sellAllBtn':null,'cash':null,'stockValue':null,'totalGrossHoldings':null,'totalNetWorth':null,'portfolioList':null,'timeAttackBtn':null,'timeAttackTimerDisplay':null,'bankBtn':null,'showRankingModalBtn':null,'logoutBtn':null,'log':null,'historyList':null,'alertModal':null,'alertMessage':null,'alertCloseBtn':null,'confirmModal':null,'confirmMessage':null,'confirmCancelBtn':null,'confirmOkBtn':null,'bankModal':null,'bankCloseBtn':null,'saveAmount':null,'saveBtn':null,'saveWithdrawBtn':null,'loanAmount':null,'loanBtn':null,'repayBtn':null,'bankruptBtn':null,'bankruptCooldownTimer':null,'bankModalCash':null,'bankSavingsAmount':null,'bankNextInterest':null,'bankNextInterestTimer':null,'bankLoanAmount':null,'maxLoanInfo':null,'bankRepaymentAmount':null,'bankNextLoanTimer':null,'timeAttackBtn':null,'timeAttackCancelBtn':null,'rankingModal':null,'rankingCloseBtn':null,'showNetWorthRankBtn':null,'showTimeAttackRankBtn':null,'rankingList':null,'adminMenuBtn':null,'adminModal':null,'adminCloseBtn':null,'devResetBtn':null,'adminNewsContent':null,'adminNewsSubmitBtn':null,'newsBox':null,'adminStockTicker':null,'adminStockPrice':null,'adminStockManipulateBtn':null},_0x4edcbf=firebase[_0x5c9152(0x212)](),_0x577e0b=firebase['database']();let _0x27aa6d=null;const _0x53c012=_0x577e0b['ref'](_0x5c9152(0x187));function _0x544fe5(){const _0x104bf3=_0x5c9152;for(const _0x1cb721 in _0x4681d8){_0x4681d8[_0x1cb721]=document[_0x104bf3(0x149)](_0x1cb721),!_0x4681d8[_0x1cb721]&&console[_0x104bf3(0x26d)](_0x104bf3(0x241)+_0x1cb721+_0x104bf3(0x248));}}function _0x268f8a(){const _0x26d18a=_0x5c9152;_0x544fe5();if(!_0x4681d8[_0x26d18a(0x1d7)]){console[_0x26d18a(0x2de)](_0x26d18a(0x218));return;}_0x1f53c3(),_0x219275();const _0x651db8=_0x577e0b[_0x26d18a(0x23f)](_0x26d18a(0x2b6));_0x651db8['on'](_0x26d18a(0x2e9),_0x79a3=>{const _0x1478c4=_0x26d18a,_0x468ecf=_0x79a3[_0x1478c4(0x168)]();_0x37897b(_0x468ecf);}),setInterval(_0x2c9510,0xa*0x3c*0x3e8);}function _0x1f53c3(){const _0x74cfba=_0x5c9152;_0x4681d8['googleLoginBtn']['addEventListener'](_0x74cfba(0x163),_0xfb7438),_0x4681d8[_0x74cfba(0x1fc)][_0x74cfba(0x2a8)]('click',_0x93eb7),_0x4681d8[_0x74cfba(0x18f)]['addEventListener'](_0x74cfba(0x163),()=>_0x993ed1('stocks')),_0x4681d8[_0x74cfba(0x15b)]['addEventListener'](_0x74cfba(0x163),()=>_0x993ed1(_0x74cfba(0x2ea))),_0x4681d8[_0x74cfba(0x2e0)]['addEventListener']('click',()=>_0x993ed1(_0x74cfba(0x20b))),_0x4681d8[_0x74cfba(0x1d5)]['addEventListener'](_0x74cfba(0x163),()=>_0x993ed1(_0x74cfba(0x1e0))),_0x4681d8[_0x74cfba(0x274)]['addEventListener'](_0x74cfba(0x163),()=>_0x993ed1(_0x74cfba(0x299))),_0x4681d8[_0x74cfba(0x1dd)][_0x74cfba(0x2a8)]('click',_0x15280c),_0x4681d8[_0x74cfba(0x176)][_0x74cfba(0x2a8)]('click',_0x201386),_0x4681d8[_0x74cfba(0x1c8)]['addEventListener']('click',_0x428e2b),_0x4681d8[_0x74cfba(0x253)][_0x74cfba(0x2a8)](_0x74cfba(0x163),_0x41c4e9),_0x4681d8[_0x74cfba(0x158)]['addEventListener'](_0x74cfba(0x163),_0x3cb537),_0x4681d8[_0x74cfba(0x18a)][_0x74cfba(0x2a8)](_0x74cfba(0x163),_0x475582),_0x4681d8['bankBtn']['addEventListener'](_0x74cfba(0x163),_0x33eb39),_0x4681d8['bankCloseBtn'][_0x74cfba(0x2a8)](_0x74cfba(0x163),_0x1631f5),_0x4681d8[_0x74cfba(0x2a6)][_0x74cfba(0x2a8)](_0x74cfba(0x163),()=>_0x5cd9a3(_0x74cfba(0x2c2))),_0x4681d8['saveWithdrawBtn'][_0x74cfba(0x2a8)](_0x74cfba(0x163),()=>_0x5cd9a3(_0x74cfba(0x162))),_0x4681d8[_0x74cfba(0x1c0)][_0x74cfba(0x2a8)](_0x74cfba(0x163),()=>_0x27f536('loan')),_0x4681d8[_0x74cfba(0x197)][_0x74cfba(0x2a8)](_0x74cfba(0x163),()=>_0x27f536(_0x74cfba(0x1bc))),_0x4681d8['bankruptBtn'][_0x74cfba(0x2a8)](_0x74cfba(0x163),_0x3acf34),_0x4681d8[_0x74cfba(0x21c)][_0x74cfba(0x2a8)](_0x74cfba(0x163),_0x596012),_0x4681d8[_0x74cfba(0x1aa)][_0x74cfba(0x2a8)](_0x74cfba(0x163),_0x31e936),_0x4681d8[_0x74cfba(0x215)]['addEventListener'](_0x74cfba(0x163),_0x2f2ae0),_0x4681d8[_0x74cfba(0x1f4)][_0x74cfba(0x2a8)](_0x74cfba(0x163),()=>_0x3bb671('networth')),_0x4681d8[_0x74cfba(0x152)]['addEventListener']('click',()=>_0x3bb671(_0x74cfba(0x291))),_0x4681d8[_0x74cfba(0x235)]['addEventListener'](_0x74cfba(0x163),_0x15bd81),_0x4681d8[_0x74cfba(0x17f)][_0x74cfba(0x2a8)](_0x74cfba(0x163),_0x512891),_0x4681d8[_0x74cfba(0x1d4)]['addEventListener'](_0x74cfba(0x163),_0x53fde1),_0x4681d8[_0x74cfba(0x255)]['addEventListener'](_0x74cfba(0x163),_0x3c6682),_0x4681d8[_0x74cfba(0x2e7)][_0x74cfba(0x2a8)](_0x74cfba(0x163),_0x45bd02),_0x4681d8[_0x74cfba(0x277)]=document[_0x74cfba(0x149)]('historyList'),_0x4681d8[_0x74cfba(0x239)]=document[_0x74cfba(0x149)]('newsBox'),_0x4681d8[_0x74cfba(0x2a1)]=document[_0x74cfba(0x149)](_0x74cfba(0x2a1)),_0x4681d8[_0x74cfba(0x28d)]=document[_0x74cfba(0x149)](_0x74cfba(0x28d)),_0x4681d8[_0x74cfba(0x2e7)]=document[_0x74cfba(0x149)]('adminStockManipulateBtn');}function _0x219275(){const _0x1df56b=_0x5c9152;_0x1bb798=_0x4edcbf[_0x1df56b(0x288)](_0x3d39bb=>{const _0x363483=_0x1df56b,_0x2b6987=_0x363483(0x150);_0x3d39bb['uid']===_0x2b6987?_0x4681d8[_0x363483(0x235)]&&_0x4681d8[_0x363483(0x235)]['classList'][_0x363483(0x20f)]('hidden'):_0x4681d8[_0x363483(0x235)]&&_0x4681d8['adminMenuBtn']['classList'][_0x363483(0x1a1)]('hidden');if(_0x3d39bb){console['log'](_0x363483(0x204),_0x3d39bb[_0x363483(0x1a7)]),_0x27aa6d=_0x577e0b[_0x363483(0x23f)](_0x363483(0x205)+_0x3d39bb[_0x363483(0x1a7)]),_0x40347a(_0x3d39bb),_0x1390e9(),_0x40db7d(),_0x3a3fe0(),_0x4681d8[_0x363483(0x2d5)][_0x363483(0x1de)][_0x363483(0x1a1)](_0x363483(0x1f1)),_0x4681d8[_0x363483(0x1c6)][_0x363483(0x1de)]['remove'](_0x363483(0x1f1)),_0x13e18f();const _0x485102=_0x3d39bb['email']===_0x363483(0x2d2)||_0x3d39bb[_0x363483(0x186)]===_0x363483(0x278);_0x485102?(console[_0x363483(0x1e7)](_0x363483(0x1fe)),_0x5a299d()):console['log']('일반\x20사용자로\x20로그인되었습니다.');}else{console[_0x363483(0x1e7)](_0x363483(0x290)),_0x27aa6d=null,_0x531a02();if(_0x576dab)_0x576dab();if(_0x304504)_0x304504();_0x4681d8[_0x363483(0x2d5)][_0x363483(0x1de)]['remove'](_0x363483(0x1f1)),_0x4681d8[_0x363483(0x1c6)][_0x363483(0x1de)][_0x363483(0x1a1)](_0x363483(0x1f1));}});}function _0x40347a(_0x38cc12){const _0x17c1e9=_0x5c9152,_0x325166='CBHVz5QNzUgiES6psrBYOREsgJE2';_0x38cc12[_0x17c1e9(0x1a7)]===_0x325166?_0x4681d8[_0x17c1e9(0x235)]&&_0x4681d8['adminMenuBtn'][_0x17c1e9(0x1de)][_0x17c1e9(0x20f)](_0x17c1e9(0x1f1)):_0x4681d8['adminMenuBtn']&&_0x4681d8[_0x17c1e9(0x235)]['classList'][_0x17c1e9(0x1a1)]('hidden'),_0x27aa6d['on']('value',_0x3d9df1=>{const _0x294ae7=_0x17c1e9;if(_0x3d9df1[_0x294ae7(0x24d)]()){_0x3c2700=_0x3d9df1[_0x294ae7(0x168)]();if(_0x3c2700[_0x294ae7(0x20c)]&&_0x3c2700['timeAttack'][_0x294ae7(0x20a)]){if(_0x47b218)clearInterval(_0x47b218);const _0x450b15=_0x3c2700[_0x294ae7(0x20c)][_0x294ae7(0x161)],_0x334c10=Date[_0x294ae7(0x22e)]()-_0x450b15,_0x1303e4=_0x5256e2-Math[_0x294ae7(0x19b)](_0x334c10/0x3e8);_0x1303e4<=0x0?(_0x344ee9(_0x294ae7(0x1d8)),_0x369880(),_0x225543=![]):(!_0x225543&&(_0x344ee9(_0x294ae7(0x27e)+Math[_0x294ae7(0x19b)](_0x1303e4/0x3c)+'분)'),_0x225543=!![]),_0x552c41(_0x1303e4),_0x4681d8[_0x294ae7(0x158)][_0x294ae7(0x1cd)]=!![],_0x4681d8[_0x294ae7(0x158)]['textContent']=_0x294ae7(0x1d3),_0x4681d8[_0x294ae7(0x183)][_0x294ae7(0x1de)][_0x294ae7(0x20f)](_0x294ae7(0x1f1)),_0x4681d8[_0x294ae7(0x21c)]['classList'][_0x294ae7(0x20f)](_0x294ae7(0x1f1)));}else{if(_0x47b218)clearInterval(_0x47b218);_0x47b218=null,_0x225543=![],_0x4681d8[_0x294ae7(0x158)]['disabled']=![],_0x4681d8['timeAttackBtn'][_0x294ae7(0x27c)]=_0x294ae7(0x1bf)+_0x5256e2/0x3c+'분)',_0x4681d8[_0x294ae7(0x183)]['classList'][_0x294ae7(0x1a1)]('hidden'),_0x4681d8[_0x294ae7(0x21c)][_0x294ae7(0x1de)]['add'](_0x294ae7(0x1f1));}_0x7b43e0();}else{console[_0x294ae7(0x1e7)](_0x294ae7(0x1ff));const _0x2262fa=_0x2196aa(_0x38cc12);_0x27aa6d[_0x294ae7(0x2c3)](_0x2262fa);}},_0x7ef992=>{const _0x421d18=_0x17c1e9;console[_0x421d18(0x2de)](_0x421d18(0x2e5),_0x7ef992),_0x344ee9(_0x421d18(0x2d0));});}function _0x1390e9(){const _0x311a0a=_0x5c9152,_0x209e62=_0x53c012[_0x311a0a(0x2bd)]('stocks');_0x304504=_0x209e62['on'](_0x311a0a(0x2e9),_0x312390=>{const _0x11501a=_0x311a0a,_0x181aec=_0x312390[_0x11501a(0x168)]();_0x181aec?Object['assign'](_0x130615,_0x181aec):console[_0x11501a(0x1e7)]('마켓\x20데이터\x20없음.\x20초기화\x20시도...');if(_0x3c2700&&_0x3c2700[_0x11501a(0x252)])for(const _0x2c9a5f in _0x3c2700[_0x11501a(0x252)]){const _0xa28e7f=_0x3c2700[_0x11501a(0x252)][_0x2c9a5f],_0x49d5e5=_0x130615[_0x2c9a5f];_0xa28e7f&&_0xa28e7f[_0x11501a(0x1be)]>0x0&&_0x49d5e5&&_0x49d5e5['isDelisted']&&_0x4ac951(_0x2c9a5f);}_0x21ee53(),_0x8a0133(),_0x589b55(),_0x322842();});}function _0x15280c(){const _0x31c3e4=_0x5c9152,_0x4a4728=parseInt(_0x4681d8[_0x31c3e4(0x23c)][_0x31c3e4(0x2e9)],0xa),_0x5da6a8=_0x311427;if(isNaN(_0x4a4728)||_0x4a4728<=0x0){_0x344ee9('유효한\x20수량을\x20입력하세요.');return;}_0x27aa6d[_0x31c3e4(0x208)](_0x152c46=>{const _0x49932b=_0x31c3e4;if(!_0x152c46)return;const _0x3e2100=_0x130615[_0x5da6a8];if(!_0x3e2100||_0x3e2100[_0x49932b(0x213)]||typeof _0x3e2100[_0x49932b(0x234)]!=='number'||isNaN(_0x3e2100[_0x49932b(0x234)])){_0x344ee9(_0x49932b(0x247));return;}const _0x5eb83f=_0x3e2100[_0x49932b(0x234)],_0x2b13aa=_0x5eb83f*_0x4a4728*(0x1+_0x2fc9b6);if(isNaN(_0x2b13aa)){console[_0x49932b(0x2de)](_0x49932b(0x1ad)),_0x344ee9('거래\x20비용\x20계산에\x20실패했습니다.\x20(FEE_RATE\x20오류)');return;}let _0x2aff14=Number(_0x152c46[_0x49932b(0x282)]);isNaN(_0x2aff14)&&(_0x2aff14=0x0);if(_0x2aff14<_0x2b13aa){_0x344ee9(_0x49932b(0x15e));return;}!_0x152c46[_0x49932b(0x252)][_0x5da6a8]&&(_0x152c46['stocks'][_0x5da6a8]={'shares':0x0,'averagePrice':0x0});const _0x2affce=_0x152c46[_0x49932b(0x252)][_0x5da6a8];let _0x51aa67=Number(_0x2affce[_0x49932b(0x1be)]);isNaN(_0x51aa67)&&(_0x51aa67=0x0);let _0x1b811e=Number(_0x2affce['averagePrice']);isNaN(_0x1b811e)&&(_0x1b811e=0x0);_0x152c46[_0x49932b(0x282)]=_0x2aff14-_0x2b13aa;const _0x2df4cc=_0x51aa67+_0x4a4728,_0x503424=_0x1b811e*_0x51aa67+_0x5eb83f*_0x4a4728,_0x56ef3c=_0x503424/_0x2df4cc;return _0x2affce[_0x49932b(0x1be)]=_0x2df4cc,_0x2affce[_0x49932b(0x1a2)]=_0x56ef3c,_0x3671d1(_0x152c46,_0x49932b(0x21e)+(_0x3e2100[_0x49932b(0x22d)]||_0x5da6a8)+'\x20('+_0x5da6a8+')\x20'+_0x4a4728+_0x49932b(0x2b3)+_0x1c68fc(_0x2b13aa)+')','buy'),_0x152c46;})[_0x31c3e4(0x16f)](_0x37ff67=>{const _0x59bba6=_0x31c3e4;if(!_0x37ff67[_0x59bba6(0x2ae)]){}})[_0x31c3e4(0x172)](_0x419753=>{const _0x2199c5=_0x31c3e4;console[_0x2199c5(0x2de)](_0x2199c5(0x2dd),_0x419753),_0x344ee9(_0x2199c5(0x14c));});}function _0x428e2b(){const _0x35c897=_0x5c9152,_0x41c7c3=_0x311427;_0x27aa6d['transaction'](_0x18b698=>{const _0x1d6314=_0x5274;if(!_0x18b698)return;const _0x180699=_0x130615[_0x41c7c3];if(!_0x180699||_0x180699[_0x1d6314(0x213)]||typeof _0x180699[_0x1d6314(0x234)]!==_0x1d6314(0x229)||isNaN(_0x180699['price'])){_0x344ee9('현재\x20거래할\x20수\x20없는\x20종목입니다.\x20(가격\x20정보\x20오류)');return;}const _0x1f6f8c=_0x180699[_0x1d6314(0x234)],_0x356e16=_0x1f6f8c*(0x1+_0x2fc9b6);if(isNaN(_0x356e16)){console['error'](_0x1d6314(0x292)),_0x344ee9(_0x1d6314(0x18c));return;}let _0x21db43=Number(_0x18b698[_0x1d6314(0x282)]);isNaN(_0x21db43)&&(_0x21db43=0x0);const _0x3ac7ec=Math['floor'](_0x21db43/_0x356e16);if(_0x3ac7ec<=0x0){_0x344ee9(_0x1d6314(0x1cc));return;}const _0x537a9e=_0x3ac7ec*_0x356e16;!_0x18b698['stocks'][_0x41c7c3]&&(_0x18b698[_0x1d6314(0x252)][_0x41c7c3]={'shares':0x0,'averagePrice':0x0});const _0x175b4d=_0x18b698[_0x1d6314(0x252)][_0x41c7c3];let _0x3fae61=Number(_0x175b4d[_0x1d6314(0x1be)]);isNaN(_0x3fae61)&&(_0x3fae61=0x0);let _0x50837e=Number(_0x175b4d[_0x1d6314(0x1a2)]);isNaN(_0x50837e)&&(_0x50837e=0x0);_0x18b698[_0x1d6314(0x282)]=_0x21db43-_0x537a9e;const _0x193c3e=_0x3fae61+_0x3ac7ec,_0x4c3d05=_0x50837e*_0x3fae61+_0x1f6f8c*_0x3ac7ec,_0x3c7189=_0x4c3d05/_0x193c3e;return _0x175b4d[_0x1d6314(0x1be)]=_0x193c3e,_0x175b4d[_0x1d6314(0x1a2)]=_0x3c7189,_0x3671d1(_0x18b698,_0x1d6314(0x2b1)+(_0x180699[_0x1d6314(0x22d)]||_0x41c7c3)+'\x20('+_0x41c7c3+')\x20'+_0x3ac7ec+_0x1d6314(0x2b3)+_0x1c68fc(_0x537a9e)+')',_0x1d6314(0x22f)),_0x18b698;})[_0x35c897(0x16f)](_0x164658=>{const _0x27b24e=_0x35c897;if(!_0x164658[_0x27b24e(0x2ae)]){}})[_0x35c897(0x172)](_0x1c30b7=>{const _0x31f498=_0x35c897;console['error'](_0x31f498(0x1e4),_0x1c30b7),_0x344ee9('전액\x20매수\x20실패.\x20DB\x20오류가\x20발생했습니다.\x20(NaN\x20또는\x20undefined\x20저장\x20시도)');});}function _0x201386(){const _0x27e0a2=_0x5c9152,_0x420588=parseInt(_0x4681d8['amount'][_0x27e0a2(0x2e9)],0xa),_0x4e38b0=_0x311427;if(isNaN(_0x420588)||_0x420588<=0x0){_0x344ee9(_0x27e0a2(0x188));return;}_0x27aa6d[_0x27e0a2(0x208)](_0x55910e=>{const _0x2e0ef8=_0x27e0a2;if(!_0x55910e)return;const _0x30d02c=_0x55910e['stocks'][_0x4e38b0];let _0x1b4c19=Number(_0x30d02c?_0x30d02c[_0x2e0ef8(0x1be)]:0x0);isNaN(_0x1b4c19)&&(_0x1b4c19=0x0);let _0x5784d3=Number(_0x30d02c?_0x30d02c[_0x2e0ef8(0x1a2)]:0x0);isNaN(_0x5784d3)&&(_0x5784d3=0x0);let _0x3a52b9=Number(_0x55910e[_0x2e0ef8(0x282)]);isNaN(_0x3a52b9)&&(_0x3a52b9=0x0);if(_0x1b4c19<=0x0){_0x344ee9(_0x2e0ef8(0x156));return;}if(_0x420588>_0x1b4c19){_0x344ee9('보유\x20수량보다\x20많이\x20매도할\x20수\x20없습니다.');return;}const _0xb6e561=_0x130615[_0x4e38b0];if(!_0xb6e561||_0xb6e561[_0x2e0ef8(0x213)]||typeof _0xb6e561[_0x2e0ef8(0x234)]!==_0x2e0ef8(0x229)||isNaN(_0xb6e561[_0x2e0ef8(0x234)])){_0x344ee9(_0x2e0ef8(0x247));return;}const _0x426f3c=_0xb6e561['price'],_0x41be4a=_0x426f3c*_0x420588*(0x1-_0x2fc9b6);if(isNaN(_0x41be4a)){console[_0x2e0ef8(0x2de)](_0x2e0ef8(0x196)),_0x344ee9(_0x2e0ef8(0x18b));return;}const _0x184424=(_0x426f3c-_0x5784d3)*_0x420588-_0x426f3c*_0x420588*_0x2fc9b6;return _0x55910e['cash']=_0x3a52b9+_0x41be4a,_0x30d02c['shares']=_0x1b4c19-_0x420588,_0x30d02c[_0x2e0ef8(0x1be)]===0x0&&(_0x30d02c[_0x2e0ef8(0x1a2)]=0x0),_0x3671d1(_0x55910e,'[매도]\x20'+(_0xb6e561[_0x2e0ef8(0x22d)]||_0x4e38b0)+'\x20('+_0x4e38b0+')\x20'+_0x420588+_0x2e0ef8(0x1bd)+_0x1c68fc(_0x184424)+')',_0x2e0ef8(0x1ae)),_0x55910e;})[_0x27e0a2(0x16f)](_0x33f22e=>{const _0x1f8300=_0x27e0a2;if(!_0x33f22e[_0x1f8300(0x2ae)]){}})['catch'](_0x1bb0f2=>{const _0x16a5ba=_0x27e0a2;console[_0x16a5ba(0x2de)](_0x16a5ba(0x28c),_0x1bb0f2),_0x344ee9('매도\x20실패.\x20DB\x20오류가\x20발생했습니다.\x20(NaN\x20또는\x20undefined\x20저장\x20시도)');});}function _0x41c4e9(){const _0x1e68c1=_0x5c9152,_0x133381=_0x1e68c1(0x1f9);_0x48b5a6(_0x133381,()=>{const _0x1ffa73=_0x1e68c1;_0x27aa6d['transaction'](_0x11e4f6=>{const _0x9570a1=_0x5274;if(!_0x11e4f6)return;!_0x11e4f6['stocks']&&(_0x11e4f6[_0x9570a1(0x252)]={});let _0x2de49f=0x0,_0x2b3b77=0x0,_0x507b78=0x0,_0x7c7857=Number(_0x11e4f6[_0x9570a1(0x282)]);isNaN(_0x7c7857)&&(_0x7c7857=0x0);!Array[_0x9570a1(0x1f7)](_0x11e4f6[_0x9570a1(0x2d6)])&&(_0x11e4f6[_0x9570a1(0x2d6)]=[]);for(const _0x42b1c5 in _0x11e4f6[_0x9570a1(0x252)]){const _0x249c4d=_0x11e4f6[_0x9570a1(0x252)][_0x42b1c5];let _0x22174e=Number(_0x249c4d?_0x249c4d[_0x9570a1(0x1be)]:0x0);isNaN(_0x22174e)&&(_0x22174e=0x0);let _0x594405=Number(_0x249c4d?_0x249c4d[_0x9570a1(0x1a2)]:0x0);isNaN(_0x594405)&&(_0x594405=0x0);if(_0x22174e>0x0){const _0x4dcc7b=_0x130615[_0x42b1c5];if(_0x4dcc7b&&!_0x4dcc7b['isDelisted']&&typeof _0x4dcc7b[_0x9570a1(0x234)]==='number'&&!isNaN(_0x4dcc7b[_0x9570a1(0x234)])){const _0x1bbf92=_0x4dcc7b['price'],_0x1d1b69=_0x1bbf92*_0x22174e*(0x1-_0x2fc9b6);if(isNaN(_0x1d1b69)){console[_0x9570a1(0x2de)](_0x9570a1(0x2c4)+_0x42b1c5+'\x20수익(revenue)\x20계산\x20실패.\x20FEE_RATE\x20확인.');continue;}_0x2de49f+=_0x1d1b69,_0x2b3b77+=(_0x1bbf92-_0x594405)*_0x22174e-_0x1bbf92*_0x22174e*_0x2fc9b6,_0x507b78++,_0x249c4d[_0x9570a1(0x1be)]=0x0,_0x249c4d[_0x9570a1(0x1a2)]=0x0;}else console[_0x9570a1(0x1e7)](_0x9570a1(0x2c4)+_0x42b1c5+_0x9570a1(0x283));}}if(_0x507b78>0x0)_0x11e4f6['cash']=_0x7c7857+_0x2de49f,_0x3671d1(_0x11e4f6,_0x9570a1(0x2c4)+_0x507b78+_0x9570a1(0x2a5)+_0x1c68fc(_0x2de49f)+_0x9570a1(0x2c9)+_0x1c68fc(_0x2b3b77)+')','sell');else return;return _0x11e4f6;})[_0x1ffa73(0x16f)](_0x1bf627=>{const _0x161e75=_0x1ffa73;if(!_0x1bf627[_0x161e75(0x2ae)])_0x344ee9(_0x161e75(0x2da));else{}})[_0x1ffa73(0x172)](_0x10aeab=>{const _0x3490c1=_0x1ffa73;console[_0x3490c1(0x2de)](_0x3490c1(0x1df),_0x10aeab),_0x344ee9('전액\x20매도\x20실패.\x20DB\x20오류가\x20발생했습니다.\x20(NaN\x20또는\x20undefined\x20저장\x20시도)');});});}function _0x4ac951(_0x32a9f7){const _0x467885=_0x5c9152,_0x38feea=_0x130615[_0x32a9f7];if(!_0x38feea||typeof _0x38feea['price']!=='number'||isNaN(_0x38feea[_0x467885(0x234)])){console[_0x467885(0x2de)](_0x467885(0x179)+_0x32a9f7+_0x467885(0x219));return;}const _0x4f9be6=_0x38feea[_0x467885(0x234)],_0x283791=_0x4f9be6*(0x1-_0x2fc9b6);if(isNaN(_0x283791)){console[_0x467885(0x2de)](_0x467885(0x179)+_0x32a9f7+_0x467885(0x250));return;}_0x27aa6d['transaction'](_0x5441c0=>{const _0x3565b4=_0x467885;if(!_0x5441c0)return;const _0x193124=_0x5441c0[_0x3565b4(0x252)][_0x32a9f7];let _0x59f83b=Number(_0x193124?_0x193124['shares']:0x0);if(isNaN(_0x59f83b)||_0x59f83b<=0x0)return;let _0x52bfd6=Number(_0x193124?_0x193124[_0x3565b4(0x1a2)]:0x0);isNaN(_0x52bfd6)&&(_0x52bfd6=0x0);let _0x54c085=Number(_0x5441c0[_0x3565b4(0x282)]);isNaN(_0x54c085)&&(_0x54c085=0x0);const _0x373b55=_0x283791*_0x59f83b,_0x4c992b=(_0x4f9be6-_0x52bfd6)*_0x59f83b-_0x4f9be6*_0x59f83b*_0x2fc9b6;return _0x5441c0['cash']=_0x54c085+_0x373b55,_0x193124[_0x3565b4(0x1be)]=0x0,_0x193124[_0x3565b4(0x1a2)]=0x0,_0x5441c0;})[_0x467885(0x172)](_0x35a37b=>{const _0x2b67bc=_0x467885;_0x35a37b&&console[_0x2b67bc(0x2de)](_0x2b67bc(0x179)+_0x32a9f7+'\x20트랜잭션\x20실패:',_0x35a37b);});}function _0x53fde1(){const _0x3b347c=_0x5c9152,_0x6f0a34=prompt('관리자\x20비밀번호를\x20입력하세요\x20(기본값:\x20admin):');if(_0x6f0a34===_0x3b347c(0x211)){if(confirm(_0x3b347c(0x22a)))try{const _0x2ee033=_0x286747(),_0x492367=_0x53c012[_0x3b347c(0x2bd)](_0x3b347c(0x252))['set'](_0x2ee033),_0x495e36=_0x27aa6d[_0x3b347c(0x20f)]();Promise['all']([_0x492367,_0x495e36])['then'](()=>{const _0x3305ea=_0x3b347c;_0x344ee9('✅\x20Admin\x20Reset\x20완료',_0x3305ea(0x1db)),location[_0x3305ea(0x1a0)]();})[_0x3b347c(0x172)](_0x35c723=>{const _0x3be285=_0x3b347c;console[_0x3be285(0x2de)](_0x3be285(0x2b8),_0x35c723),_0x344ee9(_0x3be285(0x1fb),_0x3be285(0x2ed));});}catch(_0x44b7f2){console['error'](_0x3b347c(0x1b8),_0x44b7f2),_0x344ee9(_0x3b347c(0x1fb),_0x3b347c(0x170));}}else _0x6f0a34!==null&&_0x344ee9(_0x3b347c(0x1b3));}function _0x3c6682(){const _0x2fa5f6=_0x5c9152;if(!_0x4681d8[_0x2fa5f6(0x1b7)])return;const _0x58d499=_0x4681d8[_0x2fa5f6(0x1b7)][_0x2fa5f6(0x2e9)][_0x2fa5f6(0x2ad)]();if(!_0x58d499){_0x344ee9(_0x2fa5f6(0x2c7));return;}const _0x1df692=_0x577e0b[_0x2fa5f6(0x23f)](_0x2fa5f6(0x2b6));_0x1df692[_0x2fa5f6(0x29c)]({'timestamp':firebase[_0x2fa5f6(0x1a9)][_0x2fa5f6(0x2d1)][_0x2fa5f6(0x180)],'message':_0x58d499})[_0x2fa5f6(0x16f)](()=>{const _0xcf422c=_0x2fa5f6;_0x344ee9('뉴스를\x20성공적으로\x20게시했습니다.'),_0x4681d8['adminNewsContent'][_0xcf422c(0x2e9)]='';})[_0x2fa5f6(0x172)](_0x8ab18b=>{const _0x5afebd=_0x2fa5f6;console[_0x5afebd(0x2de)](_0x5afebd(0x210),_0x8ab18b),_0x344ee9(_0x5afebd(0x25a));});}function _0x45bd02(){const _0x54d2fb=_0x5c9152;if(!_0x4681d8[_0x54d2fb(0x2a1)]||!_0x4681d8[_0x54d2fb(0x28d)])return;const _0x51bc82=_0x4681d8['adminStockTicker'][_0x54d2fb(0x2e9)][_0x54d2fb(0x2ad)]()['toUpperCase'](),_0x2e4740=parseFloat(_0x4681d8[_0x54d2fb(0x28d)][_0x54d2fb(0x2e9)]);if(!_0x51bc82){_0x344ee9('종목\x20코드를\x20입력하세요.');return;}if(isNaN(_0x2e4740)||_0x2e4740<=0x0){_0x344ee9(_0x54d2fb(0x1d9));return;}const _0x42dc2=_0x577e0b[_0x54d2fb(0x23f)](_0x54d2fb(0x2d8)+_0x51bc82);_0x42dc2['transaction'](_0x1698f4=>{const _0x6b7b1c=_0x54d2fb;if(_0x1698f4===null)return console[_0x6b7b1c(0x26d)](_0x6b7b1c(0x2a7)+_0x51bc82+'는\x20새\x20종목입니다.\x20history를\x20새로\x20시작합니다.'),{'price':_0x2e4740,'history':[_0x2e4740],'isDelisted':![]};let _0x1249cd=[];_0x1698f4[_0x6b7b1c(0x2d6)]&&Array['isArray'](_0x1698f4[_0x6b7b1c(0x2d6)])&&(_0x1249cd=_0x1698f4[_0x6b7b1c(0x2d6)]);_0x1249cd['push'](_0x2e4740);while(_0x1249cd[_0x6b7b1c(0x19c)]>0x1e){_0x1249cd['shift']();}return{..._0x1698f4,'price':_0x2e4740,'history':_0x1249cd};},(_0x27a627,_0x2b376c,_0x11f63f)=>{const _0x4ea4aa=_0x54d2fb;if(_0x27a627)console[_0x4ea4aa(0x2de)](_0x4ea4aa(0x1c9),_0x27a627),_0x344ee9(_0x4ea4aa(0x209)+_0x27a627[_0x4ea4aa(0x15c)]+')');else!_0x2b376c?console[_0x4ea4aa(0x26d)]('주가\x20설정\x20트랜잭션이\x20커밋되지\x20않았습니다.\x20(데이터\x20경합)'):(_0x344ee9('['+_0x51bc82+']\x20종목의\x20가격을\x20'+_0x1c68fc(_0x2e4740)+_0x4ea4aa(0x184)),_0x4681d8[_0x4ea4aa(0x2a1)]['value']='',_0x4681d8[_0x4ea4aa(0x28d)][_0x4ea4aa(0x2e9)]='');});}function _0xfb7438(){const _0x2afb20=_0x5c9152,_0x1b7991=new firebase[(_0x2afb20(0x212))][(_0x2afb20(0x2cd))]();_0x4edcbf[_0x2afb20(0x22b)](_0x1b7991)['catch'](_0x1383fe=>{const _0x467cd1=_0x2afb20;console['error'](_0x467cd1(0x2b5),_0x1383fe),_0x344ee9(_0x467cd1(0x1af)+_0x1383fe[_0x467cd1(0x15c)]);});}function _0x93eb7(){const _0x2a36f5=_0x5c9152;_0x4edcbf[_0x2a36f5(0x298)]();}function _0x33eb39(){const _0x23d405=_0x5c9152;!_0x3c2700[_0x23d405(0x1a8)]&&(_0x3c2700[_0x23d405(0x1a8)]={'checking':0x0,'savings':0x0,'loan':0x0,'loanRepay':0x0,'savingsTimestamp':null,'loanTimestamp':null},_0x27aa6d[_0x23d405(0x2bd)](_0x23d405(0x1a8))['set'](_0x3c2700[_0x23d405(0x1a8)]));_0x4681d8[_0x23d405(0x26b)]&&(_0x4681d8['bankModalCash'][_0x23d405(0x27c)]=_0x1c68fc(_0x3c2700['cash']));if(_0x4681d8['maxLoanInfo']){const _0x2a13b2=(Number(_0x3c2700[_0x23d405(0x282)])||0x0)*0x3;_0x4681d8[_0x23d405(0x2a2)][_0x23d405(0x27c)]=_0x1c68fc(_0x2a13b2);}_0x4681d8['bankModal'][_0x23d405(0x1de)]['remove'](_0x23d405(0x1f1)),_0x4681d8[_0x23d405(0x23a)][_0x23d405(0x1de)]['add'](_0x23d405(0x244));if(_0x2f5615)clearInterval(_0x2f5615);_0x13700d(),_0x2f5615=setInterval(_0x13700d,0x3e8);}function _0x1631f5(){const _0xec2c02=_0x5c9152;_0x2f5615&&(clearInterval(_0x2f5615),_0x2f5615=null),_0x4681d8[_0xec2c02(0x23a)]['classList'][_0xec2c02(0x1a1)](_0xec2c02(0x1f1)),_0x4681d8[_0xec2c02(0x23a)][_0xec2c02(0x1de)][_0xec2c02(0x20f)]('flex');}function _0x5cd9a3(_0x55c551){const _0x349fa1=_0x5c9152;_0x27aa6d[_0x349fa1(0x208)](_0x578cb9=>{const _0x512d25=_0x349fa1;if(!_0x578cb9)return;!_0x578cb9['bank']&&(_0x578cb9[_0x512d25(0x1a8)]={'savings':0x0,'savingsTimestamp':null,'loan':0x0,'loanTimestamp':null,'loanRepayTimestamp':null,'bankruptTimestamp':null});let _0x53fca8=Number(_0x578cb9[_0x512d25(0x282)])||0x0,_0x226d6b=Number(_0x578cb9[_0x512d25(0x1a8)][_0x512d25(0x175)])||0x0;if(_0x55c551===_0x512d25(0x2c2)){let _0x133fb2=Number(_0x4681d8['saveAmount'][_0x512d25(0x2e9)]);if(isNaN(_0x133fb2)||_0x133fb2<=0x0){_0x344ee9(_0x512d25(0x258));return;}if(_0x578cb9[_0x512d25(0x1a8)][_0x512d25(0x15d)]>0x0){_0x344ee9(_0x512d25(0x2cc));return;}if(_0x226d6b>0x0){_0x344ee9('이미\x20예금이\x20있습니다.\x20전액\x20인출\x20후\x20다시\x20시도하세요.\x20(추가\x20예금\x20불가)');return;}if(_0x53fca8<_0x133fb2){_0x344ee9(_0x512d25(0x285));return;}_0x578cb9['cash']=_0x53fca8-_0x133fb2,_0x578cb9[_0x512d25(0x1a8)][_0x512d25(0x175)]=_0x226d6b+_0x133fb2,_0x578cb9[_0x512d25(0x1a8)][_0x512d25(0x181)]=firebase[_0x512d25(0x1a9)][_0x512d25(0x2d1)][_0x512d25(0x180)];}else{if(_0x55c551==='withdraw'){if(_0x226d6b<=0x0){_0x344ee9(_0x512d25(0x1cf));return;}let _0x16f1d4=_0x226d6b;const _0x4e9f2b=_0x578cb9[_0x512d25(0x1a8)][_0x512d25(0x181)];if(_0x4e9f2b){const _0x43583b=Date[_0x512d25(0x22e)](),_0x528c01=_0x43583b-_0x4e9f2b,_0x34d5ed=0.02,_0x4e5fe8=0xa*0x3c*0x3e8,_0x3be91d=_0x528c01/_0x4e5fe8;if(_0x3be91d>0x0){const _0x3d825b=_0x226d6b*Math[_0x512d25(0x2a9)](0x1+_0x34d5ed,_0x3be91d),_0x13c4a7=Math[_0x512d25(0x19b)](_0x3d825b);_0x16f1d4=_0x13c4a7;const _0x360920=_0x13c4a7-_0x226d6b;if(_0x360920>0x0){const _0x28f537=_0x528c01/(0x3c*0x3e8);_0x344ee9('총\x20'+_0x28f537[_0x512d25(0x227)](0x1)+_0x512d25(0x242)+_0x360920[_0x512d25(0x1a6)]()+_0x512d25(0x249));}}}_0x578cb9[_0x512d25(0x282)]=_0x53fca8+_0x16f1d4,_0x578cb9[_0x512d25(0x1a8)][_0x512d25(0x175)]=0x0,_0x578cb9[_0x512d25(0x1a8)][_0x512d25(0x181)]=null;}}return _0x578cb9;})[_0x349fa1(0x172)](_0x55fa9c=>{const _0x13c21f=_0x349fa1;console[_0x13c21f(0x2de)](_0x13c21f(0x191),_0x55fa9c),_0x344ee9(_0x13c21f(0x151));});}function _0x27f536(_0x3ad44f){const _0xf3558b=_0x5c9152,_0xcc40a7=Date[_0xf3558b(0x22e)]();_0x27aa6d['transaction'](_0x1397ff=>{const _0x1c679d=_0xf3558b;if(!_0x1397ff)return;!_0x1397ff[_0x1c679d(0x1a8)]&&(_0x1397ff[_0x1c679d(0x1a8)]={'savings':0x0,'savingsTimestamp':null,'loan':0x0,'loanTimestamp':null,'loanRepayTimestamp':null,'bankruptTimestamp':null});let _0xa34fc0=Number(_0x1397ff['cash'])||0x0,_0x196e2b=Number(_0x1397ff[_0x1c679d(0x1a8)][_0x1c679d(0x15d)])||0x0;if(_0x3ad44f==='loan'){const _0x3a2896=_0x1397ff[_0x1c679d(0x1a8)][_0x1c679d(0x220)],_0x38a69e=0xa*0x3c*0x3e8;if(_0x3a2896&&_0xcc40a7-_0x3a2896<_0x38a69e){const _0x2ccc16=_0x38a69e-(_0xcc40a7-_0x3a2896),_0x3ecfd4=Math[_0x1c679d(0x19b)](_0x2ccc16/0x3e8),_0x45871e=Math['floor'](_0x3ecfd4/0x3c),_0x1c9d18=_0x3ecfd4%0x3c;_0x344ee9(_0x1c679d(0x14e)+_0x45871e+'분\x20'+_0x1c9d18+'초)');return;}let _0x31bbce=Number(_0x4681d8['loanAmount'][_0x1c679d(0x2e9)]);if(isNaN(_0x31bbce)||_0x31bbce<=0x0){_0x344ee9(_0x1c679d(0x260));return;}if(_0x196e2b>0x0){_0x344ee9('이미\x20대출이\x20있습니다.\x20전액\x20상환\x20후\x20다시\x20시도하세요.\x20(추가\x20대출\x20불가)');return;}const _0x546b57=_0xa34fc0*0x3;if(_0x31bbce>_0x546b57){_0x344ee9(_0x1c679d(0x2db)+_0x1c68fc(_0x546b57)+')');return;}const _0x2aee25=_0x31bbce*0.2,_0x574495=_0x31bbce+_0x2aee25;_0x1397ff['cash']=_0xa34fc0+_0x31bbce,_0x1397ff[_0x1c679d(0x1a8)][_0x1c679d(0x15d)]=_0x574495,_0x1397ff['bank']['loanTimestamp']=firebase['database'][_0x1c679d(0x2d1)][_0x1c679d(0x180)],_0x1397ff[_0x1c679d(0x1a8)][_0x1c679d(0x220)]=null;}else{if(_0x3ad44f==='repay'){if(_0x196e2b<=0x0){_0x344ee9('상환할\x20대출금이\x20없습니다.');return;}if(_0xa34fc0<_0x196e2b){_0x344ee9('대출금\x20전액을\x20상환할\x20현금이\x20부족합니다.');return;}_0x1397ff[_0x1c679d(0x282)]=_0xa34fc0-_0x196e2b,_0x1397ff[_0x1c679d(0x1a8)]['loan']=0x0,_0x1397ff[_0x1c679d(0x1a8)][_0x1c679d(0x24a)]=null,_0x1397ff[_0x1c679d(0x1a8)]['loanRepayTimestamp']=firebase[_0x1c679d(0x1a9)]['ServerValue'][_0x1c679d(0x180)];}}return _0x1397ff;})[_0xf3558b(0x172)](_0x25ca20=>{const _0x1fe081=_0xf3558b;console['error'](_0x1fe081(0x232),_0x25ca20),_0x344ee9(_0x1fe081(0x26f));});}function _0x2c9510(){const _0x9e1b11=_0x5c9152,_0x37c425=Date[_0x9e1b11(0x22e)]();if(!_0x27aa6d)return;_0x27aa6d['transaction'](_0x152f4d=>{const _0x1958bf=_0x9e1b11;if(!_0x152f4d||!_0x152f4d[_0x1958bf(0x1a8)])return;const _0x458ff5=_0x152f4d['bank'];let _0x32f910=[];const _0x2a5d0d=0xa*0x3c*0x3e8,_0x1958a4=Number(_0x458ff5[_0x1958bf(0x175)])||0x0,_0x48e22d=_0x458ff5['savingsTimestamp'];if(_0x1958a4>0x0&&_0x48e22d&&_0x37c425-_0x48e22d>=_0x2a5d0d){const _0x292e21=_0x1958a4*0.03;_0x458ff5[_0x1958bf(0x175)]+=_0x292e21,_0x458ff5[_0x1958bf(0x181)]=_0x37c425;}const _0x47c8e9=Number(_0x458ff5[_0x1958bf(0x15d)])||0x0;return _0x152f4d;});}function _0x3acf34(){const _0x1aefbb=_0x5c9152,_0x1e1d33=_0x1aefbb(0x233);_0x48b5a6(_0x1e1d33,_0x166526);}function _0x166526(){const _0x7e02b8=_0x5c9152,_0x2aa1b0=Date[_0x7e02b8(0x22e)]();_0x27aa6d[_0x7e02b8(0x208)](_0x39e330=>{const _0x1943e1=_0x7e02b8;if(!_0x39e330)return;!_0x39e330[_0x1943e1(0x1a8)]&&(_0x39e330[_0x1943e1(0x1a8)]={'savings':0x0,'savingsTimestamp':null,'loan':0x0,'loanTimestamp':null,'loanRepayTimestamp':null,'bankruptTimestamp':null});const _0x55a971=_0x39e330[_0x1943e1(0x1a8)][_0x1943e1(0x202)],_0x204ba2=0xa*0x3c*0x3e8;if(_0x55a971&&_0x2aa1b0-_0x55a971<_0x204ba2){const _0x27132b=_0x204ba2-(_0x2aa1b0-_0x55a971),_0x315a53=Math[_0x1943e1(0x19b)](_0x27132b/0x3e8),_0x34e37a=Math[_0x1943e1(0x19b)](_0x315a53/0x3c),_0x468c79=_0x315a53%0x3c;_0x344ee9(_0x1943e1(0x1c4)+_0x34e37a+'분\x20'+_0x468c79+'초)');return;}const _0x2985da={};return _0x277d40['forEach'](_0x1e2eea=>{_0x2985da[_0x1e2eea]={'shares':0x0,'averagePrice':0x0};}),_0x39e330[_0x1943e1(0x252)]=_0x2985da,_0x39e330[_0x1943e1(0x282)]=0x2dc6c0,_0x39e330[_0x1943e1(0x1a8)]={'checking':0x0,'savings':0x0,'loan':0x4c4b40,'savingsTimestamp':null,'loanTimestamp':null,'loanRepayTimestamp':null,'bankruptTimestamp':_0x2aa1b0},_0x3671d1(_0x39e330,_0x1943e1(0x27a),'system'),_0x39e330;})['catch'](_0x319151=>{const _0x3f22f1=_0x7e02b8;console[_0x3f22f1(0x2de)](_0x3f22f1(0x1f8),_0x319151),_0x344ee9(_0x3f22f1(0x1c5));});}function _0x5cd9a3(_0xb481e3){const _0x525fc2=_0x5c9152;_0x27aa6d[_0x525fc2(0x208)](_0x20d043=>{const _0x16ac7f=_0x525fc2;if(!_0x20d043)return;!_0x20d043[_0x16ac7f(0x1a8)]&&(_0x20d043[_0x16ac7f(0x1a8)]={'savings':0x0,'savingsTimestamp':null,'loan':0x0,'loanTimestamp':null});let _0x1aafa1=Number(_0x20d043['cash'])||0x0,_0x18efc8=Number(_0x20d043['bank']['savings'])||0x0;if(_0xb481e3===_0x16ac7f(0x2c2)){let _0x54bc6d=Number(_0x4681d8[_0x16ac7f(0x1c1)]['value']);if(isNaN(_0x54bc6d)||_0x54bc6d<=0x0){_0x344ee9(_0x16ac7f(0x258));return;}if(_0x20d043[_0x16ac7f(0x1a8)]['loan']>0x0){_0x344ee9(_0x16ac7f(0x2cc));return;}if(_0x18efc8>0x0){_0x344ee9('이미\x20예금이\x20있습니다.\x20전액\x20인출\x20후\x20다시\x20시도하세요.\x20(추가\x20예금\x20불가)');return;}if(_0x1aafa1<_0x54bc6d){_0x344ee9(_0x16ac7f(0x285));return;}_0x20d043[_0x16ac7f(0x282)]=_0x1aafa1-_0x54bc6d,_0x20d043['bank'][_0x16ac7f(0x175)]=_0x18efc8+_0x54bc6d,_0x20d043['bank'][_0x16ac7f(0x181)]=firebase[_0x16ac7f(0x1a9)][_0x16ac7f(0x2d1)][_0x16ac7f(0x180)];}else{if(_0xb481e3===_0x16ac7f(0x162)){if(_0x18efc8<=0x0){_0x344ee9(_0x16ac7f(0x1cf));return;}let _0x568a19=_0x18efc8;_0x20d043[_0x16ac7f(0x282)]=_0x1aafa1+_0x568a19,_0x20d043[_0x16ac7f(0x1a8)][_0x16ac7f(0x175)]=0x0,_0x20d043['bank'][_0x16ac7f(0x181)]=null;}}return _0x20d043;})[_0x525fc2(0x172)](_0x90c292=>{const _0x58e815=_0x525fc2;console[_0x58e815(0x2de)](_0x58e815(0x191),_0x90c292),_0x344ee9(_0x58e815(0x151));});}function _0x3cb537(){const _0x48434d=_0x5c9152;if(_0x47b218)return _0x344ee9(_0x48434d(0x1ea));const _0x4cf759=_0x48434d(0x26a);_0x48b5a6(_0x4cf759,()=>{const _0x2d5048=_0x48434d;_0x27aa6d[_0x2d5048(0x208)](_0x42dc14=>{const _0x912f8b=_0x2d5048;if(!_0x42dc14)return;if(_0x42dc14[_0x912f8b(0x20c)]&&_0x42dc14[_0x912f8b(0x20c)]['isInTimeAttack'])return;if(_0x42dc14[_0x912f8b(0x231)])return;const _0x5c9a21={'cash':_0x42dc14[_0x912f8b(0x282)],'stocks':_0x42dc14[_0x912f8b(0x252)],'bank':_0x42dc14[_0x912f8b(0x1a8)]},_0x2203d5=_0x35b129();return _0x42dc14[_0x912f8b(0x231)]=_0x5c9a21,_0x42dc14[_0x912f8b(0x282)]=_0x2203d5[_0x912f8b(0x282)],_0x42dc14[_0x912f8b(0x252)]=_0x2203d5[_0x912f8b(0x252)],_0x42dc14['bank']=_0x2203d5[_0x912f8b(0x1a8)],_0x42dc14[_0x912f8b(0x20c)][_0x912f8b(0x20a)]=!![],_0x42dc14[_0x912f8b(0x20c)]['startTime']=Date[_0x912f8b(0x22e)](),_0x42dc14[_0x912f8b(0x20c)][_0x912f8b(0x280)]=null,_0x42dc14;})[_0x2d5048(0x16f)](_0x1c2f98=>{const _0x579924=_0x2d5048;_0x1c2f98[_0x579924(0x2ae)]?_0x344ee9('✅\x20타임\x20어택\x20시작!','30분간\x20초기\x20자본으로\x20최대\x20수익에\x20도전하세요.<br>기존\x20데이터는\x20안전하게\x20보관됩니다.'):_0x344ee9(_0x579924(0x27d),'이미\x20진행\x20중이거나\x20데이터\x20오류가\x20있습니다.');})[_0x2d5048(0x172)](_0x58be2f=>{const _0x5801cb=_0x2d5048;console['error'](_0x5801cb(0x173),_0x58be2f),_0x344ee9('타임\x20어택\x20시작에\x20실패했습니다.\x20(DB\x20오류)');});});}function _0x552c41(_0x2f9130){let _0x2bb279=_0x2f9130;const _0x4da893=()=>{const _0xe4d165=_0x5274,_0xd9669b=Math[_0xe4d165(0x19b)](_0x2bb279/0x3c),_0x172613=_0x2bb279%0x3c;_0x4681d8['timeAttackTimerDisplay'][_0xe4d165(0x27c)]=_0xe4d165(0x23b)+_0xd9669b[_0xe4d165(0x203)]()[_0xe4d165(0x1eb)](0x2,'0')+':'+_0x172613[_0xe4d165(0x203)]()['padStart'](0x2,'0');};_0x4da893(),_0x47b218=setInterval(()=>{_0x2bb279--,_0x4da893(),_0x2bb279<=0x0&&_0x369880();},0x3e8);}function _0x369880(){const _0x2707c9=_0x5c9152;_0x47b218&&(clearInterval(_0x47b218),_0x47b218=null),_0x27aa6d[_0x2707c9(0x208)](_0x21c986=>{const _0xdaec2d=_0x2707c9;if(!_0x21c986)return;if(!_0x21c986[_0xdaec2d(0x20c)]||!_0x21c986[_0xdaec2d(0x20c)]['isInTimeAttack'])return;if(!_0x21c986[_0xdaec2d(0x231)])return console[_0xdaec2d(0x2de)]('심각한\x20오류:\x20타임\x20어택\x20종료\x20시\x20스냅샷\x20데이터가\x20없습니다!'),_0x21c986['timeAttack'][_0xdaec2d(0x20a)]=![],_0x21c986;const _0x32c603=_0x1c293d(_0x21c986,_0x130615),_0x3cba4f=_0x32c603-_0x15f084,_0x223b21=_0x21c986[_0xdaec2d(0x231)];_0x21c986['cash']=_0x223b21['cash'],_0x21c986[_0xdaec2d(0x252)]=_0x223b21[_0xdaec2d(0x252)],_0x21c986['bank']=_0x223b21[_0xdaec2d(0x1a8)],_0x21c986['snapshot']=null,_0x21c986[_0xdaec2d(0x20c)]['isInTimeAttack']=![],_0x21c986[_0xdaec2d(0x20c)]['endTime']=firebase[_0xdaec2d(0x1a9)][_0xdaec2d(0x2d1)][_0xdaec2d(0x180)],_0x21c986[_0xdaec2d(0x20c)]['lastScore']=_0x3cba4f;const _0x36ea64=_0x577e0b[_0xdaec2d(0x23f)](_0xdaec2d(0x18e))['push']();return _0x36ea64[_0xdaec2d(0x2c3)]({'uid':_0x21c986['uid'],'displayName':_0x21c986[_0xdaec2d(0x24f)],'score':_0x3cba4f,'timestamp':firebase[_0xdaec2d(0x1a9)]['ServerValue'][_0xdaec2d(0x180)]}),_0x21c986;})[_0x2707c9(0x16f)](_0x15f805=>{const _0x2708d6=_0x2707c9;_0x15f805[_0x2708d6(0x2ae)]?(_0x344ee9('타임\x20어택\x20종료!','최종\x20점수:\x20'+_0x1c68fc(_0x3c2700['timeAttack'][_0x2708d6(0x1f2)])+'.\x20기존\x20게임을\x20복구합니다.'),_0x4681d8[_0x2708d6(0x158)][_0x2708d6(0x1cd)]=![],_0x4681d8[_0x2708d6(0x158)][_0x2708d6(0x27c)]=_0x2708d6(0x1bf)+_0x5256e2/0x3c+'분)',_0x4681d8['timeAttackTimerDisplay'][_0x2708d6(0x1de)][_0x2708d6(0x1a1)](_0x2708d6(0x1f1)),_0x4681d8['timeAttackCancelBtn'][_0x2708d6(0x1de)][_0x2708d6(0x1a1)](_0x2708d6(0x1f1))):console[_0x2708d6(0x1e7)](_0x2708d6(0x2ab));})[_0x2707c9(0x172)](_0x529db9=>{const _0x39e2b5=_0x2707c9;console['error'](_0x39e2b5(0x2ca),_0x529db9),_0x344ee9('타임\x20어택\x20종료/복원에\x20실패했습니다.\x20(DB\x20오류)');});}function _0x596012(){const _0x1ad10c=_0x5c9152;if(!_0x3c2700[_0x1ad10c(0x20c)]||!_0x3c2700['timeAttack'][_0x1ad10c(0x20a)])return;_0x48b5a6(_0x1ad10c(0x201),()=>{const _0x6e470a=_0x1ad10c;_0x27aa6d[_0x6e470a(0x208)](_0x12fec2=>{const _0x42a7f0=_0x6e470a;if(!_0x12fec2)return;if(_0x12fec2[_0x42a7f0(0x231)]){const _0x53a02c=_0x12fec2['snapshot'];_0x12fec2[_0x42a7f0(0x282)]=_0x53a02c[_0x42a7f0(0x282)],_0x12fec2[_0x42a7f0(0x252)]=_0x53a02c['stocks'],_0x12fec2[_0x42a7f0(0x1a8)]=_0x53a02c['bank'],_0x12fec2[_0x42a7f0(0x231)]=null;}return _0x12fec2[_0x42a7f0(0x20c)][_0x42a7f0(0x20a)]=![],_0x12fec2[_0x42a7f0(0x20c)][_0x42a7f0(0x161)]=null,_0x12fec2[_0x42a7f0(0x20c)]['endTime']=null,_0x12fec2;})['then'](()=>{const _0x3304da=_0x6e470a;_0x344ee9(_0x3304da(0x2d9));});});}function _0x40db7d(){const _0x338c33=_0x5c9152,_0x3dff86=_0x577e0b['ref'](_0x338c33(0x1dc));_0x3dff86['on']('value',_0x53815c=>{const _0x591504=_0x338c33;_0x36df50=_0x53815c[_0x591504(0x168)]()||{},_0x322842();});}function _0x3a3fe0(){const _0x1d4179=_0x5c9152,_0x5049d6=_0x577e0b[_0x1d4179(0x23f)](_0x1d4179(0x18e))[_0x1d4179(0x2c6)]('score')[_0x1d4179(0x2a3)](0x14);_0x5049d6['on']('value',_0x1d3043=>{const _0x25d07e=_0x1d4179,_0x1d1aea=_0x1d3043[_0x25d07e(0x168)]();if(!_0x1d1aea)return;const _0x3bfb30=[];_0x1d3043[_0x25d07e(0x2dc)](_0x129d03=>{const _0x25dfc1=_0x25d07e,_0xc07e31=_0x129d03[_0x25dfc1(0x168)]();_0x3bfb30['push']({'name':_0xc07e31['displayName']||'Anonymous','score':_0xc07e31[_0x25dfc1(0x1b1)]});}),_0x426095=_0x3bfb30[_0x25d07e(0x19d)](),_0x1ca37c===_0x25d07e(0x291)&&_0x1cc8bd();});}function _0x322842(){const _0x4e4cbc=_0x5c9152;if(!_0x36df50||!Object[_0x4e4cbc(0x24e)](_0x130615)[_0x4e4cbc(0x19c)])return;const _0x345358=[];for(const _0x282ddb in _0x36df50){const _0x4d563c=_0x36df50[_0x282ddb];if(!_0x4d563c[_0x4e4cbc(0x1a8)]||!_0x4d563c[_0x4e4cbc(0x252)])continue;const _0x425f8d=_0x1c293d(_0x4d563c,_0x130615);_0x345358[_0x4e4cbc(0x29c)]({'name':_0x4d563c[_0x4e4cbc(0x24f)]||_0x4e4cbc(0x14b),'score':_0x425f8d});}_0x345358['sort']((_0x3f3a1e,_0x3f1a27)=>_0x3f1a27[_0x4e4cbc(0x1b1)]-_0x3f3a1e[_0x4e4cbc(0x1b1)]),_0x91c413=_0x345358,_0x1ca37c==='networth'&&_0x1cc8bd();}function _0x3bb671(_0x19d205){const _0x185634=_0x5c9152;if(_0x19d205===_0x1ca37c)return;_0x1ca37c=_0x19d205,_0x19d205===_0x185634(0x246)?(_0x4681d8[_0x185634(0x1f4)]['classList'][_0x185634(0x1a1)]('bg-indigo-600','text-white'),_0x4681d8[_0x185634(0x1f4)][_0x185634(0x1de)][_0x185634(0x20f)](_0x185634(0x1b6),_0x185634(0x2b9)),_0x4681d8[_0x185634(0x152)][_0x185634(0x1de)][_0x185634(0x1a1)]('bg-white',_0x185634(0x2b9)),_0x4681d8[_0x185634(0x152)][_0x185634(0x1de)][_0x185634(0x20f)](_0x185634(0x296),_0x185634(0x1b5))):(_0x4681d8[_0x185634(0x152)]['classList'][_0x185634(0x1a1)](_0x185634(0x296),_0x185634(0x1b5)),_0x4681d8[_0x185634(0x152)][_0x185634(0x1de)][_0x185634(0x20f)]('bg-white',_0x185634(0x2b9)),_0x4681d8[_0x185634(0x1f4)]['classList']['add'](_0x185634(0x1b6),'text-slate-500'),_0x4681d8[_0x185634(0x1f4)][_0x185634(0x1de)][_0x185634(0x20f)](_0x185634(0x296),_0x185634(0x1b5))),_0x1cc8bd();}function _0x1cc8bd(){const _0x1aa77a=_0x5c9152;if(!_0x4681d8[_0x1aa77a(0x21d)])return;_0x4681d8[_0x1aa77a(0x21d)][_0x1aa77a(0x17b)]='';const _0x5ba27d=_0x1ca37c===_0x1aa77a(0x246)?_0x91c413:_0x426095;if(_0x5ba27d['length']===0x0){_0x4681d8[_0x1aa77a(0x21d)][_0x1aa77a(0x17b)]=_0x1aa77a(0x284);return;}_0x5ba27d[_0x1aa77a(0x1ab)](0x0,0x14)['forEach']((_0x1f4242,_0x43313c)=>{const _0x2d5d9a=_0x1aa77a,_0x363073=document['createElement']('div');_0x363073[_0x2d5d9a(0x223)]=_0x2d5d9a(0x28f);let _0x579090='';if(_0x43313c===0x0)_0x579090='🥇';else{if(_0x43313c===0x1)_0x579090='🥈';else{if(_0x43313c===0x2)_0x579090='🥉';else _0x579090=_0x2d5d9a(0x174)+(_0x43313c+0x1)+_0x2d5d9a(0x228);}}_0x363073[_0x2d5d9a(0x17b)]=_0x2d5d9a(0x182)+_0x579090+_0x2d5d9a(0x169)+_0x1f4242[_0x2d5d9a(0x22d)]+'\x22>'+_0x1f4242['name']+_0x2d5d9a(0x27f)+_0x1c68fc(_0x1f4242[_0x2d5d9a(0x1b1)])+_0x2d5d9a(0x2d3),_0x4681d8[_0x2d5d9a(0x21d)][_0x2d5d9a(0x23e)](_0x363073);});}function _0x31e936(){const _0x178c0e=_0x5c9152;_0x1cc8bd(),_0x4681d8[_0x178c0e(0x178)][_0x178c0e(0x1de)][_0x178c0e(0x20f)](_0x178c0e(0x1f1)),_0x4681d8[_0x178c0e(0x178)][_0x178c0e(0x1de)]['add'](_0x178c0e(0x244));}function _0x2f2ae0(){const _0x9208ec=_0x5c9152;_0x4681d8[_0x9208ec(0x178)][_0x9208ec(0x1de)]['add'](_0x9208ec(0x1f1)),_0x4681d8['rankingModal'][_0x9208ec(0x1de)][_0x9208ec(0x20f)](_0x9208ec(0x244));}function _0x15bd81(){const _0x44146c=_0x5c9152;_0x4681d8[_0x44146c(0x18d)][_0x44146c(0x1de)][_0x44146c(0x20f)](_0x44146c(0x1f1)),_0x4681d8[_0x44146c(0x18d)][_0x44146c(0x1de)][_0x44146c(0x1a1)]('flex');}function _0x512891(){const _0x5c12b4=_0x5c9152;_0x4681d8['adminModal'][_0x5c12b4(0x1de)][_0x5c12b4(0x1a1)](_0x5c12b4(0x1f1)),_0x4681d8[_0x5c12b4(0x18d)]['classList'][_0x5c12b4(0x20f)](_0x5c12b4(0x244));}function _0x7b43e0(){const _0x5cde1d=_0x5c9152;if(!_0x3c2700||!_0x4681d8['cash'])return;_0x4681d8[_0x5cde1d(0x282)]['textContent']=_0x1c68fc(_0x3c2700[_0x5cde1d(0x282)]);_0x4681d8[_0x5cde1d(0x26b)]&&(_0x4681d8[_0x5cde1d(0x26b)][_0x5cde1d(0x27c)]=_0x1c68fc(_0x3c2700[_0x5cde1d(0x282)]));if(_0x4681d8[_0x5cde1d(0x2a2)]){const _0x54978e=(Number(_0x3c2700[_0x5cde1d(0x282)])||0x0)*0x3;_0x4681d8[_0x5cde1d(0x2a2)][_0x5cde1d(0x27c)]=_0x1c68fc(_0x54978e);}_0x4681d8[_0x5cde1d(0x1ac)]&&(_0x4681d8[_0x5cde1d(0x1ac)][_0x5cde1d(0x27c)]=_0x1c68fc(_0x33ba12(_0x3c2700,_0x130615))),_0x4681d8[_0x5cde1d(0x2ce)]&&(_0x4681d8['totalNetWorth']['textContent']=_0x1c68fc(_0x1c293d(_0x3c2700,_0x130615))),_0xa0c471(),_0x589b55();}function _0x589b55(){const _0x2afed3=_0x5c9152;if(!_0x3c2700['stocks']||!_0x130615)return;_0x4681d8['portfolioList'][_0x2afed3(0x17b)]='';let _0xf5f151=0x0;Object['keys'](_0x3c2700[_0x2afed3(0x252)])[_0x2afed3(0x2dc)](_0x43cb30=>{const _0x3841af=_0x2afed3,_0x4fdc7d=_0x3c2700[_0x3841af(0x252)][_0x43cb30];if(_0x4fdc7d[_0x3841af(0x1be)]>0x0){const _0x248e31=_0x130615[_0x43cb30],_0x45dccf=_0x248e31&&!_0x248e31[_0x3841af(0x213)]?_0x248e31[_0x3841af(0x234)]:0x0,_0x49454d=_0x45dccf*_0x4fdc7d[_0x3841af(0x1be)];_0xf5f151+=_0x49454d;const _0x55353a=_0x4fdc7d[_0x3841af(0x1a2)]||0x0,_0x4aa892=(_0x45dccf-_0x55353a)*_0x4fdc7d[_0x3841af(0x1be)],_0x30e653=_0x55353a>0x0?_0x4aa892/(_0x55353a*_0x4fdc7d[_0x3841af(0x1be)])*0x64:0x0,_0x286bd2=_0x4aa892>0x0?_0x3841af(0x29d):_0x4aa892<0x0?_0x3841af(0x1b4):_0x3841af(0x2b9),_0x5275b5=document[_0x3841af(0x1ed)](_0x3841af(0x192));_0x5275b5['className']='border-t\x20border-slate-200\x20pt-3',_0x5275b5[_0x3841af(0x17b)]=_0x3841af(0x199)+(_0x487124[_0x43cb30]||_0x43cb30)+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22font-mono\x20font-bold\x20'+_0x286bd2+'\x22>'+_0x1c68fc(_0x49454d)+_0x3841af(0x25d)+_0x4fdc7d[_0x3841af(0x1be)]+'주\x20(평단\x20'+_0x1c68fc(_0x55353a)+_0x3841af(0x29f)+_0x286bd2+'\x22>'+_0x1c68fc(_0x4aa892)+'\x20('+_0x30e653['toFixed'](0x2)+_0x3841af(0x265),_0x5275b5['onclick']=()=>_0x233d07(_0x43cb30),_0x4681d8[_0x3841af(0x2b2)][_0x3841af(0x23e)](_0x5275b5);}}),_0x4681d8[_0x2afed3(0x1bb)]['textContent']=_0x1c68fc(_0xf5f151);const _0x5940ae=_0x1c293d(_0x3c2700,_0x130615);_0x4681d8['totalHoldings'][_0x2afed3(0x27c)]=_0x1c68fc(_0x5940ae);}function _0xa0c471(){const _0x31a49a=_0x5c9152;if(!_0x3c2700[_0x31a49a(0x2d6)])return;_0x4681d8[_0x31a49a(0x1e7)]['innerHTML']='',_0x3c2700[_0x31a49a(0x2d6)][_0x31a49a(0x2dc)](_0x4d19af=>{const _0x7617da=_0x31a49a,_0x319c4d=document[_0x7617da(0x1ed)]('p');_0x319c4d[_0x7617da(0x27c)]=_0x4d19af;if(_0x4d19af[_0x7617da(0x14f)](_0x7617da(0x222)))_0x319c4d[_0x7617da(0x223)]=_0x7617da(0x2aa);else{if(_0x4d19af[_0x7617da(0x14f)]('[매도]'))_0x319c4d[_0x7617da(0x223)]=_0x7617da(0x2d4);else{if(_0x4d19af[_0x7617da(0x14f)](_0x7617da(0x2ba)))_0x319c4d[_0x7617da(0x223)]='text-blue-700';}}_0x4681d8[_0x7617da(0x1e7)][_0x7617da(0x23e)](_0x319c4d);});}function _0x13700d(){const _0x8fff9d=_0x5c9152;if(!_0x3c2700||!_0x3c2700['bank'])return;const _0x514df7=_0x3c2700[_0x8fff9d(0x1a8)],_0x29b330=Date[_0x8fff9d(0x22e)](),_0x56e537=0xa*0x3c*0x3e8;if(_0x4681d8[_0x8fff9d(0x254)]){const _0x1a90f1=Number(_0x514df7[_0x8fff9d(0x175)])||0x0,_0x488e6c=_0x514df7['savingsTimestamp'];_0x4681d8[_0x8fff9d(0x254)][_0x8fff9d(0x27c)]=_0x1c68fc(_0x1a90f1);const _0x4c884b=0.02;if(_0x1a90f1<=0x0||!_0x488e6c)_0x4681d8[_0x8fff9d(0x2ac)][_0x8fff9d(0x27c)]=_0x8fff9d(0x17e),_0x4681d8['bankNextInterest']['textContent']=_0x8fff9d(0x2e8);else{const _0x4f80ff=_0x29b330-_0x488e6c,_0x49c72d=_0x4f80ff%_0x56e537,_0x1701fa=_0x56e537-_0x49c72d,_0xc4ac6d=Math[_0x8fff9d(0x19b)](_0x1701fa/0x3e8),_0x393856=Math[_0x8fff9d(0x19b)](_0xc4ac6d/0x3c),_0x512548=_0xc4ac6d%0x3c;_0x393856===0xa&&_0x512548===0x0?_0x4681d8['bankNextInterestTimer']['textContent']=_0x8fff9d(0x1e6):_0x4681d8[_0x8fff9d(0x2ac)][_0x8fff9d(0x27c)]=_0x393856[_0x8fff9d(0x203)]()[_0x8fff9d(0x1eb)](0x2,'0')+':'+_0x512548[_0x8fff9d(0x203)]()[_0x8fff9d(0x1eb)](0x2,'0');const _0x5811fe=Math[_0x8fff9d(0x19b)](_0x4f80ff/_0x56e537),_0x51620f=_0x1a90f1*Math[_0x8fff9d(0x2a9)](0x1+_0x4c884b,_0x5811fe),_0x36dc4f=_0x51620f*_0x4c884b;_0x4681d8[_0x8fff9d(0x225)][_0x8fff9d(0x27c)]='+\x20'+_0x1c68fc(Math[_0x8fff9d(0x19b)](_0x36dc4f));}}if(_0x4681d8['bankLoanAmount']){const _0x2f6344=Number(_0x514df7[_0x8fff9d(0x15d)])||0x0,_0x90f876=_0x514df7[_0x8fff9d(0x220)];_0x4681d8[_0x8fff9d(0x206)][_0x8fff9d(0x27c)]=_0x1c68fc(_0x2f6344),_0x4681d8[_0x8fff9d(0x2eb)][_0x8fff9d(0x27c)]=_0x1c68fc(_0x2f6344);if(_0x2f6344>0x0)_0x4681d8['bankNextLoanTimer']['textContent']=_0x8fff9d(0x1b0);else{if(!_0x90f876)_0x4681d8[_0x8fff9d(0x276)]['textContent']=_0x8fff9d(0x1b2);else{const _0x199ee0=_0x29b330-_0x90f876,_0x298ed8=_0x56e537-_0x199ee0;if(_0x298ed8<=0x0)_0x4681d8[_0x8fff9d(0x276)][_0x8fff9d(0x27c)]=_0x8fff9d(0x1b2);else{const _0x1cf4f2=Math[_0x8fff9d(0x19b)](_0x298ed8/0x3e8),_0x57f72a=Math[_0x8fff9d(0x19b)](_0x1cf4f2/0x3c),_0x3a863b=_0x1cf4f2%0x3c;_0x4681d8[_0x8fff9d(0x276)][_0x8fff9d(0x27c)]=_0x57f72a['toString']()['padStart'](0x2,'0')+':'+_0x3a863b[_0x8fff9d(0x203)]()['padStart'](0x2,'0');}}}}if(_0x4681d8[_0x8fff9d(0x164)]){const _0x5e4f6b=_0x514df7[_0x8fff9d(0x202)];if(!_0x5e4f6b)_0x4681d8[_0x8fff9d(0x164)][_0x8fff9d(0x27c)]='신청\x20가능';else{const _0x1430eb=_0x29b330-_0x5e4f6b,_0x44ee26=_0x56e537-_0x1430eb;if(_0x44ee26<=0x0)_0x4681d8['bankruptCooldownTimer'][_0x8fff9d(0x27c)]=_0x8fff9d(0x1f0);else{const _0x52cf99=Math[_0x8fff9d(0x19b)](_0x44ee26/0x3e8),_0x2b3bcb=Math[_0x8fff9d(0x19b)](_0x52cf99/0x3c),_0x24f83a=_0x52cf99%0x3c;_0x4681d8['bankruptCooldownTimer']['textContent']=_0x2b3bcb['toString']()[_0x8fff9d(0x1eb)](0x2,'0')+':'+_0x24f83a['toString']()[_0x8fff9d(0x1eb)](0x2,'0');}}}}function _0xf55d73(_0x4440ba){const _0x1e552c=_0x5c9152,_0x174af6=Date[_0x1e552c(0x22e)](),_0x3b11a8=Math[_0x1e552c(0x19b)]((_0x174af6-_0x4440ba)/0x3e8);let _0x56353f=_0x3b11a8/0x1e13380;if(_0x56353f>0x1)return Math['floor'](_0x56353f)+_0x1e552c(0x16c);_0x56353f=_0x3b11a8/0x278d00;if(_0x56353f>0x1)return Math[_0x1e552c(0x19b)](_0x56353f)+'달\x20전';_0x56353f=_0x3b11a8/0x15180;if(_0x56353f>0x1)return Math[_0x1e552c(0x19b)](_0x56353f)+_0x1e552c(0x26c);_0x56353f=_0x3b11a8/0xe10;if(_0x56353f>0x1)return Math[_0x1e552c(0x19b)](_0x56353f)+_0x1e552c(0x2b0);_0x56353f=_0x3b11a8/0x3c;if(_0x56353f>0x1)return Math[_0x1e552c(0x19b)](_0x56353f)+_0x1e552c(0x264);return _0x1e552c(0x2b4);}function _0x37897b(_0xe78fbb){const _0x3a0488=_0x5c9152;if(!_0x4681d8[_0x3a0488(0x239)])return;_0x4681d8[_0x3a0488(0x239)][_0x3a0488(0x17b)]='';if(!_0xe78fbb){const _0x421b0d=document[_0x3a0488(0x1ed)]('p');_0x421b0d[_0x3a0488(0x223)]=_0x3a0488(0x2b9),_0x421b0d[_0x3a0488(0x27c)]='현재\x20뉴스가\x20없습니다.',_0x4681d8[_0x3a0488(0x239)][_0x3a0488(0x23e)](_0x421b0d);return;}const _0x2ebfd4=Object[_0x3a0488(0x2a0)](_0xe78fbb);_0x2ebfd4[_0x3a0488(0x19e)]((_0x4cb61a,_0x4f69e9)=>_0x4f69e9[_0x3a0488(0x272)]-_0x4cb61a['timestamp']);const _0x1d79a0=_0x2ebfd4['slice'](0x0,0xf);_0x1d79a0['forEach'](_0x15f9f1=>{const _0x142865=_0x3a0488,_0x1b5122=document['createElement']('div'),_0x1d1f8a=document['createElement']('p');_0x1d1f8a['className']=_0x142865(0x230),_0x1d1f8a[_0x142865(0x27c)]=_0x15f9f1[_0x142865(0x15c)];const _0x280eb3=document[_0x142865(0x1ed)]('p');_0x280eb3[_0x142865(0x223)]=_0x142865(0x275),_0x280eb3[_0x142865(0x27c)]=_0xf55d73(_0x15f9f1[_0x142865(0x272)]),_0x1b5122['appendChild'](_0x1d1f8a),_0x1b5122[_0x142865(0x23e)](_0x280eb3),_0x4681d8['newsBox'][_0x142865(0x23e)](_0x1b5122);});}function _0x993ed1(_0x415b62){const _0x301ead=_0x5c9152;_0x3ef746=_0x415b62,[_0x4681d8[_0x301ead(0x18f)],_0x4681d8[_0x301ead(0x15b)],_0x4681d8[_0x301ead(0x2e0)],_0x4681d8[_0x301ead(0x1d5)],_0x4681d8[_0x301ead(0x274)]][_0x301ead(0x2dc)](_0x2c6fa3=>{const _0x1e7166=_0x301ead;_0x2c6fa3[_0x1e7166(0x1de)]['remove'](_0x1e7166(0x296),_0x1e7166(0x1b5),_0x1e7166(0x1fd)),_0x2c6fa3['classList']['add'](_0x1e7166(0x1b6),_0x1e7166(0x2b9),_0x1e7166(0x177));});let _0x62bcfd;if(_0x415b62===_0x301ead(0x252))_0x62bcfd=_0x4681d8[_0x301ead(0x18f)];else{if(_0x415b62===_0x301ead(0x2ea))_0x62bcfd=_0x4681d8[_0x301ead(0x15b)];else{if(_0x415b62==='bonds')_0x62bcfd=_0x4681d8[_0x301ead(0x2e0)];else{if(_0x415b62===_0x301ead(0x1e0))_0x62bcfd=_0x4681d8['showCoinsBtn'];else _0x62bcfd=_0x4681d8[_0x301ead(0x274)];}}}_0x62bcfd[_0x301ead(0x1de)]['add'](_0x301ead(0x296),'text-white','shadow-sm'),_0x62bcfd[_0x301ead(0x1de)][_0x301ead(0x20f)](_0x301ead(0x1b6),'text-slate-500',_0x301ead(0x177)),_0x21ee53();}function _0x21ee53(){const _0x1bc147=_0x5c9152;if(!_0x4681d8['stockSelector'])return;_0x4681d8[_0x1bc147(0x16d)][_0x1bc147(0x17b)]='';let _0x398779=[];if(_0x3ef746===_0x1bc147(0x252))_0x398779=_0x22105b;else{if(_0x3ef746===_0x1bc147(0x2ea))_0x398779=_0x2c125b;else{if(_0x3ef746==='bonds')_0x398779=_0x1917a2;else{if(_0x3ef746==='coins')_0x398779=_0x414211;else _0x398779=_0x524618;}}}_0x398779[_0x1bc147(0x2dc)](_0xbb8004=>{const _0x4fb978=_0x1bc147,_0x786467=_0x130615[_0xbb8004];if(!_0x786467)return;const _0xb138e3=_0x786467[_0x4fb978(0x213)]||![],_0x353083=_0x786467[_0x4fb978(0x234)]||0x0,_0xba1333=_0x353083-(_0x786467['prevPrice']||_0x353083),_0x4b550b=_0x786467[_0x4fb978(0x294)]>0x0?_0xba1333/_0x786467['prevPrice']*0x64:0x0,_0x5bc0e0=_0xba1333>0x0?_0x4fb978(0x29d):_0xba1333<0x0?_0x4fb978(0x1b4):_0x4fb978(0x2b9),_0x199066=_0xb138e3?_0x4fb978(0x293):_0x5bc0e0,_0x434f69=_0xb138e3?'text-slate-400':_0xba1333===0x0?_0x4fb978(0x2b9):_0x5bc0e0,_0x47e840=_0xb138e3?_0x4fb978(0x293):'text-slate-800',_0xd4f8fa=_0xbb8004===_0x311427?_0x4fb978(0x266):_0x4fb978(0x240),_0x444105=document['createElement'](_0x4fb978(0x192));_0x444105['className']=_0x4fb978(0x2a4)+_0xd4f8fa+_0x4fb978(0x21f);const _0x33bf9e=_0xb138e3?_0x4fb978(0x2e4):'';_0x444105['innerHTML']=_0x4fb978(0x1d2)+_0x47e840+'\x22>'+(_0x786467[_0x4fb978(0x22d)]||_0xbb8004)+'\x20'+_0x33bf9e+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22font-mono\x20font-bold\x20text-sm\x20'+_0x199066+'\x22>'+_0x1c68fc(_0x353083)+_0x4fb978(0x216)+_0xbb8004+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22font-mono\x20'+_0x434f69+'\x22>'+(_0xb138e3?_0x4fb978(0x200):(_0xba1333>0x0?'+':'')+_0x4b550b[_0x4fb978(0x227)](0x2)+'%')+_0x4fb978(0x1ba),_0x444105['onclick']=()=>_0x233d07(_0xbb8004),_0x4681d8[_0x4fb978(0x16d)]['appendChild'](_0x444105);});}function _0x233d07(_0x52a910){_0x311427=_0x52a910,_0x21ee53(),_0x8a0133();}function _0x8a0133(){const _0x28bd59=_0x5c9152,_0x281dca=_0x130615[_0x311427];if(!_0x281dca||_0x281dca['isDelisted']){if(_0x281dca&&_0x281dca['isDelisted']){_0x4681d8[_0x28bd59(0x16b)][_0x28bd59(0x27c)]=_0x281dca[_0x28bd59(0x22d)],_0x4681d8[_0x28bd59(0x16a)][_0x28bd59(0x27c)]=_0x311427,_0x4681d8['price'][_0x28bd59(0x27c)]=_0x28bd59(0x2bf);const _0x50fe6d=_0x281dca[_0x28bd59(0x21a)];if(_0x50fe6d){const _0x4570d7=Date['now'](),_0x2d6586=_0x4570d7-_0x50fe6d,_0xf7c167=_0x2e540b-_0x2d6586;if(_0xf7c167<=0x0)_0x4681d8['change'][_0x28bd59(0x27c)]=_0x28bd59(0x1e8);else{const _0x461dc2=Math['floor'](_0xf7c167/0x3e8),_0x549c3d=Math[_0x28bd59(0x19b)](_0x461dc2/0x3c),_0x139787=_0x461dc2%0x3c,_0x22cc76=_0x549c3d[_0x28bd59(0x203)]()[_0x28bd59(0x1eb)](0x2,'0')+':'+_0x139787[_0x28bd59(0x203)]()['padStart'](0x2,'0');_0x4681d8[_0x28bd59(0x2c0)]['textContent']='(복구까지\x20'+_0x22cc76+')';}}else _0x4681d8[_0x28bd59(0x2c0)][_0x28bd59(0x27c)]=_0x28bd59(0x193);_0x4681d8[_0x28bd59(0x234)]['className']='text-3xl\x20font-bold\x20text-slate-400',_0x4681d8[_0x28bd59(0x2c0)]['className']=_0x28bd59(0x1f6),_0x4681d8[_0x28bd59(0x1dd)]['disabled']=!![],_0x4681d8[_0x28bd59(0x1c8)][_0x28bd59(0x1cd)]=!![],_0x4681d8[_0x28bd59(0x176)][_0x28bd59(0x1cd)]=!![],_0x24cb57(_0x281dca[_0x28bd59(0x2d6)]||[]);return;}_0x311427==='SAFE'&&(_0x311427='AAPL',_0x233d07(_0x28bd59(0x1e9)));return;}_0x4681d8[_0x28bd59(0x1dd)][_0x28bd59(0x1cd)]=![],_0x4681d8[_0x28bd59(0x1c8)][_0x28bd59(0x1cd)]=![],_0x4681d8[_0x28bd59(0x176)][_0x28bd59(0x1cd)]=![],_0x4681d8[_0x28bd59(0x16b)][_0x28bd59(0x27c)]=_0x281dca[_0x28bd59(0x22d)],_0x4681d8[_0x28bd59(0x16a)][_0x28bd59(0x27c)]=_0x311427;const _0x1d03f2=_0x281dca[_0x28bd59(0x234)]||0x0,_0x439db9=_0x1d03f2-(_0x281dca[_0x28bd59(0x294)]||_0x1d03f2),_0x14343b=_0x281dca['prevPrice']>0x0?_0x439db9/_0x281dca['prevPrice']*0x64:0x0,_0x3e31bf=_0x439db9>0x0?'text-red-600':_0x439db9<0x0?'text-blue-600':'text-slate-500',_0x3fa2cd=_0x439db9>0x0?'▲':_0x439db9<0x0?'▼':'';_0x4681d8[_0x28bd59(0x234)][_0x28bd59(0x27c)]=_0x1c68fc(_0x1d03f2),_0x4681d8['change'][_0x28bd59(0x27c)]=_0x3fa2cd+'\x20'+_0x1c68fc(_0x439db9)+'\x20('+_0x14343b[_0x28bd59(0x227)](0x2)+'%)',_0x4681d8[_0x28bd59(0x234)][_0x28bd59(0x223)]=_0x28bd59(0x1c2)+_0x3e31bf,_0x4681d8['change'][_0x28bd59(0x223)]='text-base\x20font-medium\x20'+_0x3e31bf,_0x24cb57(_0x281dca[_0x28bd59(0x2d6)]||[]);}function _0x33ba12(_0x4956a5,_0x336e38){const _0x7c9f83=_0x5c9152;let _0x451c3b=Number(_0x4956a5[_0x7c9f83(0x282)])||0x0,_0x43c21c=Number(_0x4956a5[_0x7c9f83(0x1a8)]?_0x4956a5[_0x7c9f83(0x1a8)][_0x7c9f83(0x175)]:0x0)||0x0,_0x3d3c70=0x0;if(_0x4956a5[_0x7c9f83(0x252)])for(const _0x39c15a in _0x4956a5[_0x7c9f83(0x252)]){const _0x24ce53=_0x4956a5[_0x7c9f83(0x252)][_0x39c15a];_0x24ce53&&_0x24ce53['shares']>0x0&&_0x336e38[_0x39c15a]&&!_0x336e38[_0x39c15a][_0x7c9f83(0x213)]&&typeof _0x336e38[_0x39c15a][_0x7c9f83(0x234)]===_0x7c9f83(0x229)&&(_0x3d3c70+=_0x24ce53[_0x7c9f83(0x1be)]*_0x336e38[_0x39c15a][_0x7c9f83(0x234)]);}const _0x4555ca=_0x451c3b+_0x3d3c70+_0x43c21c;return _0x4555ca;}function _0xa0c471(){const _0x31f723=_0x5c9152;if(!_0x3c2700['history'])return;_0x4681d8[_0x31f723(0x1e7)][_0x31f723(0x17b)]='',_0x3c2700[_0x31f723(0x2d6)][_0x31f723(0x2dc)](_0x4fcec7=>{const _0x517792=_0x31f723,_0x48963b=document[_0x517792(0x1ed)]('p');_0x48963b[_0x517792(0x27c)]=_0x4fcec7;if(_0x4fcec7[_0x517792(0x14f)](_0x517792(0x222)))_0x48963b[_0x517792(0x223)]=_0x517792(0x2aa);else{if(_0x4fcec7[_0x517792(0x14f)](_0x517792(0x226)))_0x48963b[_0x517792(0x223)]=_0x517792(0x2d4);else{if(_0x4fcec7[_0x517792(0x14f)](_0x517792(0x2ba)))_0x48963b['className']='text-blue-700';}}_0x4681d8[_0x517792(0x1e7)][_0x517792(0x23e)](_0x48963b);});}function _0x13e18f(){const _0x2c3498=_0x5c9152;if(!_0x4681d8[_0x2c3498(0x251)])return;const _0x4224da=_0x4681d8[_0x2c3498(0x251)]['getContext']('2d');_0x66d12a=new Chart(_0x4224da,{'type':_0x2c3498(0x1ef),'data':{'labels':[],'datasets':[{'label':'주가','data':[],'borderColor':'rgba(79,\x2070,\x20229,\x201)','backgroundColor':_0x2c3498(0x1c3),'borderWidth':0x2,'tension':0.1,'fill':!![]}]},'options':{'responsive':!![],'maintainAspectRatio':![],'scales':{'x':{'ticks':{'display':![]},'grid':{'display':![]}},'y':{'position':_0x2c3498(0x287),'ticks':{'callback':_0x5e9373=>''+_0x1c68fc(_0x5e9373,0x0)}}},'plugins':{'legend':{'display':![]},'tooltip':{'callbacks':{'label':_0x47b725=>'\x20'+_0x1c68fc(_0x47b725[_0x2c3498(0x224)]['y'])}}}}});}function _0x24cb57(_0x5259b1){const _0x48a427=_0x5c9152;if(!_0x66d12a)return;_0x66d12a[_0x48a427(0x289)][_0x48a427(0x19f)]=_0x5259b1['map']((_0x2ead76,_0x18da91)=>_0x18da91),_0x66d12a[_0x48a427(0x289)][_0x48a427(0x166)][0x0]['data']=_0x5259b1,_0x66d12a[_0x48a427(0x217)](_0x48a427(0x2ec));}function _0x1c68fc(_0x5a5667,_0x199774=0x0){const _0xe12698=_0x5c9152,_0x34afc6=Number(_0x5a5667);if(isNaN(_0x34afc6))return _0xe12698(0x2bf);return'₩'+_0x34afc6['toLocaleString'](_0xe12698(0x268),{'minimumFractionDigits':_0x199774,'maximumFractionDigits':_0x199774});}function _0x1c293d(_0x55aabd,_0x3affec){const _0x2d5e1d=_0x5c9152;let _0x31d26=Number(_0x55aabd[_0x2d5e1d(0x282)])||0x0,_0x12e1cf=Number(_0x55aabd['bank']?_0x55aabd[_0x2d5e1d(0x1a8)][_0x2d5e1d(0x175)]:0x0)||0x0,_0x273410=Number(_0x55aabd[_0x2d5e1d(0x1a8)]?_0x55aabd[_0x2d5e1d(0x1a8)][_0x2d5e1d(0x15d)]:0x0)||0x0,_0xfec6ee=0x0;if(_0x55aabd['stocks'])for(const _0x213565 in _0x55aabd[_0x2d5e1d(0x252)]){const _0x22ea70=_0x55aabd[_0x2d5e1d(0x252)][_0x213565];_0x22ea70&&_0x22ea70[_0x2d5e1d(0x1be)]>0x0&&_0x3affec[_0x213565]&&!_0x3affec[_0x213565]['isDelisted']&&typeof _0x3affec[_0x213565][_0x2d5e1d(0x234)]==='number'&&(_0xfec6ee+=_0x22ea70[_0x2d5e1d(0x1be)]*_0x3affec[_0x213565][_0x2d5e1d(0x234)]);}const _0x1b413c=_0x31d26+_0xfec6ee+_0x12e1cf-_0x273410;return _0x1b413c;}function _0x3671d1(_0x27579a,_0x47919a,_0x59d2db){const _0xffd031=_0x5c9152;try{!Array[_0xffd031(0x1f7)](_0x27579a[_0xffd031(0x2d6)])&&(_0x27579a[_0xffd031(0x2d6)]=[]);_0x27579a[_0xffd031(0x2d6)][_0xffd031(0x257)](_0x47919a);const _0x49158f=typeof _0x335811!==_0xffd031(0x198)?_0x335811:0x64;while(_0x27579a[_0xffd031(0x2d6)][_0xffd031(0x19c)]>_0x49158f){_0x27579a[_0xffd031(0x2d6)]['pop']();}}catch(_0x156cad){console[_0xffd031(0x2de)](_0xffd031(0x195),_0x156cad);}}let _0x461270=null;function _0x344ee9(_0x511223,_0x74f703=null){const _0x5e5b6d=_0x5c9152;_0x4681d8[_0x5e5b6d(0x17d)][_0x5e5b6d(0x27c)]=_0x511223,_0x4681d8[_0x5e5b6d(0x2cf)][_0x5e5b6d(0x1de)][_0x5e5b6d(0x20f)](_0x5e5b6d(0x1f1)),_0x4681d8['alertModal'][_0x5e5b6d(0x1de)][_0x5e5b6d(0x1a1)](_0x5e5b6d(0x244)),_0x461270=_0x74f703;}function _0x475582(){const _0x343004=_0x5c9152;_0x4681d8['alertModal'][_0x343004(0x1de)][_0x343004(0x1a1)](_0x343004(0x1f1)),_0x4681d8['alertModal']['classList'][_0x343004(0x20f)](_0x343004(0x244)),_0x461270&&(_0x461270(),_0x461270=null);}let _0x4874cd=null;function _0x48b5a6(_0xc3aba9,_0x576542){const _0x475989=_0x5c9152;_0x4681d8[_0x475989(0x20d)][_0x475989(0x17b)]=_0xc3aba9,_0x4681d8[_0x475989(0x171)][_0x475989(0x1de)][_0x475989(0x20f)](_0x475989(0x1f1)),_0x4681d8['confirmModal']['classList'][_0x475989(0x1a1)](_0x475989(0x244)),_0x4681d8[_0x475989(0x2df)][_0x475989(0x2e2)](_0x4681d8[_0x475989(0x2df)][_0x475989(0x2b7)](!![])),_0x4681d8[_0x475989(0x2bc)][_0x475989(0x2e2)](_0x4681d8[_0x475989(0x2bc)][_0x475989(0x2b7)](!![])),_0x4681d8[_0x475989(0x2df)]=document[_0x475989(0x149)]('confirmOkBtn'),_0x4681d8[_0x475989(0x2bc)]=document[_0x475989(0x149)](_0x475989(0x2bc)),_0x4681d8['confirmOkBtn'][_0x475989(0x1ca)]=()=>{_0x1d77d1(),_0x576542();},_0x4681d8[_0x475989(0x2bc)][_0x475989(0x1ca)]=_0x1d77d1;}function _0x1d77d1(){const _0x35f1ed=_0x5c9152;_0x4681d8[_0x35f1ed(0x171)][_0x35f1ed(0x1de)][_0x35f1ed(0x1a1)](_0x35f1ed(0x1f1)),_0x4681d8[_0x35f1ed(0x171)][_0x35f1ed(0x1de)][_0x35f1ed(0x20f)](_0x35f1ed(0x244));}function _0x35b129(){const _0x1fdc7c=_0x5c9152,_0x4df781={};return _0x277d40[_0x1fdc7c(0x2dc)](_0x415d46=>{_0x4df781[_0x415d46]={'shares':0x0,'averagePrice':0x0};}),{'cash':_0x15f084,'bank':{'checking':0x0,'savings':0x0,'loan':0x0,'savingsTimestamp':null,'loanTimestamp':null},'stocks':_0x4df781};}function _0x2196aa(_0x3adf71){const _0x230212=_0x5c9152,_0x22210f=_0x35b129();return{'uid':_0x3adf71[_0x230212(0x1a7)],'displayName':_0x3adf71[_0x230212(0x24f)]||_0x230212(0x153),'email':_0x3adf71['email']||null,'cash':_0x22210f[_0x230212(0x282)],'bank':_0x22210f['bank'],'stocks':_0x22210f['stocks'],'history':[_0x230212(0x297)],'bank':{'savings':0x0,'savingsTimestamp':null,'loan':0x0,'loanTimestamp':null,'loanRepayTimestamp':null,'bankruptTimestamp':null},'timeAttack':{'isInTimeAttack':![],'startTime':null,'endTime':null,'lastScore':0x0},'snapshot':null};}function _0x286747(){const _0x10ac33=_0x5c9152,_0x19e923=(_0x5e452c,_0x35913b,_0x3b5fd6,_0x58425b,_0x32539f)=>({'name':_0x5e452c,'price':_0x35913b,'prevPrice':_0x35913b,'initialPrice':_0x35913b,'history':Array(_0x1ab741)[_0x10ac33(0x207)](_0x35913b),'consecutiveRises':0x0,'consecutiveFalls':0x0,'baseVolatility':_0x3b5fd6,'bigEventChance':_0x58425b,'baseRiseProbability':_0x32539f,'isDelisted':![],'delistTimestamp':null}),_0x4b6c0e={'AAPL':_0x19e923('Apple\x20(애플)',0x4650,0.02,0.03,0.53),'MSFT':_0x19e923(_0x10ac33(0x160),0x88b8,0.018,0.02,0.514),'GOOGL':_0x19e923(_0x10ac33(0x2c8),0x36b0,0.02,0.03,0.53),'AMZN':_0x19e923('Amazon\x20(아마존)',0x3a98,0.025,0.04,0.53),'NVDA':_0x19e923(_0x10ac33(0x154),0xafc8,0.04,0.08,0.53),'META':_0x19e923(_0x10ac33(0x1a5),0x7530,0.035,0.06,0.53),'TSLA':_0x19e923('Tesla\x20(테슬라)',0x61a8,0.05,0.1,0.53),'BRK-B':_0x19e923(_0x10ac33(0x1ec),0x8ca0,0.01,0.01,0.515),'V':_0x19e923('Visa\x20(비자)',0x5dc0,0.015,0.02,0.53),'JNJ':_0x19e923(_0x10ac33(0x25c),0x3e80,0.01,0.01,0.53),'XOM':_0x19e923(_0x10ac33(0x2e1),0x2af8,0.018,0.03,0.53),'JPM':_0x19e923('JPMorgan\x20Chase\x20(JP모건\x20체이스)',0x3a98,0.017,0.02,0.53),'TSM':_0x19e923(_0x10ac33(0x1e3),0x2710,0.03,0.05,0.54),'NFLX':_0x19e923(_0x10ac33(0x273),0x9c40,0.035,0.06,0.53),'SBUX':_0x19e923(_0x10ac33(0x1d0),0x2710,0.02,0.03,0.53),'NKE':_0x19e923(_0x10ac33(0x1d6),0x2af8,0.022,0.04,0.53),'MCD':_0x19e923(_0x10ac33(0x17c),0x6d60,0.012,0.01,0.53),'KO':_0x19e923('Coca-Cola\x20(코카콜라)',0x1770,0.01,0.01,0.54),'DIS':_0x19e923('Disney\x20(디즈니)',0x2328,0.025,0.04,0.535),'VT':_0x19e923(_0x10ac33(0x271),0x2710,0.008,0.01,0.53),'PG':_0x19e923('Procter\x20&\x20Gamble\x20(P&G)',0x3e80,0.01,0.01,0.53),'WMT':_0x19e923('Walmart\x20(월마트)',0x3a98,0.012,0.01,0.53),'COST':_0x19e923('Costco\x20(코스트코)',0xc350,0.015,0.02,0.52),'PEP':_0x19e923('PepsiCo\x20(펩시코)',0x4268,0.01,0.01,0.53),'HD':_0x19e923('Home\x20Depot\x20(홈디포)',0x7530,0.017,0.02,0.53),'SEC':_0x19e923(_0x10ac33(0x1e1),0x124f8,0.018,0.03,0.515),'SKH':_0x19e923(_0x10ac33(0x2c1),0x4e20,0.025,0.05,0.53),'LGES':_0x19e923(_0x10ac33(0x15a),0x88b8,0.03,0.06,0.535),'HYMT':_0x19e923(_0x10ac33(0x238),0x61a8,0.02,0.04,0.53),'NAVER':_0x19e923(_0x10ac33(0x281),0x4268,0.035,0.07,0.535),'GOLD':_0x19e923(_0x10ac33(0x28e),0x4e20,0.015,0.02,0.55),'SLVR':_0x19e923(_0x10ac33(0x20e),0x9c4,0.025,0.04,0.544),'OIL':_0x19e923(_0x10ac33(0x24b),0x1f40,0.035,0.08,0.544),'NGAS':_0x19e923(_0x10ac33(0x214),0xbb8,0.095,0.15,0.544),'COPR':_0x19e923(_0x10ac33(0x15f),0x2134,0.025,0.055,0.545),'WHEAT':_0x19e923('밀\x20(Wheat)',0x1770,0.05,0.105,0.545),'BOND_L':_0x19e923(_0x10ac33(0x25f),0x2710,0.007,0.01,0.6),'BOND_S':_0x19e923(_0x10ac33(0x262),0x1388,0.005,0x0,0.6),'CORP_B':_0x19e923(_0x10ac33(0x26e),0x2328,0.01,0.01,0.6),'HY_B':_0x19e923(_0x10ac33(0x1ee),0x1b58,0.015,0.03,0.6),'BTC':_0x19e923(_0x10ac33(0x1da),0x927c0,0.08,0.15,0.515),'ETH':_0x19e923('이더리움\x20(Ethereum)',0xbb8,0.1,0.18,0.513),'DOGE':_0x19e923(_0x10ac33(0x1f5),0x3e8,0.2,0.3,0.515),'SOL':_0x19e923(_0x10ac33(0x27b),0x5dc,0.15,0.25,0.515),'DEV_MOOD':_0x19e923(_0x10ac33(0x2af),0x3e8,0x0,0x0,0x0),'SONG':_0x19e923(_0x10ac33(0x190),0x186a0,0.12,0.05,0.529),'COOKIE':_0x19e923(_0x10ac33(0x243),0x1d4c,0.25,0.3,0.529)};return _0x4b6c0e;}function _0x448c2(){const _0x20c3be=_0x5c9152,_0x4e5277=Date[_0x20c3be(0x22e)]();_0x53c012['child'](_0x20c3be(0x252))['transaction'](_0x5360fe=>{const _0x50d0d6=_0x20c3be;if(!_0x5360fe)return _0x286747();const _0x2f66a0=0.05,_0x19e38f=0.05,_0x120288=0.1,_0x302081=0.1,_0x4531f5=0.9;return Object[_0x50d0d6(0x24e)](_0x5360fe)[_0x50d0d6(0x2dc)](_0xf6e820=>{const _0x3abafa=_0x50d0d6,_0x3dafc6=_0x5360fe[_0xf6e820];if(_0x3dafc6[_0x3abafa(0x213)]){const _0x14adc8=_0x4e5277-(_0x3dafc6[_0x3abafa(0x21a)]||_0x4e5277);_0x14adc8>=_0x2e540b&&(_0x3dafc6[_0x3abafa(0x213)]=![],_0x3dafc6[_0x3abafa(0x21a)]=null,_0x3dafc6[_0x3abafa(0x234)]=_0x3dafc6[_0x3abafa(0x189)],_0x3dafc6[_0x3abafa(0x294)]=_0x3dafc6[_0x3abafa(0x189)],_0x3dafc6['history']=Array(_0x1ab741)[_0x3abafa(0x207)](_0x3dafc6['initialPrice']));return;}const _0x39f305=_0x3dafc6[_0x3abafa(0x189)]||_0x3dafc6[_0x3abafa(0x234)],_0x145712=_0x39f305*_0x2f66a0;if(_0x3dafc6[_0x3abafa(0x234)]<=_0x145712&&_0x3dafc6['price']>0xa){_0x3dafc6[_0x3abafa(0x213)]=!![],_0x3dafc6['delistTimestamp']=_0x4e5277;return;}let _0x449e55=_0x3dafc6[_0x3abafa(0x19a)],_0x43d981=_0x3dafc6[_0x3abafa(0x16e)]-0.005;Math[_0x3abafa(0x1a3)]()<_0x3dafc6[_0x3abafa(0x23d)]&&(_0x449e55*=Math['random']()*0.7+2.5,Math[_0x3abafa(0x1a3)]()<0.5?_0x43d981=0.9:_0x43d981=0.1);const _0x1936be=_0x39f305*0x32;if(_0x3dafc6[_0x3abafa(0x234)]>_0x1936be){const _0x283658=_0x3dafc6[_0x3abafa(0x234)]/_0x1936be,_0x278639=(_0x283658-0x1)*_0x19e38f;_0x43d981-=_0x278639;}const _0x35e142=_0x39f305/0xa;if(_0x3dafc6[_0x3abafa(0x234)]<_0x35e142&&_0x3dafc6[_0x3abafa(0x234)]>0xa){const _0xa718a7=_0x3dafc6['price']/_0x35e142,_0x1f6f45=(0x1-_0xa718a7)*_0x302081;_0x43d981+=_0x1f6f45,_0x43d981>_0x4531f5&&(_0x43d981=_0x4531f5);}_0x43d981<_0x120288&&(_0x43d981=_0x120288);const _0x36d863=Math[_0x3abafa(0x1a3)]()*_0x449e55-_0x449e55/0x2;let _0x5a461f=_0x3dafc6[_0x3abafa(0x234)]*(0x1+_0x36d863);Math['random']()<_0x43d981?_0x5a461f=_0x3dafc6[_0x3abafa(0x234)]*(0x1+Math[_0x3abafa(0x185)](_0x36d863)):_0x5a461f=_0x3dafc6['price']*(0x1-Math['abs'](_0x36d863));if(_0x5a461f<0xa)_0x5a461f=0xa;_0x3dafc6[_0x3abafa(0x294)]=_0x3dafc6[_0x3abafa(0x234)],_0x3dafc6[_0x3abafa(0x234)]=Math['round'](_0x5a461f);!Array['isArray'](_0x3dafc6[_0x3abafa(0x2d6)])&&(_0x3dafc6['history']=Array(_0x1ab741)[_0x3abafa(0x207)](_0x3dafc6[_0x3abafa(0x234)]));_0x3dafc6[_0x3abafa(0x2d6)][_0x3abafa(0x29c)](_0x3dafc6[_0x3abafa(0x234)]);while(_0x3dafc6['history'][_0x3abafa(0x19c)]>_0x1ab741){_0x3dafc6['history']['shift']();}}),_0x5360fe;},(_0x12b2d0,_0xbf1f5e,_0x1545bb)=>{const _0x42a4be=_0x20c3be;_0x12b2d0&&console[_0x42a4be(0x2de)]('주가\x20업데이트\x20트랜잭션\x20실패:',_0x12b2d0);});}function _0x5a299d(){const _0x5d2493=_0x5c9152;if(_0xaef20a){console['warn']('관리자\x20타이머가\x20이미\x20이\x20브라우저에서\x20실행\x20중입니다.');return;}const _0x4bdeb3=0x5dc;console[_0x5d2493(0x1e7)](_0x5d2493(0x2e3)+_0x4bdeb3/0x3e8+'초)'),_0xaef20a=setInterval(_0x448c2,_0x4bdeb3);}function _0x531a02(){const _0x2777a3=_0x5c9152;_0xaef20a&&(console[_0x2777a3(0x1e7)]('관리자:\x20주식\x20시장\x20타이머\x20정지.'),clearInterval(_0xaef20a),_0xaef20a=null);}_0x268f8a();}));
+// ======================================================
+// (2) 메인 스크립트 (firebase_script.js)
+// ======================================================
+
+// DOM이 로드되면 게임 초기화
+document.addEventListener('DOMContentLoaded', () => {
+
+    // === 1. Constants ===
+    const INITIAL_CASH = 5000000;      // 초기 현금
+    const MAX_HISTORY_LOG = 100;      // 거래내역 최대 100줄
+    const MAX_HISTORY = 30;           // 차트용 데이터 30개
+    const FEE_RATE = 0.0075;           // 매매 수수료 (0.75%)
+    const TIME_ATTACK_DURATION = 30 * 60; // 30분 (초)
+    const DELIST_DURATION_MS = 30 * 60 * 1000; // 상장 폐지 시간 
+    let marketUpdateTimer = null;
+
+    // [수정] 실제 주식 이름 20개
+    const STOCK_TICKERS = [
+        'AAPL', 'MSFT', 'GOOGL', 'AMZN', 'NVDA', 'META', 'TSLA', 'BRK-B', 'V', 'JNJ',
+        'XOM', 'JPM', 'TSM', 'NFLX', 'SBUX', 'NKE', 'MCD', 'KO', 'DIS', 'VT',
+        'PG', 'WMT', 'COST', 'PEP', 'HD','SEC', 'SKH', 'LGES', 'HYMT', 'NAVER'
+    ];
+    // 자산 (금, 은, 원유)
+    const ASSET_TICKERS = ['GOLD', 'SLVR', 'OIL', 'NGAS', 'COPR', 'WHEAT'];
+    // 채권 (미국 장기, 미국 단기)
+    const BOND_TICKERS = ['BOND_L', 'BOND_S', 'CORP_B', 'HY_B'];
+    // 코인
+    const COIN_TICKERS = ['BTC', 'ETH', 'DOGE', 'SOL'];
+    // 기타
+    const MISC_TICKERS = ['DEV_MOOD', 'SONG', 'COOKIE'];
+
+
+    // [수정] 모든 티커를 동적으로 결합 (createInitialPlayerState에서 사용)
+    const allTickers = [
+        ...STOCK_TICKERS, 
+        ...ASSET_TICKERS, 
+        ...BOND_TICKERS, 
+        ...MISC_TICKERS
+    ];
+
+    // [수정] 모든 티커의 이름 정의
+    const allTickerNames = {
+        // --- 주식 (STOCKS) ---
+        'AAPL': 'Apple (애플)',
+        'MSFT': 'Microsoft (마이크로소프트)',
+        'GOOGL': 'Alphabet (구글)',
+        'AMZN': 'Amazon (아마존)',
+        'NVDA': 'NVIDIA (엔비디아)',
+        'META': 'Meta Platforms (메타)',
+        'TSLA': 'Tesla (테슬라)',
+        'BRK-B': 'Berkshire Hathaway B (버크셔 해서웨이 B)',
+        'V': 'Visa (비자)',
+        'JNJ': 'Johnson & Johnson (존슨 앤 존슨)',
+        'XOM': 'Exxon Mobil (엑슨모빌)',
+        'JPM': 'JPMorgan Chase (JP모건 체이스)',
+        'TSM': 'TSMC (TSMC)',
+        'NFLX': 'Netflix (넷플릭스)',
+        'SBUX': 'Starbucks (스타벅스)',
+        'NKE': 'Nike (나이키)',
+        'MCD': "McDonald's (맥도날드)",
+        'KO': 'Coca-Cola (코카콜라)',
+        'DIS': 'Disney (디즈니)',
+        'VT': 'Vanguard Total World ETF (뱅가드 토탈 월드 ETF)',
+        'PG': 'Procter & Gamble (P&G)',
+        'WMT': 'Walmart (월마트)',
+        'COST': 'Costco (코스트코)',
+        'PEP': 'PepsiCo (펩시코)',
+        'HD': 'Home Depot (홈디포)',
+        'SEC': '삼성전자 (Samsung Elec.)',
+        'SKH': 'SK하이닉스 (SK Hynix)',
+        'LGES': 'LG에너지솔루션 (LG Energy Solution)',
+        'HYMT': '현대자동차 (Hyundai Motor)',
+        'NAVER': '네이버 (NAVER)',
+        
+        // --- 실물자산 (ASSETS) ---
+        'GOLD': '금 (Gold)',
+        'SLVR': '은 (Silver)',
+        'OIL': 'WTI 원유 (Crude Oil)',
+        'NGAS': '천연가스 (Natural Gas)',
+        'COPR': '구리 (Copper)',
+        'WHEAT': '밀 (Wheat)',
+        
+        // --- 채권 (BONDS) ---
+        'BOND_L': '미국 장기채 (US Long Bond)',
+        'BOND_S': '미국 단기채 (US Short Bond)',
+        'CORP_B': '미국 회사채 (Corp. Bond)',
+        'HY_B': '하이일드 채권 (High-Yield)',
+
+        // --- 코인 (COINS) ---
+        'BTC': '비트코인 (Bitcoin)',
+        'ETH': '이더리움 (Ethereum)',
+        'DOGE': '도지코인 (Dogecoin)',
+        'SOL': '솔라나 (Solana)',
+        
+        // --- 기타 (MISC) ---
+        'DEV_MOOD': '개발자 무드 (Dev Mood)',
+        'SONG': '송송 그룹 (SongSong)',
+        'COOKIE': '쿠키 컴퍼니 (CookieCo)'
+    };
+
+
+    // === 2. Global Variables ===
+    let state = {};                 // 현재 플레이어의 모든 데이터 (DB 미러링)
+    let stockData = {};             // 마켓의 모든 주식 데이터 (DB 미러링)
+    let allPlayersData = {};        // [랭킹용] 모든 플레이어 데이터
+    
+    let currentView = 'stocks';     // 'stocks', 'assets', 'bonds', 'misc'
+    let currentTicker = 'AAPL';     // [수정] 기본값을 'AAPL'로
+    let currentRankView = 'networth'; // [랭킹용] 'networth' or 'timeattack'
+    
+    let netWorthRankings = [];      // [랭킹용] 총 자산 랭킹 데이터
+    let timeAttackRankings = [];    // [랭킹용] 타임 어택 랭킹 데이터
+
+    let chartInstance = null;
+    let authUnsubscribe = null;     // 인증 리스너 해제용
+    let playerUnsubscribe = null;   // 플레이어 리스너 해제용
+    let marketUnsubscribe = null;   // 마켓 리스너 해제용
+    let timeAttackTimer = null;     // 타임어택 타이머 ID
+    let isTimeAttackListenerInitialized = false; //재개 알림
+
+    let bankTimer = null; // 은행 이자 타이머
+
+    
+    // === 3. DOM Elements (els) ===
+    // (HTML 파일의 모든 ID를 여기에 등록)
+    const els = {
+        // 인증
+        authScreen: null,
+        googleLoginBtn: null,
+        mainGame: null,
+        
+        // 탭
+        showStocksBtn: null,
+        showAssetsBtn: null,
+        showBondsBtn: null,
+        showCoinsBtn: null,
+        showMiscBtn: null,
+        stockSelector: null,
+        
+        // 주식 정보
+        stockName: null,
+        stockTicker: null,
+        price: null,
+        change: null,
+        chart: null,
+        
+        // 거래
+        amount: null, 
+        buyBtn: null,
+        sellBtn: null,
+        buyMaxBtn: null,
+        sellAllBtn: null,
+
+        
+        // 포트폴리오
+        cash: null,
+        stockValue: null,
+        totalGrossHoldings: null, 
+        totalNetWorth: null,  
+        portfolioList: null,
+        
+        // 버튼
+        timeAttackBtn: null,
+        timeAttackTimerDisplay: null,
+        bankBtn: null,
+        showRankingModalBtn: null,
+        logoutBtn: null,
+        
+        // 거래 내역
+        log: null,
+        historyList: null,
+
+        // 알림 모달
+        alertModal: null,
+        alertMessage: null,
+        alertCloseBtn: null,
+        
+        // 확인 모달
+        confirmModal: null,
+        confirmMessage: null,
+        confirmCancelBtn: null,
+        confirmOkBtn: null,
+
+        // 은행 모달
+        bankModal: null,
+        bankCloseBtn: null,
+        saveAmount: null,
+        saveBtn: null,
+        saveWithdrawBtn: null,
+        loanAmount: null,
+        loanBtn: null,
+        repayBtn: null,
+        bankruptBtn: null,
+        bankruptCooldownTimer: null,
+        bankModalCash: null,
+        // 예금 모달
+        bankSavingsAmount: null,
+        bankNextInterest: null,
+        bankNextInterestTimer: null,
+        // 대출 모델
+        bankLoanAmount: null,
+        maxLoanInfo: null,
+        bankRepaymentAmount: null,
+        bankNextLoanTimer: null,
+
+        //타임 어택 모달
+        timeAttackBtn: null,
+        timeAttackCancelBtn: null,
+
+        // 랭킹 모달
+        rankingModal: null,
+        rankingCloseBtn: null,
+        showNetWorthRankBtn: null,
+        showTimeAttackRankBtn: null,
+        rankingList: null,
+
+        // 관리자 전용 모달
+        adminMenuBtn: null,
+        adminModal: null,
+        adminCloseBtn: null,
+        devResetBtn: null,
+        adminNewsContent: null,
+        adminNewsSubmitBtn: null,
+
+        // 뉴스 모달
+        newsBox: null,
+
+        // 주가 조작
+        adminStockTicker: null,
+        adminStockPrice: null,
+        adminStockManipulateBtn: null,
+
+        // 상점
+        shopBtn: null,
+        shopModel: null,
+        closeShopBtn: null
+    };
+
+    
+    // === 4. Firebase References ===
+    const auth = firebase.auth();
+    const db = firebase.database();
+    
+    let playerRef = null; // (로그인 후 설정됨: db.ref(`players/${user.uid}`))
+    const marketRef = db.ref('market');
+    
+
+    // === 5. Main Initialization ===
+    
+    /**
+     * DOM ID와 els 객체를 바인딩
+     */
+    function bindDOMElements() {
+        for (const key in els) {
+            els[key] = document.getElementById(key);
+            if (!els[key]) {
+                console.warn(`DOM Element ID "${key}"를 찾을 수 없습니다.`);
+            }
+        }
+    }
+
+    /**
+     * 게임 시작 (DOM 로드 후 호출됨)
+     */
+    function initGame() {
+        bindDOMElements();
+        if (!els.googleLoginBtn) {
+            console.error("초기화 실패: 필수 DOM(googleLoginBtn)을 찾을 수 없습니다.");
+            return;
+        }
+        setupEventListeners();
+        
+        // 인증 리스너 시작 (가장 먼저)
+        setupAuthListener(); 
+
+        const newsRef = db.ref('news');
+        newsRef.on('value', (snapshot) => {
+            const newsData = snapshot.val();
+            // UI 갱신 함수 호출
+            updateNewsBoxUI(newsData);
+        })
+
+        setInterval(applyBankInterest, 10 * 60 * 1000);
+        
+        // (로그인 성공 시, setupAuthListener가 다른 리스너들을 호출)
+    }
+
+    
+    // === 6. Event Listeners Setup ===
+    
+    /**
+     * 모든 UI 이벤트 리스너 설정
+     */
+    function setupEventListeners() {
+        // 인증
+        els.googleLoginBtn.addEventListener('click', signInWithGoogle);
+        els.logoutBtn.addEventListener('click', signOut);
+
+        // 탭
+        els.showStocksBtn.addEventListener('click', () => switchView('stocks'));
+        els.showAssetsBtn.addEventListener('click', () => switchView('assets'));
+        els.showBondsBtn.addEventListener('click', () => switchView('bonds'));
+        els.showCoinsBtn.addEventListener('click', () => switchView('coins'));
+        els.showMiscBtn.addEventListener('click', () => switchView('misc'));
+        
+
+        // 거래
+        els.buyBtn.addEventListener('click', handleBuyStock);
+        els.sellBtn.addEventListener('click', handleSellStock);
+        els.buyMaxBtn.addEventListener('click', handleBuyMax);
+        els.sellAllBtn.addEventListener('click', handleSellAll);
+
+        // 버튼
+        els.timeAttackBtn.addEventListener('click', handleStartTimeAttack);
+
+        // 알림/확인 모달
+        els.alertCloseBtn.addEventListener('click', hideAlert);
+
+        // 은행 모달
+        els.bankBtn.addEventListener('click', showBankModal);
+        els.bankCloseBtn.addEventListener('click', hideBankModal);
+        els.saveBtn.addEventListener('click', () => handleBankSave('save'));
+        els.saveWithdrawBtn.addEventListener('click', () => handleBankSave('withdraw'));
+        els.loanBtn.addEventListener('click', () => handleBankLoan('loan'));
+        els.repayBtn.addEventListener('click', () => handleBankLoan('repay'));
+        els.bankruptBtn.addEventListener('click', promptBankruptConfirmation);
+
+        //타임어택 모달
+        els.timeAttackCancelBtn.addEventListener('click', handleCancelTimeAttack);
+
+        // 랭킹 모달
+        els.showRankingModalBtn.addEventListener('click', showRankingModal);
+        els.rankingCloseBtn.addEventListener('click', hideRankingModal);
+        els.showNetWorthRankBtn.addEventListener('click', () => switchRankView('networth'));
+        els.showTimeAttackRankBtn.addEventListener('click', () => switchRankView('timeattack'));
+
+        // 관리자 전용 모달
+        els.adminMenuBtn.addEventListener('click', showAdminModal);
+        els.adminCloseBtn.addEventListener('click', hideAdminModal);
+        els.devResetBtn.addEventListener('click', handleAdminReset);
+        els.adminNewsSubmitBtn.addEventListener('click', handlePostNews);
+        els.adminStockManipulateBtn.addEventListener('click', handleAdminStockManipulate);
+        
+        els.historyList = document.getElementById('historyList');
+        els.newsBox = document.getElementById('newsBox');
+        els.adminStockTicker = document.getElementById('adminStockTicker');
+        els.adminStockPrice = document.getElementById('adminStockPrice');
+        els.adminStockManipulateBtn = document.getElementById('adminStockManipulateBtn');
+
+        shopBtn = document.getElementById('shopBtn');
+        shopModal = document.getElementById('shopModal');
+        closeShopBtn = document.getElementById('closeShopBtn');
+    }
+
+    
+    // === 7. Firebase Listeners (Auth, Player, Market) ===
+    
+    /**
+     * 인증 상태 리스너 설정
+     */
+    function setupAuthListener() {
+        authUnsubscribe = auth.onAuthStateChanged((user) => {
+
+            // [1] 여기에 2단계에서 복사한 본인의 UID를 붙여넣으세요!
+            const ADMIN_UID = "CBHVz5QNzUgiES6psrBYOREsgJE2"; 
+            
+
+            // [2] 현재 로그인한 유저가 관리자인지 확인
+            if (user.uid === ADMIN_UID) {
+                // 관리자라면 'hidden' 클래스를 제거 (버튼 보이기)
+                if (els.adminMenuBtn) {
+                els.adminMenuBtn.classList.remove('hidden');
+                }
+            } else {
+                // 관리자가 아니라면 'hidden' 클래스를 유지 (버튼 숨기기)
+                if (els.adminMenuBtn) {
+                   els.adminMenuBtn.classList.add('hidden');
+                }
+            }
+            
+            if (user) {
+                // 로그인 성공
+                console.log("로그인 성공:", user.uid);
+                playerRef = db.ref(`players/${user.uid}`);
+                
+                // 리스너 연결
+                setupPlayerListener(user); // (플레이어 데이터 없으면 생성)
+                setupMarketListener();
+                setupNetWorthListener();
+                setupTimeAttackListener();
+
+                // UI 처리
+                els.authScreen.classList.add('hidden');
+                els.mainGame.classList.remove('hidden');
+                
+                initChart();
+
+                const isAdmin = (user.email === "20240183@bangok.hs.kr" || user.email === "jaewon.lee.2008@gmail.com");
+
+                if (isAdmin) {
+                    console.log("관리자 계정으로 로그인되었습니다.");
+                    // (관리자 탭 표시 등)
+                    // if (els.adminTabBtn) els.adminTabBtn.classList.remove('hidden');
+                    
+                    // [경고] 2명 이상의 관리자가 접속하면 이 타이머가 중복 실행됩니다!
+                    startMarketTimer();
+                    
+                } else {
+                    console.log("일반 사용자로 로그인되었습니다.");
+                    // (관리자 탭 숨기기 등)
+                    // if (els.adminTabBtn) els.adminTabBtn.classList.add('hidden');
+                }
+                
+            } else {
+                // 로그아웃 성공
+                console.log("로그아웃됨");
+                playerRef = null;
+
+                stopMarketTimer();
+
+                // 모든 DB 리스너 해제
+                if (playerUnsubscribe) playerUnsubscribe();
+                if (marketUnsubscribe) marketUnsubscribe();
+                // (랭킹 리스너 등 다른 리스너도 해제 필요)
+
+                // UI 처리
+                els.authScreen.classList.remove('hidden');
+                els.mainGame.classList.add('hidden');
+            }
+        });
+    }
+
+    /**
+     * 플레이어 데이터 리스너 설정
+     */
+    function setupPlayerListener(user) {
+        
+        // ▼▼▼ [수정] 관리자(Admin) 확인 로직 ▼▼▼
+        
+        // [1] 여기에 본인의 UID가 들어가 있어야 합니다.
+        const ADMIN_UID = "CBHVz5QNzUgiES6psrBYOREsgJE2"; // (본인 UID)
+
+        // [2] 현재 로그인한 유저가 관리자인지 확인
+        if (user.uid === ADMIN_UID) {
+            // 관리자라면 'hidden' 클래스를 제거 (버튼 보이기)
+            if (els.adminMenuBtn) {
+                els.adminMenuBtn.classList.remove('hidden');
+            }
+        } else {
+            // 관리자가 아니라면 'hidden' 클래스를 유지 (버튼 숨기기)
+            if (els.adminMenuBtn) {
+                els.adminMenuBtn.classList.add('hidden');
+            }
+        }
+        
+        playerRef.on('value', (snapshot) => {
+            if (snapshot.exists()) {
+                // 데이터가 있으면 state에 저장
+                state = snapshot.val();
+                
+                // ▼▼▼ [수정] 타임 어택 상태 확인 및 복구 ▼▼▼
+                if (state.timeAttack && state.timeAttack.isInTimeAttack) {
+                    if (timeAttackTimer) clearInterval(timeAttackTimer); 
+                    
+                    const startTime = state.timeAttack.startTime;
+                    const elapsedMs = Date.now() - startTime; 
+                    const remainingSeconds = TIME_ATTACK_DURATION - Math.floor(elapsedMs / 1000);
+
+                    if (remainingSeconds <= 0) {
+                        // (시간 초과 -> 자동 종료)
+                        showAlert("진행 중이던 타임 어택이 종료되었습니다. 결과를 처리합니다.");
+                        handleEndTimeAttack(); 
+                        isTimeAttackListenerInitialized = false; // [신규] 플래그 리셋
+                    } else {
+                        // (시간 남음 -> 타이머 재개)
+                        
+                        // ▼▼▼ [수정] 플래그를 확인하여 알림을 1회만 띄움 ▼▼▼
+                        if (!isTimeAttackListenerInitialized) {
+                            showAlert(`진행 중인 타임 어택을 재개합니다. (남은 시간: ${Math.floor(remainingSeconds/60)}분)`);
+                            isTimeAttackListenerInitialized = true; // 플래그 설정
+                        }
+                        // ▲▲▲ [수정] ▲▲▲
+
+                        startTimeAttackTimer(remainingSeconds); 
+                        
+                        els.timeAttackBtn.disabled = true;
+                        els.timeAttackBtn.textContent = "타임 어택 진행 중...";
+                        els.timeAttackTimerDisplay.classList.remove('hidden');
+                        els.timeAttackCancelBtn.classList.remove('hidden'); 
+                    }
+                } else {
+                    // (타임 어택 중이 아닐 때)
+                    if (timeAttackTimer) clearInterval(timeAttackTimer);
+                    timeAttackTimer = null;
+                    
+                    isTimeAttackListenerInitialized = false; // [신규] 플래그 리셋
+                    
+                    els.timeAttackBtn.disabled = false;
+                    els.timeAttackBtn.textContent = `🔥 타임 어택 (${TIME_ATTACK_DURATION / 60}분)`;
+                    els.timeAttackTimerDisplay.classList.add('hidden');
+                    els.timeAttackCancelBtn.classList.add('hidden'); 
+                }
+                // ▲▲▲ [수정] 로직 끝 ▲▲▲
+
+                updateUI(); // UI 갱신
+            } else {
+                // (새 플레이어 생성)
+                console.log("새 플레이어 데이터 생성 중...");
+                const initialState = createInitialPlayerState(user);
+                playerRef.set(initialState);
+            }
+        }, (error) => {
+            console.error("플레이어 데이터 읽기 실패:", error);
+            showAlert("플레이어 데이터를 불러오는 데 실패했습니다.");
+        });
+    }
+
+    /**
+     * 마켓 데이터 리스너 설정
+     */
+    function setupMarketListener() {
+        const stocksRef = marketRef.child('stocks');
+        
+        marketUnsubscribe = stocksRef.on('value', (snapshot) => {
+            const marketData = snapshot.val();
+            
+            if (marketData) {
+                Object.assign(stockData, marketData);
+            } else {
+                // 마켓 데이터가 없으면 (최초 실행)
+                console.log("마켓 데이터 없음. 초기화 시도...");
+                // (참고: 실제로는 관리자만 초기화해야 함)
+                // const initialState = createInitialMarketState();
+                // stocksRef.set(initialState);
+            }
+            
+            // (플레이어 데이터(state)가 로드된 후에만 실행)
+            if (state && state.stocks) {
+                
+                // 1. 현재 플레이어가 보유한 주식 목록 순회
+                for (const ticker in state.stocks) {
+                    const playerStock = state.stocks[ticker];
+                    const marketStock = stockData[ticker]; // 방금 갱신된 마켓 데이터
+
+                    // 2. 조건 확인:
+                    // (1) 플레이어가 1주 이상 보유
+                    // (2) 마켓에 정보가 있음
+                    // (3) 마켓에서 '상장폐지' 상태임
+                    if (playerStock && playerStock.shares > 0 && marketStock && marketStock.isDelisted) {
+                        
+                        // 3. 조건 만족 시, 강제 청산 함수 호출
+                        // (이 함수는 1초마다 호출될 수 있지만,
+                        // 함수 내부의 트랜잭션이 1회 실행을 보장함)
+                        handleForceLiquidate(ticker);
+                    }
+                }
+            }
+
+            // UI 갱신 (탭, 주식 정보, 포트폴리오)
+            renderStockList();
+            updateStockInfoUI();
+            updatePortfolioUI();
+
+            // [랭킹] 주가 변동 시, 총 자산 랭킹 갱신
+            updateNetWorthRankings(); 
+        });
+    }
+
+    
+    // === 8. Core Logic (Buy, Sell, Reset) ===
+
+    /**
+     * [최종 수정본] 매수 (NaN, TypeError, Error: set 방어)
+     */
+    function handleBuyStock() {
+        const amount = parseInt(els.amount.value, 10); 
+        const ticker = currentTicker;
+
+        // [방어 1] 수량 검사
+        if (isNaN(amount) || amount <= 0) {
+            showAlert("유효한 수량을 입력하세요.");
+            return;
+        }
+
+        playerRef.transaction((currentPlayerData) => {
+            if (!currentPlayerData) return; // 데이터 로드 전
+
+            const market = stockData[ticker];
+
+            // [방어 2] 마켓/가격 검사 (NaN, undefined, type)
+            if (!market || market.isDelisted || typeof market.price !== 'number' || isNaN(market.price)) {
+                showAlert("현재 거래할 수 없는 종목입니다. (가격 정보 오류)");
+                return; // 트랜잭션 중단
+            }
+
+            const price = market.price;
+            const cost = (price * amount) * (1 + FEE_RATE);
+
+            // [방어 3] 비용(cost) 계산 검사 (FEE_RATE가 undefined일 경우)
+            if (isNaN(cost)) {
+                console.error("비용(cost) 계산 실패. FEE_RATE가 정의되었는지 확인하세요.");
+                showAlert("거래 비용 계산에 실패했습니다. (FEE_RATE 오류)");
+                return; // 트랜잭션 중단
+            }
+            
+            // [방어 4] 현금 '정화' (DB에 NaN이 저장된 경우)
+            let currentCash = Number(currentPlayerData.cash);
+            if (isNaN(currentCash)) { currentCash = 0; }
+
+            if (currentCash < cost) {
+                showAlert("현금이 부족합니다.");
+                return; // 트랜잭션 중단
+            }
+
+            // [방어 5] stocks 객체에 티커가 없는 경우 (Admin Reset 이후)
+            if (!currentPlayerData.stocks[ticker]) {
+                currentPlayerData.stocks[ticker] = { shares: 0, averagePrice: 0 };
+            }
+
+            const stock = currentPlayerData.stocks[ticker];
+            
+            // [방어 6] 보유량/평단가 '정화' (DB에 NaN이 저장된 경우)
+            let currentShares = Number(stock.shares);
+            if (isNaN(currentShares)) { currentShares = 0; }
+            
+            let currentAvgPrice = Number(stock.averagePrice);
+            if (isNaN(currentAvgPrice)) { currentAvgPrice = 0; }
+
+            // '정화된' 값으로만 계산
+            currentPlayerData.cash = currentCash - cost; 
+
+            const newTotalShares = currentShares + amount;
+            const newTotalValue = (currentAvgPrice * currentShares) + (price * amount);
+            // (newTotalShares는 0이 될 수 없으므로 0으로 나누기 방어 불필요)
+            const newAveragePrice = newTotalValue / newTotalShares;
+
+            stock.shares = newTotalShares;
+            stock.averagePrice = newAveragePrice; 
+
+            // [방어 7] history 로그 추가 (history가 undefined일 경우 방어)
+            addHistoryLogToPlayer(currentPlayerData, 
+                `[매수] ${market.name || ticker} (${ticker}) ${amount}주 (총 ${formatCurrency(cost)})`, 
+                'buy'
+            );
+            return currentPlayerData;
+        })
+        .then((result) => {
+            if (!result.committed) { 
+                // (트랜잭션 내부에서 이미 알림을 띄웠으므로, 여기서는 .catch()만 처리)
+            }
+        })
+        .catch((error) => {
+             // (이곳이 Error: set이 잡히는 곳)
+             console.error("Firebase 매수 트랜잭션 오류 (Promise):", error);
+             showAlert("매수 실패. DB 오류가 발생했습니다. (NaN 또는 undefined 저장 시도)");
+        });
+    }
+
+    function handleBuyMax() {
+        const ticker = currentTicker;
+
+        playerRef.transaction((currentPlayerData) => {
+            if (!currentPlayerData) return;
+
+            const market = stockData[ticker];
+
+            // [방어 1] 마켓/가격 검사
+            if (!market || market.isDelisted || typeof market.price !== 'number' || isNaN(market.price)) {
+                showAlert("현재 거래할 수 없는 종목입니다. (가격 정보 오류)");
+                return; 
+            }
+
+            const price = market.price;
+            const pricePerShare = price * (1 + FEE_RATE); // 수수료 포함 1주당 가격
+
+            // [방어 2] 비용(cost) 계산 검사 (FEE_RATE가 undefined일 경우)
+            if (isNaN(pricePerShare)) {
+                console.error("1주당 비용(pricePerShare) 계산 실패. FEE_RATE가 정의되었는지 확인하세요.");
+                showAlert("거래 비용 계산에 실패했습니다. (FEE_RATE 오류)");
+                return;
+            }
+            
+            // [방어 3] 현금 '정화'
+            let currentCash = Number(currentPlayerData.cash);
+            if (isNaN(currentCash)) { currentCash = 0; }
+
+            // ▼▼▼ [핵심 로직] 최대 수량 계산 ▼▼▼
+            const maxAmount = Math.floor(currentCash / pricePerShare);
+            
+            if (maxAmount <= 0) {
+                showAlert("1주도 매수할 현금이 부족합니다.");
+                return;
+            }
+            
+            // 실제 총 비용 계산
+            const totalCost = maxAmount * pricePerShare;
+            // (이론상 currentCash < totalCost는 발생하지 않아야 함)
+            // ▲▲▲ [핵심 로직] 끝 ▲▲▲
+
+
+            // [방어 4] stocks 객체에 티커가 없는 경우
+            if (!currentPlayerData.stocks[ticker]) {
+                currentPlayerData.stocks[ticker] = { shares: 0, averagePrice: 0 };
+            }
+
+            const stock = currentPlayerData.stocks[ticker];
+            
+            // [방어 5] 보유량/평단가 '정화'
+            let currentShares = Number(stock.shares);
+            if (isNaN(currentShares)) { currentShares = 0; }
+            
+            let currentAvgPrice = Number(stock.averagePrice);
+            if (isNaN(currentAvgPrice)) { currentAvgPrice = 0; }
+
+            // '정화된' 값으로만 계산
+            currentPlayerData.cash = currentCash - totalCost; 
+
+            const newTotalShares = currentShares + maxAmount; // 'amount' 대신 'maxAmount'
+            const newTotalValue = (currentAvgPrice * currentShares) + (price * maxAmount); // 'amount' 대신 'maxAmount'
+            const newAveragePrice = newTotalValue / newTotalShares;
+
+            stock.shares = newTotalShares;
+            stock.averagePrice = newAveragePrice; 
+
+            // [방어 6] history 로그 추가
+            addHistoryLogToPlayer(currentPlayerData, 
+                `[전액 매수] ${market.name || ticker} (${ticker}) ${maxAmount}주 (총 ${formatCurrency(totalCost)})`, 
+                'buy'
+            );
+            return currentPlayerData;
+        })
+        .then((result) => {
+            if (!result.committed) { /* (내부 알림) */ }
+        })
+        .catch((error) => {
+             console.error("Firebase 전액 매수 트랜잭션 오류 (Promise):", error);
+             showAlert("전액 매수 실패. DB 오류가 발생했습니다. (NaN 또는 undefined 저장 시도)");
+        });
+    }
+
+    /**
+     * [최종 수정본] 매도 (NaN, TypeError, Error: set 방어)
+     */
+    function handleSellStock() {
+        const amount = parseInt(els.amount.value, 10);
+        const ticker = currentTicker;
+
+        if (isNaN(amount) || amount <= 0) {
+            showAlert("유효한 수량을 입력하세요.");
+            return;
+        }
+
+        playerRef.transaction((currentPlayerData) => {
+            if (!currentPlayerData) return;
+
+            const stock = currentPlayerData.stocks[ticker];
+            
+            // [방어 1, 2, 3] 현금, 주식, 평단가 '정화'
+            let currentShares = Number(stock ? stock.shares : 0);
+            if (isNaN(currentShares)) { currentShares = 0; }
+            
+            let currentAvgPrice = Number(stock ? stock.averagePrice : 0);
+            if (isNaN(currentAvgPrice)) { currentAvgPrice = 0; }
+            
+            let currentCash = Number(currentPlayerData.cash);
+            if (isNaN(currentCash)) { currentCash = 0; }
+
+            // [방어 4] 보유량 검사 (정화된 값 기준)
+            if (currentShares <= 0) {
+                showAlert("보유하지 않은 종목입니다.");
+                return;
+            }
+            if (amount > currentShares) {
+                showAlert("보유 수량보다 많이 매도할 수 없습니다.");
+                return;
+            }
+
+            const market = stockData[ticker];
+            // [방어 5] 마켓/가격 검사
+            if (!market || market.isDelisted || typeof market.price !== 'number' || isNaN(market.price)) {
+                showAlert("현재 거래할 수 없는 종목입니다. (가격 정보 오류)");
+                return;
+            }
+            
+            const price = market.price; 
+            const revenue = (price * amount) * (1 - FEE_RATE); 
+            
+            // [방어 6] 수익(revenue) 계산 검사 (FEE_RATE)
+            if (isNaN(revenue)) {
+                console.error("수익(revenue) 계산 실패. FEE_RATE가 정의되었는지 확인하세요.");
+                showAlert("거래 수익 계산에 실패했습니다. (FEE_RATE 오류)");
+                return;
+            }
+            
+            // '정화된' 값으로만 계산
+            const profit = (price - currentAvgPrice) * amount - (price * amount * FEE_RATE);
+
+            currentPlayerData.cash = currentCash + revenue;
+            stock.shares = currentShares - amount;
+            
+            if (stock.shares === 0) {
+                stock.averagePrice = 0;
+            }
+
+            // [방어 7] history 로그 추가
+            addHistoryLogToPlayer(currentPlayerData, 
+                `[매도] ${market.name || ticker} (${ticker}) ${amount}주 (실현손익: ${formatCurrency(profit)})`, 
+                'sell'
+            );
+            return currentPlayerData;
+        })
+        .then((result) => {
+             if (!result.committed) { /* (내부 알림) */ }
+        })
+        .catch((error) => {
+             console.error("Firebase 매도 트랜잭션 오류 (Promise):", error);
+             showAlert("매도 실패. DB 오류가 발생했습니다. (NaN 또는 undefined 저장 시도)");
+        });
+    }
+
+    function handleSellAll() {
+        
+        // 1. [복원] showConfirm() 확인 절차
+        // (showConfirm이 <br> 태그를 지원하도록 수정되었음)
+        const confirmMsg = "🚨 경고 🚨<br><br>보유한 모든 주식을 현재 시장가로 즉시 매도합니다.<br>(상장 폐지 등 거래 불가 종목 제외)<br><br>정말로 실행하시겠습니까?";
+        
+        showConfirm(confirmMsg, () => {
+            
+            // 2. 확인 시 트랜잭션 실행
+            playerRef.transaction((currentPlayerData) => {
+                if (!currentPlayerData) return;
+
+                if (!currentPlayerData.stocks) {
+                    currentPlayerData.stocks = {};
+                }
+
+                let totalRevenue = 0; // 총 매도 수익
+                let totalProfit = 0;  // 총 실현 손익
+                let soldCount = 0;    // 매도한 종목 수
+
+                // [방어 1] 현금 정화 (NaN 방지)
+                let currentCash = Number(currentPlayerData.cash);
+                if (isNaN(currentCash)) { currentCash = 0; }
+                
+                // [방어 2] history 정화 (TypeError 방지)
+                if (!Array.isArray(currentPlayerData.history)) {
+                    currentPlayerData.history = [];
+                }
+
+                // 3. 보유한 모든 주식 티커를 순회
+                for (const ticker in currentPlayerData.stocks) {
+                    const stock = currentPlayerData.stocks[ticker];
+                    
+                    // [방어 3] 주식 객체 및 보유량 정화
+                    let currentShares = Number(stock ? stock.shares : 0);
+                    if (isNaN(currentShares)) { currentShares = 0; }
+                    
+                    let currentAvgPrice = Number(stock ? stock.averagePrice : 0);
+                    if (isNaN(currentAvgPrice)) { currentAvgPrice = 0; }
+
+                    // 4. 매도할 주식이 1주 이상 있는지 확인
+                    if (currentShares > 0) {
+                        const market = stockData[ticker];
+
+                        // [방어 4] 마켓/가격 검사 (거래 가능한지)
+                        if (market && !market.isDelisted && typeof market.price === 'number' && !isNaN(market.price)) {
+                            
+                            const price = market.price;
+                            const revenue = (price * currentShares) * (1 - FEE_RATE);
+                            
+                            // [방어 5] 수익(revenue) 계산 검사 (FEE_RATE)
+                            if (isNaN(revenue)) {
+                                console.error(`[전액 매도] ${ticker} 수익(revenue) 계산 실패. FEE_RATE 확인.`);
+                                continue; // 이 종목은 건너뜀
+                            }
+                            
+                            // 5. 총 수익 및 실현 손익 누적
+                            totalRevenue += revenue;
+                            totalProfit += (price - currentAvgPrice) * currentShares - (price * currentShares * FEE_RATE);
+                            soldCount++;
+
+                            // 6. 주식 보유량 0으로 초기화
+                            stock.shares = 0;
+                            stock.averagePrice = 0;
+
+                        } else {
+                            // (거래 불가능한 종목은 무시)
+                            console.log(`[전액 매도] ${ticker}는 거래 불가 상태이므로 건너뜁니다.`);
+                        }
+                    }
+                } // for-loop 끝
+
+                // 7. 최종 결과 적용
+                if (soldCount > 0) {
+                    currentPlayerData.cash = currentCash + totalRevenue;
+                    
+                    addHistoryLogToPlayer(currentPlayerData, 
+                        `[전액 매도] ${soldCount}개 종목 청산 (총 수익: ${formatCurrency(totalRevenue)}, 총 손익: ${formatCurrency(totalProfit)})`, 
+                        'sell'
+                    );
+                } else {
+                    // 매도할 주식이 하나도 없었으면 트랜잭션 중단
+                    return; 
+                }
+
+                return currentPlayerData;
+            })
+            .then((result) => {
+                if (!result.committed) {
+                    // (매도할 주식이 없을 때의 알림은 유지)
+                    showAlert("매도할 수 있는 주식이 없습니다.");
+                } else {
+                    // (완료 알림은 사용자가 삭제 요청했으므로 복원하지 않음)
+                }
+            })
+            .catch((error) => {
+                 console.error("Firebase 전액 매도 트랜잭션 오류 (Promise):", error);
+                 showAlert("전액 매도 실패. DB 오류가 발생했습니다. (NaN 또는 undefined 저장 시도)");
+            });
+
+        }); // 3. [복원] showConfirm 닫는 괄호
+    }
+    
+    /**
+     * [신규] 상장폐지된 특정 주식을 강제 청산(매도)합니다.
+     * @param {string} ticker 청산할 주식 티커
+     */    
+    function handleForceLiquidate(ticker) {
+        // 이 함수는 setupMarketListener에 의해 1초마다 호출될 수 있습니다.
+        // 하지만 트랜잭션 내부의 'shares > 0' 체크가 단 1회만 실행되도록 보장합니다.
+
+        const market = stockData[ticker];
+        
+        // (1) 마켓 데이터가 없거나, (2) 가격이 숫자가 아니거나 (NaN 방어)
+        if (!market || typeof market.price !== 'number' || isNaN(market.price)) {
+            console.error(`[강제 청산] ${ticker}의 마켓/가격 정보를 찾을 수 없어 청산을 건너뜁니다.`);
+            return; // 마켓 정보 없으면 중단
+        }
+        
+        // 상장폐지 가격 (이것이 마지막 거래 가격임)
+        const delistPrice = 0;
+        // 매도 수수료(FEE_RATE)를 뺀 1주당 실제 수익
+        const pricePerShare = delistPrice * (1 - FEE_RATE);
+        
+        if (isNaN(pricePerShare)) {
+             console.error(`[강제 청산] ${ticker}의 청산 비용 계산 실패 (FEE_RATE 오류).`);
+             return; // 수수료 계산 실패 시 중단
+        }
+
+        playerRef.transaction((currentPlayerData) => {
+            if (!currentPlayerData) return;
+
+            const stock = currentPlayerData.stocks[ticker];
+
+            // [핵심 방어]
+            // 1. stock 객체가 없거나
+            // 2. 이미 청산되어 shares가 0이거나 NaN/undefined일 경우
+            let currentShares = Number(stock ? stock.shares : 0);
+            if (isNaN(currentShares) || currentShares <= 0) {
+                return; // 이미 청산되었거나 보유량이 없으므로 트랜잭션 중단
+            }
+            
+            // (정화 로직)
+            let currentAvgPrice = Number(stock ? stock.averagePrice : 0);
+            if (isNaN(currentAvgPrice)) { currentAvgPrice = 0; }
+
+            let currentCash = Number(currentPlayerData.cash);
+            if (isNaN(currentCash)) { currentCash = 0; }
+
+            // 1. 총 수익 계산
+            const revenue = pricePerShare * currentShares;
+            // 2. 실현 손익 계산
+
+            // 3. 현금에 수익 추가
+            currentPlayerData.cash = currentCash + revenue;
+            // 4. 주식 보유량 0으로 강제 청산
+            stock.shares = 0; 
+            stock.averagePrice = 0;
+
+            // 5. 로그 추가
+            
+            return currentPlayerData;
+        })
+        .catch((error) => {
+            // (트랜잭션이 중단(return)된 것은 에러가 아님)
+            if (error) {
+                console.error(`[강제 청산] ${ticker} 트랜잭션 실패:`, error);
+            }
+        });
+    }
+
+    /**
+     * [수정] 관리자 리셋 (마켓 + 본인 계정)
+     */
+    function handleAdminReset() {
+        const password = prompt("관리자 비밀번호를 입력하세요 (기본값: admin):");
+        if (password === 'ILoveCat') { 
+            
+            if (confirm("🚨 경고 🚨\n\n'마켓 데이터'와 '당신 자신의 플레이어 데이터'를 모두 초기화하시겠습니까?\n\n(다른 플레이어의 데이터는 유지됩니다)")) {
+                
+                try {
+                    const initialState = createInitialMarketState(); 
+                    
+                    // 작업 1: 마켓 리셋
+                    const marketResetPromise = marketRef.child('stocks').set(initialState);
+                    
+                    // 작업 2: '나'의 플레이어 데이터 삭제
+                    const playerResetPromise = playerRef.remove(); 
+
+                    Promise.all([marketResetPromise, playerResetPromise])
+                        .then(() => {
+                            showAlert("✅ Admin Reset 완료", "마켓과 당신의 데이터가 초기화되었습니다. 페이지를 새로고침합니다.");
+                            location.reload(); 
+                        })
+                        .catch((err) => {
+                            console.error("Firebase 쓰기 오류:", err);
+                            showAlert("❌ 초기화 실패", "Firebase 쓰기 권한을 확인하세요.");
+                        });
+
+                } catch (e) {
+                    console.error("초기화 함수(createInitialMarketState) 오류:", e);
+                    showAlert("❌ 초기화 실패", "createInitialMarketState 함수에 구문 오류가 있습니다. F12 콘솔을 확인하세요.");
+                }
+            }
+        } else if (password !== null) { 
+            showAlert("❌ 비밀번호가 틀렸습니다.");
+        }
+    }
+
+    function handlePostNews() {
+        if (!els.adminNewsContent) return;
+
+        const content = els.adminNewsContent.value.trim();
+        
+        if (!content) {
+            showAlert("뉴스 내용을 입력하세요.");
+            return;
+        }
+
+        // DB의 '/news' 경로에 새 항목을 push (고유 ID 생성)
+        const newsRef = db.ref('news');
+        newsRef.push({
+            timestamp: firebase.database.ServerValue.TIMESTAMP,
+            message: content
+        })
+        .then(() => {
+            showAlert("뉴스를 성공적으로 게시했습니다.");
+            els.adminNewsContent.value = ''; // 입력창 비우기
+        })
+        .catch((error) => {
+            console.error("뉴스 게시 오류:", error);
+            showAlert("뉴스 게시에 실패했습니다. (DB 오류)");
+        });
+    }
+
+    function handleAdminStockManipulate() {
+        if (!els.adminStockTicker || !els.adminStockPrice) return;
+
+        const ticker = els.adminStockTicker.value.trim().toUpperCase();
+        const newPrice = parseFloat(els.adminStockPrice.value);
+
+        if (!ticker) {
+            showAlert("종목 코드를 입력하세요.");
+            return;
+        }
+        if (isNaN(newPrice) || newPrice <= 0) {
+            showAlert("올바른 가격(숫자)을 입력하세요.");
+            return;
+        }
+
+        // ▼▼▼ [경로 수정] 'market/stock/' + ticker ▼▼▼
+        const stockRef = db.ref(`market/stocks/${ticker}`);
+        // ▲▲▲ [경로 수정] ▲▲▲
+        
+        stockRef.transaction((currentStockData) => {
+            
+            if (currentStockData === null) {
+                console.warn(`관리자: ${ticker}는 새 종목입니다. history를 새로 시작합니다.`);
+                return {
+                    price: newPrice,
+                    history: [newPrice], 
+                    isDelisted: false
+                };
+            }
+
+            let currentHistory = [];
+            if (currentStockData.history && Array.isArray(currentStockData.history)) {
+                currentHistory = currentStockData.history;
+            }
+
+            currentHistory.push(newPrice);
+            
+            while (currentHistory.length > 30) {
+                currentHistory.shift();
+            }
+
+            return {
+                ...currentStockData, 
+                price: newPrice,
+                history: currentHistory
+            };
+            
+        }, (error, committed, snapshot) => {
+            if (error) {
+                console.error("주가 설정 (트랜잭션) 오류:", error);
+                showAlert(`주가 설정에 실패했습니다. (오류: ${error.message})`);
+            } else if (!committed) {
+                console.warn("주가 설정 트랜잭션이 커밋되지 않았습니다. (데이터 경합)");
+            } else {
+                showAlert(`[${ticker}] 종목의 가격을 ${formatCurrency(newPrice)} (으)로 강제 설정했습니다.`);
+                els.adminStockTicker.value = '';
+                els.adminStockPrice.value = '';
+            }
+        });
+    }
+
+    /**
+     * 인증: 구글 로그인
+     */
+    function signInWithGoogle() {
+        const provider = new firebase.auth.GoogleAuthProvider();
+        auth.signInWithPopup(provider).catch((error) => {
+            console.error("Google 로그인 실패:", error);
+            showAlert(`로그인 실패: ${error.message}`);
+        });
+    }
+
+    /**
+     * 인증: 로그아웃
+     */
+    function signOut() {
+        auth.signOut();
+    }
+
+
+    // === 9. Bank Logic ===
+    
+    function showBankModal() {
+        if (!state.bank) { // 혹시 bank 객체가 없으면 생성
+            state.bank = { checking: 0, savings: 0, loan: 0, loanRepay: 0, savingsTimestamp: null, loanTimestamp: null };
+            playerRef.child('bank').set(state.bank);
+        }
+
+        if (els.bankModalCash) {
+             els.bankModalCash.textContent = formatCurrency(state.cash);
+        }
+
+        if (els.maxLoanInfo) {
+            const maxLoan = (Number(state.cash) || 0) * 3;
+            els.maxLoanInfo.textContent = formatCurrency(maxLoan);
+        }
+ 
+        els.bankModal.classList.remove('hidden');
+        els.bankModal.classList.add('flex');
+
+        if (bankTimer) clearInterval(bankTimer); // 기존 타이머 정리
+        updateBankTimerUI(); // 즉시 1회 실행
+        bankTimer = setInterval(updateBankTimerUI, 1000); // 1초마다 갱신
+    }
+
+    function hideBankModal() {
+        
+        if (bankTimer) {
+            clearInterval(bankTimer);
+            bankTimer = null;
+        }
+
+        els.bankModal.classList.add('hidden');
+        els.bankModal.classList.remove('flex');
+    }
+
+    function handleBankSave(type) {
+        
+        playerRef.transaction((currentPlayerData) => {
+            if (!currentPlayerData) return;
+            
+            if (!currentPlayerData.bank) {
+                currentPlayerData.bank = { savings: 0, savingsTimestamp: null, loan: 0, loanTimestamp: null, loanRepayTimestamp: null, bankruptTimestamp: null };
+            }
+
+            let currentCash = Number(currentPlayerData.cash) || 0;
+            let currentSavings = Number(currentPlayerData.bank.savings) || 0;
+
+            // --- 1. 예금 (Save) ---
+            if (type === 'save') {
+                let amount = Number(els.saveAmount.value);
+                if (isNaN(amount) || amount <= 0) {
+                    showAlert("정확한 예금액을 입력하세요.");
+                    return; 
+                }
+                
+                // [체크 1] 대출 중 예금 방지
+                if (currentPlayerData.bank.loan > 0) {
+                    showAlert("대출이 있는 상태에서는 예금할 수 없습니다.");
+                    return;
+                }
+                
+                // ▼▼▼ [신규] 추가 예금 방지 로직 ▼▼▼
+                if (currentSavings > 0) {
+                    showAlert("이미 예금이 있습니다. 전액 인출 후 다시 시도하세요. (추가 예금 불가)");
+                    return;
+                }
+                // ▲▲▲ [신규] ▲▲▲
+
+                // [체크 3] 현금 부족
+                if (currentCash < amount) {
+                    showAlert("예금할 현금이 부족합니다.");
+                    return;
+                }
+
+
+                if ( amount > 10000000000 ) {
+                    showAlert(" 100억 초과로 예금할 수 없습니다. ");
+                    return;
+                }
+
+                currentPlayerData.cash = currentCash - amount;
+                currentPlayerData.bank.savings = currentSavings + amount; // (currentSavings는 0이어야 함)
+                currentPlayerData.bank.savingsTimestamp = firebase.database.ServerValue.TIMESTAMP; 
+                
+            // --- 2. 전액 인출 (Withdraw) ---
+            } else if (type === 'withdraw') {
+                if (currentSavings <= 0) {
+                    showAlert("인출할 예금이 없습니다.");
+                    return;
+                }
+
+                let amountToReceive = currentSavings;
+
+                const depositTime = currentPlayerData.bank.savingsTimestamp;
+
+                if (depositTime) {
+                    const currentTime = Date.now(); // 현재 시간 (밀리초)
+                    const elapsedMilliseconds = currentTime - depositTime; // 경과 시간 (밀리초)
+
+                    // --- 설정값 ---
+                    const INTEREST_RATE = 0.02; // 이자율 (2%)
+                    const COMPOUNDING_INTERVAL_MS = 10 * 60 * 1000; // 10분 (밀리초)
+                    // ---------------
+
+                    // ▼▼▼ [수정됨] ▼▼▼
+                    // 총 몇 번의 10분(이자 지급 횟수)이 지났는지 '소수점'으로 계산 (Math.floor 제거)
+                    // 예: 15분 지났으면 1.5, 5분 지났으면 0.5
+                    const compoundingPeriods = elapsedMilliseconds / COMPOUNDING_INTERVAL_MS;
+                    // ▲▲▲ [수정됨] ▲▲▲
+
+                    if (compoundingPeriods > 0) {
+                        // 복리 계산: 원금 * (1 + 이자율)^기간
+                        // compoundingPeriods가 1.5 같은 소수점이어도 Math.pow가 알아서 계산해 줍니다.
+                        const finalAmount = currentSavings * Math.pow((1 + INTEREST_RATE), compoundingPeriods);
+                        
+                        // 소수점 버림 (게임 화폐는 보통 정수)
+                        const roundedFinalAmount = Math.floor(finalAmount); 
+
+                        // 총 인출액 = 원금 + 복리 이자
+                        amountToReceive = roundedFinalAmount;
+
+                        // 획득한 이자 (알림용)
+                        const earnedInterest = roundedFinalAmount - currentSavings;
+
+                        if (earnedInterest > 0) {
+                            // ▼▼▼ [수정됨] ▼▼▼
+                            // 알림 메시지를 '횟수'가 아닌 '총 경과 시간(분)'으로 변경
+                            const elapsedMinutes = elapsedMilliseconds / (60 * 1000); 
+                            showAlert(`총 ${elapsedMinutes.toFixed(1)}분 경과에 대한 복리 이자가 적용되어\n${earnedInterest.toLocaleString()}원을 추가로 받았습니다!`);
+                            // ▲▲▲ [수정됨] ▲▲▲
+                        }
+                    }
+                }
+                
+                // (중도 인출 페널티 로직 삭제됨)
+
+                currentPlayerData.cash = currentCash + amountToReceive;
+                currentPlayerData.bank.savings = 0;
+                currentPlayerData.bank.savingsTimestamp = null;
+                
+            }
+            return currentPlayerData;
+        })
+        .catch((error) => {
+            console.error("은행 예금/인출 트랜잭션 오류:", error);
+            showAlert("은행 예금/인출에 실패했습니다. (DB 오류)");
+        });
+    }
+
+    function handleBankLoan(type) {
+        
+        const now = Date.now(); 
+        
+        playerRef.transaction((currentPlayerData) => {
+            if (!currentPlayerData) return;
+
+            if (!currentPlayerData.bank) {
+                currentPlayerData.bank = { savings: 0, savingsTimestamp: null, loan: 0, loanTimestamp: null, loanRepayTimestamp: null, bankruptTimestamp: null };
+            }
+
+            let currentCash = Number(currentPlayerData.cash) || 0;
+            let currentLoan = Number(currentPlayerData.bank.loan) || 0;
+
+            // --- 1. 대출 (Loan) ---
+            if (type === 'loan') {
+                
+                // (쿨타임 체크)
+                const repayTime = currentPlayerData.bank.loanRepayTimestamp;
+                const TEN_MINUTES_MS = 10 * 60 * 1000;
+                
+                if (repayTime && (now - repayTime < TEN_MINUTES_MS)) {
+                    const remainingMs = TEN_MINUTES_MS - (now - repayTime);
+                    const remainingSeconds = Math.floor(remainingMs / 1000);
+                    const minutes = Math.floor(remainingSeconds / 60);
+                    const seconds = remainingSeconds % 60;
+                    
+                    showAlert(`대출 쿨타임 중입니다. (남은 시간: ${minutes}분 ${seconds}초)`);
+                    return;
+                }
+                
+                let amount = Number(els.loanAmount.value);
+                if (isNaN(amount) || amount <= 0) {
+                    showAlert("정확한 대출액을 입력하세요.");
+                    return;
+                }
+                
+                if (currentLoan > 0) {
+                    showAlert("이미 대출이 있습니다. 전액 상환 후 다시 시도하세요. (추가 대출 불가)");
+                    return;
+                }
+                
+                const maxLoan = currentCash * 3;
+                if (amount > maxLoan) {
+                    showAlert(`대출 한도를 초과했습니다. (최대: ${formatCurrency(maxLoan)})`);
+                    return;
+                }
+
+                // ▼▼▼ [수정] 이자 로직 변경 ▼▼▼
+                const interest = amount * 0.20; // 이자 (예: 2,000원)
+                const totalDebt = amount + interest; // 총 부채 (예: 12,000원)
+                
+                // (수수료를 떼지 않고 요청 금액(amount)을 그대로 입금)
+                currentPlayerData.cash = currentCash + amount; // (예: 10,000원 받음)
+                
+                // (부채는 이자가 포함된 금액으로 기록)
+                currentPlayerData.bank.loan = totalDebt; // (예: 12,000원 갚아야 함)
+                // ▲▲▲ [수정] ▲▲▲
+                
+                currentPlayerData.bank.loanTimestamp = firebase.database.ServerValue.TIMESTAMP;
+                currentPlayerData.bank.loanRepayTimestamp = null; 
+                
+
+            // --- 2. 전액 상환 (Repay) ---
+            } else if (type === 'repay') {
+                if (currentLoan <= 0) {
+                    showAlert("상환할 대출금이 없습니다.");
+                    return;
+                }
+                // (currentLoan은 이제 120% 금액이므로 이 로직은 그대로 유지)
+                if (currentCash < currentLoan) {
+                    showAlert("대출금 전액을 상환할 현금이 부족합니다.");
+                    return;
+                }
+
+                currentPlayerData.cash = currentCash - currentLoan;
+                currentPlayerData.bank.loan = 0;
+                currentPlayerData.bank.loanTimestamp = null;
+                currentPlayerData.bank.loanRepayTimestamp = firebase.database.ServerValue.TIMESTAMP;
+                
+            }
+            return currentPlayerData;
+        })
+        .catch((error) => {
+            console.error("은행 대출/상환 트랜잭션 오류:", error);
+            showAlert("은행 대출/상환에 실패했습니다. (DB 오류)");
+        });
+    }
+
+
+    function applyBankInterest() {
+        const now = Date.now(); 
+        
+        if (!playerRef) return; 
+
+        playerRef.transaction((currentPlayerData) => {
+            if (!currentPlayerData || !currentPlayerData.bank) {
+                return; 
+            }
+
+            const bank = currentPlayerData.bank;
+            let logMessages = [];
+            
+            // (단리 이자 지급을 위한 currentCash 변수 제거)
+            // let currentCash = Number(currentPlayerData.cash) || 0;
+            
+            // --- 1. 예금 이자 (10분마다 % 복리) ---
+            const TEN_MINUTES_MS = 10 * 60 * 1000;
+            const savings = Number(bank.savings) || 0;
+            const savingsTime = bank.savingsTimestamp;
+
+            if (savings > 0 && savingsTime && (now - savingsTime >= TEN_MINUTES_MS)) {
+                
+                const interest = savings * 0.03;
+                
+                // ▼▼▼ [수정] 단리(현금 지급) -> 복리(원금에 더하기) ▼▼▼
+                bank.savings += interest; 
+                // (currentPlayerData.cash = currentCash + interest; 코드 삭제)
+                // ▲▲▲ [수정] ▲▲▲
+
+                bank.savingsTimestamp = now; // 타이머 리셋
+                
+            }
+
+            // --- 2. 대출 이자 ( 시작 20% and 10분 쿨타임 ) ---
+            const loan = Number(bank.loan) || 0;
+
+            return currentPlayerData;
+        });
+    }
+
+    function promptBankruptConfirmation() {
+        const message = "정말로 파산을 신청하시겠습니까? 모든 자산(주식, 예금)이 청산되며, 현금 300만, 대출 500만으로 시작합니다. (10분 쿨타임 적용)";
+        
+        // 기존 확인 모달(showConfirmation)을 호출하고,
+        // '확인' 버튼을 누르면 실행될 콜백 함수로 'handleBankrupt'를 전달
+        showConfirm(message, handleBankrupt);
+    }
+
+    function handleBankrupt() {
+        const now = Date.now();
+        
+        playerRef.transaction((currentPlayerData) => {
+            if (!currentPlayerData) return;
+
+            // [수정] DB '정화' (bankruptTimestamp 필드 확인)
+            if (!currentPlayerData.bank) {
+                currentPlayerData.bank = { 
+                    savings: 0, savingsTimestamp: null, 
+                    loan: 0, loanTimestamp: null, 
+                    loanRepayTimestamp: null, bankruptTimestamp: null 
+                };
+            }
+
+            // --- 1. 10분 쿨타임 체크 (이 로직은 올바름) ---
+            const bankruptTime = currentPlayerData.bank.bankruptTimestamp;
+            const TEN_MINUTES_MS = 10 * 60 * 1000;
+            
+            if (bankruptTime && (now - bankruptTime < TEN_MINUTES_MS)) {
+                const remainingMs = TEN_MINUTES_MS - (now - bankruptTime);
+                const remainingSeconds = Math.floor(remainingMs / 1000);
+                const minutes = Math.floor(remainingSeconds / 60);
+                const seconds = remainingSeconds % 60;
+                
+                showAlert(`파산 신청 쿨타임 중입니다. (남은 시간: ${minutes}분 ${seconds}초)`);
+                return; // 트랜잭션 중단
+            }
+            
+            // --- 2. [버그 수정] 새 객체를 반환(return)하는 대신,
+            //          currentPlayerData를 *직접 수정*합니다. ---
+
+            // 주식 초기화
+            const initialPlayerStocks = {};
+            allTickers.forEach(ticker => {
+                initialPlayerStocks[ticker] = { shares: 0, averagePrice: 0 };
+            });
+            currentPlayerData.stocks = initialPlayerStocks;
+            
+            // 현금 초기화
+            currentPlayerData.cash = 3000000; // (파산 구제금)
+
+            // 은행 초기화 (bank 객체를 통째로 교체)
+            currentPlayerData.bank = {
+                // (제공해주신 파산 설정값)
+                checking: 0, 
+                savings: 0, 
+                loan: 5000000, // (파산 대출)
+                savingsTimestamp: null, 
+                loanTimestamp: null,
+                loanRepayTimestamp: null, // (다른 필드도 유지)
+
+                // ▼▼▼ [핵심 버그 수정] 쿨타임 *저장* ▼▼▼
+                bankruptTimestamp: now
+                // ▲▲▲ [핵심 버그 수정] ▲▲▲
+            };
+
+            // (선택사항) 히스토리 로그 추가
+            addHistoryLogToPlayer(currentPlayerData, 
+                '[파산] 파산을 신청하여 모든 자산이 초기화되었습니다. (구제금 300만, 대출 500만)', 
+                'system'
+            );
+
+            // [버그 수정] 덮어쓰지 않고, *수정된* currentPlayerData를 반환
+            return currentPlayerData;
+        })
+        .catch((error) => {
+            console.error("파산 신청 트랜잭션 오류:", error);
+            showAlert("파산 신청에 실패했습니다. (DB 오류)");
+        });
+    }
+    
+    function handleBankSave(type) {
+        
+        playerRef.transaction((currentPlayerData) => {
+            if (!currentPlayerData) return;
+            
+            if (!currentPlayerData.bank) {
+                currentPlayerData.bank = { savings: 0, savingsTimestamp: null, loan: 0, loanTimestamp: null };
+            }
+            let currentCash = Number(currentPlayerData.cash) || 0;
+            let currentSavings = Number(currentPlayerData.bank.savings) || 0;
+
+            // --- 1. 예금 (Save) ---
+            if (type === 'save') {
+                let amount = Number(els.saveAmount.value);
+                if (isNaN(amount) || amount <= 0) {
+                    showAlert("정확한 예금액을 입력하세요.");
+                    return; 
+                }
+                
+                // [체크 1] 대출 중 예금 방지
+                if (currentPlayerData.bank.loan > 0) {
+                    showAlert("대출이 있는 상태에서는 예금할 수 없습니다.");
+                    return;
+                }
+                
+                // ▼▼▼ [신규] 추가 예금 방지 로직 ▼▼▼
+                if (currentSavings > 0) {
+                    showAlert("이미 예금이 있습니다. 전액 인출 후 다시 시도하세요. (추가 예금 불가)");
+                    return;
+                }
+                // ▲▲▲ [신규] ▲▲▲
+
+                // [체크 3] 현금 부족
+                if (currentCash < amount) {
+                    showAlert("예금할 현금이 부족합니다.");
+                    return;
+                }
+
+                currentPlayerData.cash = currentCash - amount;
+                currentPlayerData.bank.savings = currentSavings + amount; // (currentSavings는 0이어야 함)
+                currentPlayerData.bank.savingsTimestamp = firebase.database.ServerValue.TIMESTAMP; 
+                
+
+            // --- 2. 전액 인출 (Withdraw) ---
+            } else if (type === 'withdraw') {
+                if (currentSavings <= 0) {
+                    showAlert("인출할 예금이 없습니다.");
+                    return;
+                }
+
+                let amountToReceive = currentSavings;
+                
+                // (중도 인출 페널티 로직 삭제됨)
+
+                currentPlayerData.cash = currentCash + amountToReceive;
+                currentPlayerData.bank.savings = 0;
+                currentPlayerData.bank.savingsTimestamp = null;
+                
+            }
+            return currentPlayerData;
+        })
+        .catch((error) => {
+            console.error("은행 예금/인출 트랜잭션 오류:", error);
+            showAlert("은행 예금/인출에 실패했습니다. (DB 오류)");
+        });
+    }
+
+    
+    // === 10. Time Attack Logic ===
+    
+    function handleStartTimeAttack() {
+        if (timeAttackTimer) {
+            return showAlert("타임 어택이 이미 진행 중입니다.");
+        }
+        
+        const confirmMsg = "30분 타임 어택을 시작하시겠습니까?<br><br>현재 게임(현금, 주식, 은행)이 안전하게 저장된 후, 초기 자본으로 새 게임을 시작합니다.";
+        
+        showConfirm(confirmMsg, () => {
+                
+            playerRef.transaction((currentPlayerData) => {
+                if (!currentPlayerData) return; 
+
+                // (중복 실행 방지)
+                if (currentPlayerData.timeAttack && currentPlayerData.timeAttack.isInTimeAttack) {
+                    // 여기서 return하면 .then()으로 넘어가지 않고 aborted 됩니다.
+                    return; 
+                }
+                // (스냅샷 오류 방지)
+                if (currentPlayerData.snapshot) {
+                    // 이미 스냅샷이 있다는 건 이전 복구가 안 됐다는 뜻
+                    return; 
+                }
+
+                // 1. 현재 게임 데이터를 'snapshot'에 백업
+                const snapshotData = {
+                    cash: currentPlayerData.cash,
+                    stocks: currentPlayerData.stocks,
+                    bank: currentPlayerData.bank
+                };
+                
+                // 2. 새 게임 상태 로드
+                const newGameState = createInitialGameState();
+                
+                // 3. 현재 데이터를 -> 새 게임 데이터로 덮어쓰기
+                currentPlayerData.snapshot = snapshotData; 
+                currentPlayerData.cash = newGameState.cash;
+                currentPlayerData.stocks = newGameState.stocks;
+                currentPlayerData.bank = newGameState.bank;
+                
+                // 4. 타임 어택 상태 설정
+                currentPlayerData.timeAttack.isInTimeAttack = true;
+                
+                // ▼▼▼ [수정 1] 서버 시간 대신 '내 기기 시간' 사용 (리스너와 기준 통일) ▼▼▼
+                currentPlayerData.timeAttack.startTime = Date.now(); 
+                // ▲▲▲ [수정 1] ▲▲▲
+                
+                currentPlayerData.timeAttack.endTime = null;
+
+                return currentPlayerData;
+            })
+            .then((result) => {
+                if (result.committed) {
+                    // ▼▼▼ [수정 2] UI/타이머 코드는 전부 삭제! (리스너가 알아서 함) ▼▼▼
+                    showAlert("✅ 타임 어택 시작!", "30분간 초기 자본으로 최대 수익에 도전하세요.<br>기존 데이터는 안전하게 보관됩니다.");
+                    
+                    // 여기서 startTimeAttackTimer나 버튼 조작을 하지 마세요.
+                    // 데이터가 DB에 기록되는 순간, playerRef.on 리스너가 감지하고 
+                    // 자동으로 타이머를 켜고 버튼을 비활성화합니다.
+                    // ▲▲▲ [수정 2] ▲▲▲
+                } else {
+                    // transaction 함수 내에서 return; 되어 갱신되지 않은 경우
+                    showAlert("타임 어택을 시작할 수 없습니다.", "이미 진행 중이거나 데이터 오류가 있습니다.");
+                }
+            })
+            .catch((error) => {
+                console.error("타임 어택 시작 트랜잭션 오류:", error);
+                showAlert("타임 어택 시작에 실패했습니다. (DB 오류)");
+            });
+        });
+    }
+
+    function startTimeAttackTimer(duration) {
+        let remaining = duration;
+        
+        const updateTimerDisplay = () => {
+            const minutes = Math.floor(remaining / 60);
+            const seconds = remaining % 60;
+            els.timeAttackTimerDisplay.textContent = `남은 시간: ${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+        };
+    
+        
+        updateTimerDisplay();
+
+        timeAttackTimer = setInterval(() => {
+            remaining--;
+            updateTimerDisplay();
+
+            if (remaining <= 0) {
+                handleEndTimeAttack();
+            }
+        }, 1000);
+    }
+
+    function handleEndTimeAttack() {
+        if (timeAttackTimer) {
+            clearInterval(timeAttackTimer);
+            timeAttackTimer = null;
+        }
+        
+        playerRef.transaction((currentPlayerData) => {
+            if (!currentPlayerData) return;
+
+            // (이미 종료 처리가 된 경우 중단)
+            if (!currentPlayerData.timeAttack || !currentPlayerData.timeAttack.isInTimeAttack) {
+                return; 
+            }
+            
+            // [치명적 오류 방어]
+            if (!currentPlayerData.snapshot) {
+                console.error("심각한 오류: 타임 어택 종료 시 스냅샷 데이터가 없습니다!");
+                // (데이터 복구 불가능 -> 타임어택 상태만이라도 강제 종료)
+                currentPlayerData.timeAttack.isInTimeAttack = false;
+                // (점수 계산은 불가능하므로 중단)
+                return currentPlayerData;
+            }
+
+            // 1. 타임 어택 계좌의 최종 자산(점수) 계산
+            // (calculateNetworth는 현재 currentPlayerData를 기준으로 계산함)
+            const timeAttackNetWorth = calculateNetworth(currentPlayerData, stockData);
+            const score = timeAttackNetWorth - INITIAL_CASH; // 초기자본 대비 수익
+
+            // 2. 백업해둔 스냅샷 데이터 로드
+            const restoredData = currentPlayerData.snapshot;
+
+            // 3. 현재 데이터를 -> 스냅샷 데이터로 덮어쓰기 (복원)
+            currentPlayerData.cash = restoredData.cash;
+            currentPlayerData.stocks = restoredData.stocks;
+            currentPlayerData.bank = restoredData.bank;
+            
+            // 4. 스냅샷 및 타임 어택 상태 초기화
+            currentPlayerData.snapshot = null; // (백업 삭제)
+            currentPlayerData.timeAttack.isInTimeAttack = false;
+            currentPlayerData.timeAttack.endTime = firebase.database.ServerValue.TIMESTAMP;
+            currentPlayerData.timeAttack.lastScore = score; // (점수 기록)
+
+            // 5. 리더보드에 점수 기록
+            const leaderboardRef = db.ref('leaderboard').push();
+            leaderboardRef.set({
+                uid: currentPlayerData.uid,
+                displayName: currentPlayerData.displayName,
+                score: score,
+                timestamp: firebase.database.ServerValue.TIMESTAMP
+            });
+
+
+            return currentPlayerData;
+        })
+        .then((result) => {
+            if (result.committed) {
+                // (트랜잭션 성공 -> setupPlayerListener가 복원된 UI를 자동 갱신)
+                showAlert("타임 어택 종료!", `최종 점수: ${formatCurrency(state.timeAttack.lastScore)}. 기존 게임을 복구합니다.`);
+                
+                // (UI 정리 - setupPlayerListener가 다시 호출되며 정리하지만, 즉시 반영)
+                els.timeAttackBtn.disabled = false;
+                els.timeAttackBtn.textContent = `🔥 타임 어택 (${TIME_ATTACK_DURATION / 60}분)`;
+                els.timeAttackTimerDisplay.classList.add('hidden');
+                els.timeAttackCancelBtn.classList.add('hidden');
+            } else {
+                 console.log("타임 어택 종료 트랜잭션이 중단되었습니다.");
+            }
+        })
+        .catch((error) => {
+            console.error("타임 어택 종료 트랜잭션 오류:", error);
+            showAlert("타임 어택 종료/복원에 실패했습니다. (DB 오류)");
+        });
+    }
+
+    function handleCancelTimeAttack() {
+    if (!state.timeAttack || !state.timeAttack.isInTimeAttack) return;
+
+        showConfirm("타임 어택을 취소하시겠습니까?", () => {
+            // ▼ UI/타이머 조작 코드 제거! (리스너가 알아서 함) ▼
+            // if (timeAttackTimer) clearInterval(timeAttackTimer); (삭제 가능)
+            
+            playerRef.transaction((currentPlayerData) => {
+                if (!currentPlayerData) return;
+                
+                // 스냅샷 복구 로직 (이전과 동일)
+                if (currentPlayerData.snapshot) {
+                    const restored = currentPlayerData.snapshot;
+                    currentPlayerData.cash = restored.cash;
+                    currentPlayerData.stocks = restored.stocks;
+                    currentPlayerData.bank = restored.bank;
+                    currentPlayerData.snapshot = null;
+                }
+                
+                // ★ 핵심: 상태만 바꾸면 리스너가 알아서 "꺼짐" 상태로 전환함
+                currentPlayerData.timeAttack.isInTimeAttack = false;
+                currentPlayerData.timeAttack.startTime = null;
+                currentPlayerData.timeAttack.endTime = null;
+                
+                return currentPlayerData;
+            }).then(() => {
+                showAlert("타임 어택이 취소되었습니다.");
+                // els.timeAttackBtn... 등의 UI 조작도 리스너의 else 블록에서 처리되므로 제거 가능
+            });
+        });
+    }
+
+        // === 11. Ranking Logic ===
+
+        // 1. (총 자산) 'players' 노드 전체를 감시
+        function setupNetWorthListener() {
+            const playersRef = db.ref('players');
+            playersRef.on('value', (snapshot) => {
+                allPlayersData = snapshot.val() || {}; // 모든 플레이어 데이터 전역 저장
+                updateNetWorthRankings(); // 플레이어 데이터 변경 시 랭킹 갱신
+            });
+        }
+
+    // 2. (타임 어택) 'leaderboard' 노드를 감시
+    function setupTimeAttackListener() {
+        const leaderboardRef = db.ref('leaderboard').orderByChild('score').limitToLast(20);
+        
+        leaderboardRef.on('value', (snapshot) => {
+            const leaderboardData = snapshot.val();
+            if (!leaderboardData) return;
+
+            const rankings = [];
+            snapshot.forEach((childSnapshot) => {
+                const entry = childSnapshot.val();
+                rankings.push({
+                    name: entry.displayName || "Anonymous",
+                    score: entry.score
+                });
+            });
+            
+            timeAttackRankings = rankings.reverse(); // 내림차순 정렬
+            
+            if (currentRankView === 'timeattack') {
+                renderRankings();
+            }
+        });
+    }
+
+    // 3. (총 자산) 랭킹 계산 함수
+    function updateNetWorthRankings() {
+        if (!allPlayersData || !Object.keys(stockData).length) {
+            return; // 데이터 미비
+        }
+        
+        const rankings = [];
+        for (const uid in allPlayersData) {
+            const player = allPlayersData[uid];
+            if (!player.bank || !player.stocks) continue; // 필수 데이터 체크
+            
+            const netWorth = calculateNetworth(player, stockData); 
+            rankings.push({
+                name: player.displayName || "Anonymous",
+                score: netWorth
+            });
+        }
+        
+        rankings.sort((a, b) => b.score - a.score);
+        netWorthRankings = rankings;
+        
+        if (currentRankView === 'networth') {
+            renderRankings();
+        }
+    }
+
+    // 4. 랭킹 탭 전환 함수
+    function switchRankView(view) {
+        if (view === currentRankView) return; 
+        currentRankView = view;
+        
+        if (view === 'networth') {
+            els.showNetWorthRankBtn.classList.add('bg-indigo-600', 'text-white');
+            els.showNetWorthRankBtn.classList.remove('bg-white', 'text-slate-500');
+            els.showTimeAttackRankBtn.classList.add('bg-white', 'text-slate-500');
+            els.showTimeAttackRankBtn.classList.remove('bg-indigo-600', 'text-white');
+        } else {
+            els.showTimeAttackRankBtn.classList.add('bg-indigo-600', 'text-white');
+            els.showTimeAttackRankBtn.classList.remove('bg-white', 'text-slate-500');
+            els.showNetWorthRankBtn.classList.add('bg-white', 'text-slate-500');
+            els.showNetWorthRankBtn.classList.remove('bg-indigo-600', 'text-white');
+        }
+        
+        renderRankings();
+    }
+    
+    // 5. 랭킹 UI 렌더링 함수
+    function renderRankings() {
+        if (!els.rankingList) return; // 모달이 아직 바인딩 안됐으면 중지
+        
+        els.rankingList.innerHTML = ''; 
+        const rankingsToDisplay = (currentRankView === 'networth') ? netWorthRankings : timeAttackRankings;
+        
+        if (rankingsToDisplay.length === 0) {
+            els.rankingList.innerHTML = `<p class="text-slate-500 text-sm">표시할 랭킹이 없습니다.</p>`;
+            return;
+        }
+
+        rankingsToDisplay.slice(0, 100).forEach((entry, index) => {
+            const rankItem = document.createElement('div');
+            rankItem.className = 'flex justify-between items-center text-sm py-1';
+            
+            let medal = '';
+            if (index === 0) medal = '🥇';
+            else if (index === 1) medal = '🥈';
+            else if (index === 2) medal = '🥉';
+            else medal = `<span class="text-xs w-4 text-right">${index + 1}</span>`; 
+            
+            rankItem.innerHTML = `
+                <div class="font-bold w-12">${medal}</div>
+                <div class="flex-1 font-medium text-slate-700 truncate" title="${entry.name}">${entry.name}</div>
+                <div class="font-mono text-slate-900 ml-2">${formatCurrency(entry.score)}</div>
+            `;
+            els.rankingList.appendChild(rankItem);
+        });
+    }
+    
+    // 6. 랭킹 모달 표시/숨김
+    function showRankingModal() {
+        renderRankings(); // 모달 열 때 랭킹 갱신
+        els.rankingModal.classList.remove('hidden');
+        els.rankingModal.classList.add('flex');
+    }
+    
+    function hideRankingModal() {
+        els.rankingModal.classList.add('hidden');
+        els.rankingModal.classList.remove('flex');
+    }
+
+    // 관리자 모달 표시/숨김
+    function showAdminModal() {
+        els.adminModal.classList.remove('hidden');
+        els.adminModal.classList.add('flex');
+    }
+    
+    function hideAdminModal() {
+        els.adminModal.classList.add('hidden');
+        els.adminModal.classList.remove('flex');
+    }
+
+        shopBtn.addEventListener('click', () => {
+        // shopModal에서 'hidden' 클래스를 제거하여 창을 보여줍니다.
+        shopModal.classList.remove('hidden');
+    });
+
+    // 3. '닫기(X)' 버튼 클릭 시 이벤트
+    closeShopBtn.addEventListener('click', () => {
+        // shopModal에 'hidden' 클래스를 다시 추가하여 창을 숨깁니다.
+        shopModal.classList.add('hidden');
+    });
+
+    // 4. (보너스) 모달 창 바깥의 어두운 영역 클릭 시 닫기
+    shopModal.addEventListener('click', (event) => {
+        // 클릭된 곳이 정확히 어두운 배경(shopModal)인지 확인합니다.
+        if (event.target === shopModal) {
+            shopModal.classList.add('hidden');
+        }
+    });
+
+    
+    // === 12. UI Update Logic ===
+
+    /**
+     * 메인 UI 업데이트 (플레이어 데이터 기준)
+     */
+
+    function updateUI() {
+        if (!state || !els.cash) return;
+        
+        els.cash.textContent = formatCurrency(state.cash);
+
+        if (els.bankModalCash) {
+             els.bankModalCash.textContent = formatCurrency(state.cash);
+        }
+
+        if (els.maxLoanInfo) {
+            const maxLoan = (Number(state.cash) || 0) * 3;
+            els.maxLoanInfo.textContent = formatCurrency(maxLoan);
+        }
+
+        if (els.totalGrossHoldings) {
+            els.totalGrossHoldings.textContent = formatCurrency(calculateGrossHoldings(state, stockData));
+        }
+
+        if (els.totalNetWorth) {
+            // (calculateNetworth는 이제 '총 자산'을 계산함)
+            els.totalNetWorth.textContent = formatCurrency(calculateNetworth(state, stockData));
+        }
+        updateHistoryUI();
+        updatePortfolioUI();
+        
+    }
+
+    /**
+     * 포트폴리오 UI 갱신 (가장 빈번)
+     */
+    function updatePortfolioUI() {
+        if (!state.stocks || !stockData) return;
+        
+        els.portfolioList.innerHTML = '';
+        let currentStockValue = 0;
+        
+        Object.keys(state.stocks).forEach(ticker => {
+            const stock = state.stocks[ticker];
+            if (stock.shares > 0) {
+                const market = stockData[ticker];
+                const price = (market && !market.isDelisted) ? market.price : 0;
+                const value = price * stock.shares;
+                currentStockValue += value;
+                
+                const avgPrice = stock.averagePrice || 0;
+                const profit = (price - avgPrice) * stock.shares;
+                const profitRate = (avgPrice > 0) ? (profit / (avgPrice * stock.shares)) * 100 : 0;
+                
+                const color = profit > 0 ? 'text-red-600' : (profit < 0 ? 'text-blue-600' : 'text-slate-500');
+
+                const item = document.createElement('div');
+                item.className = 'border-t border-slate-200 pt-3';
+                item.innerHTML = `
+                    <div class="flex justify-between items-center">
+                        <span class="font-bold text-slate-800">${allTickerNames[ticker] || ticker}</span>
+                        <span class="font-mono font-bold ${color}">${formatCurrency(value)}</span>
+                    </div>
+                    <div class="flex justify-between items-center text-sm">
+                        <span class="text-slate-500">${stock.shares}주 (평단 ${formatCurrency(avgPrice)})</span>
+                        <span class="font-mono ${color}">${formatCurrency(profit)} (${profitRate.toFixed(2)}%)</span>
+                    </div>
+                `;
+                item.onclick = () => selectTicker(ticker);
+                els.portfolioList.appendChild(item);
+            }
+        });
+
+        els.stockValue.textContent = formatCurrency(currentStockValue);
+        
+        // 총 자산 (calculateNetworth 사용)
+        const netWorth = calculateNetworth(state, stockData);
+        els.totalHoldings.textContent = formatCurrency(netWorth);
+    }
+
+    function updateHistoryUI() {
+        if (!state.history) return;
+        els.log.innerHTML = '';
+        state.history.forEach(log => {
+            const p = document.createElement('p');
+            p.textContent = log;
+            if (log.includes('[매수]')) p.className = 'text-red-700';
+            else if (log.includes('[매도]')) p.className = 'text-blue-700';
+            else if (log.includes('[은행]')) p.className = 'text-blue-700';
+            els.log.appendChild(p);
+        });
+    }
+    
+    function updateBankTimerUI() {
+        if (!state || !state.bank) {
+            return; 
+        }
+
+        const bank = state.bank;
+        const now = Date.now();
+        const TEN_MINUTES_MS = 10 * 60 * 1000;
+
+        // --- 1. 예금 정보 갱신 (10분) ---
+        if (els.bankSavingsAmount) {
+            const savings = Number(bank.savings) || 0; // 예금 원금
+            const savingsTime = bank.savingsTimestamp; // 예금 시작 시간
+
+            els.bankSavingsAmount.textContent = formatCurrency(savings);
+
+            const INTEREST_RATE = 0.02; 
+
+            if (savings <= 0 || !savingsTime) {
+                els.bankNextInterestTimer.textContent = "--:--";
+                els.bankNextInterest.textContent = "+ 0"; // 예상 이자도 0으로
+                // ----------------------------------------------------
+            } else {
+                const elapsedMs = now - savingsTime;
+                const elapsedMsInCycle = elapsedMs % TEN_MINUTES_MS;
+                const remainingMsInCycle = TEN_MINUTES_MS - elapsedMsInCycle;
+                
+                const remainingSeconds = Math.floor(remainingMsInCycle / 1000);
+                const minutes = Math.floor(remainingSeconds / 60);
+                const seconds = remainingSeconds % 60;
+
+                // 10:00 (시작) ~ 00:00 (거의 도달) 형태로 표시
+                // (참고: 10분이 딱 되는 0.001초간 10:00으로 표시될 수 있음)
+                if (minutes === 10 && seconds === 0) {
+                    els.bankNextInterestTimer.textContent = "10:00";
+                } else {
+                    els.bankNextInterestTimer.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+                }
+                const periodsPassed = Math.floor(elapsedMs / TEN_MINUTES_MS);
+                
+                const currentValue = savings * Math.pow((1 + INTEREST_RATE), periodsPassed);
+                
+                const nextInterest = currentValue * INTEREST_RATE;
+                
+                // (소수점 버림)
+                els.bankNextInterest.textContent = `+ ${formatCurrency(Math.floor(nextInterest))}`;
+                // ----------------------------------------------------
+            }
+        }
+
+        // --- 2. 대출 정보 갱신 (상환금 / 10분 쿨타임) ---
+        if (els.bankLoanAmount) {
+            const loan = Number(bank.loan) || 0;
+            const repayTime = bank.loanRepayTimestamp;
+
+            els.bankLoanAmount.textContent = formatCurrency(loan);
+            els.bankRepaymentAmount.textContent = formatCurrency(loan); 
+
+            if (loan > 0) {
+                els.bankNextLoanTimer.textContent = "대출 상환 필요";
+            } else {
+                if (!repayTime) {
+                    els.bankNextLoanTimer.textContent = "대출 가능";
+                } else {
+                    const elapsedMs = now - repayTime;
+                    const remainingMs = TEN_MINUTES_MS - elapsedMs;
+
+                    if (remainingMs <= 0) {
+                        els.bankNextLoanTimer.textContent = "대출 가능";
+                    } else {
+                        const remainingSeconds = Math.floor(remainingMs / 1000);
+                        const minutes = Math.floor(remainingSeconds / 60);
+                        const seconds = remainingSeconds % 60;
+                        els.bankNextLoanTimer.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+                    }
+                }
+            }
+        }
+        
+        // ▼▼▼ [신규] 3. 파산 쿨타임 갱신 (10분) ▼▼▼
+        if (els.bankruptCooldownTimer) {
+            const bankruptTime = bank.bankruptTimestamp;
+
+            if (!bankruptTime) {
+                // (파산한 적 없음)
+                els.bankruptCooldownTimer.textContent = "신청 가능";
+            } else {
+                // (파산 기록이 있음)
+                const elapsedMs = now - bankruptTime;
+                const remainingMs = TEN_MINUTES_MS - elapsedMs;
+
+                if (remainingMs <= 0) {
+                    // (쿨타임 10분 지남)
+                    els.bankruptCooldownTimer.textContent = "신청 가능";
+                } else {
+                    // (쿨타임 남음)
+                    const remainingSeconds = Math.floor(remainingMs / 1000);
+                    const minutes = Math.floor(remainingSeconds / 60);
+                    const seconds = remainingSeconds % 60;
+                    els.bankruptCooldownTimer.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+                }
+            }
+        }
+        // ▲▲▲ [신규] 3. 파산 로직 끝 ▲▲▲
+    }
+
+    function formatTimeAgo(timestamp) {
+        const now = Date.now();
+        const seconds = Math.floor((now - timestamp) / 1000);
+
+        let interval = seconds / 31536000; // 1년 (초)
+        if (interval > 1) {
+            return Math.floor(interval) + "년 전";
+        }
+        interval = seconds / 2592000; // 1달
+        if (interval > 1) {
+            return Math.floor(interval) + "달 전";
+        }
+        interval = seconds / 86400; // 1일
+        if (interval > 1) {
+            return Math.floor(interval) + "일 전";
+        }
+        interval = seconds / 3600; // 1시간
+        if (interval > 1) {
+            return Math.floor(interval) + "시간 전";
+        }
+        interval = seconds / 60; // 1분
+        if (interval > 1) {
+            return Math.floor(interval) + "분 전";
+        }
+        return "방금 전";
+    }
+
+    function updateNewsBoxUI(newsData) {
+        if (!els.newsBox) {
+            return;
+        }
+
+        // "개발 중입니다..." <p> 태그를 포함한 기존 내용 비우기
+        els.newsBox.innerHTML = ''; 
+
+        if (!newsData) {
+            const p = document.createElement('p');
+            p.className = "text-slate-500"; // 기존 스타일과 일치
+            p.textContent = "현재 뉴스가 없습니다.";
+            els.newsBox.appendChild(p);
+            return;
+        }
+
+        // 1. DB 객체를 배열로 변환
+        const newsArray = Object.values(newsData);
+        
+        // 2. 최신순(timestamp 내림차순)으로 정렬
+        newsArray.sort((a, b) => b.timestamp - a.timestamp);
+        
+        // 3. 최근 15개만 표시 (h-64 스크롤을 고려)
+        const recentNews = newsArray.slice(0, 15);
+
+        // 4. HTML 생성 (id="newsBox"는 space-y-3 클래스가 있으므로 div로 감싸기)
+        recentNews.forEach(news => {
+            
+            // 각 뉴스를 감싸는 div (space-y-3의 자식 요소)
+            const newsItemDiv = document.createElement('div');
+            
+            // (XSS 방지를 위해 textContent 사용)
+            const messageP = document.createElement('p');
+            messageP.className = "text-sm text-slate-700"; // 기존 스타일과 일치
+            messageP.textContent = news.message;
+            
+            const timeP = document.createElement('p');
+            timeP.className = "text-xs text-slate-500 mt-1";
+            timeP.textContent = formatTimeAgo(news.timestamp);
+
+            newsItemDiv.appendChild(messageP);
+            newsItemDiv.appendChild(timeP);
+            els.newsBox.appendChild(newsItemDiv);
+        });
+    }
+
+    /**
+     * 종목 리스트 탭 전환
+     */
+    function switchView(view) {
+        currentView = view;
+        
+        // 탭 스타일 업데이트
+        // [수정] showCoinsBtn 추가
+        [els.showStocksBtn, els.showAssetsBtn, els.showBondsBtn, els.showCoinsBtn, els.showMiscBtn].forEach(btn => {
+            btn.classList.remove('bg-indigo-600', 'text-white', 'shadow-sm');
+            btn.classList.add('bg-white', 'text-slate-500', 'hover:bg-slate-100');
+        });
+        
+        let activeBtn;
+        if (view === 'stocks') activeBtn = els.showStocksBtn;
+        else if (view === 'assets') activeBtn = els.showAssetsBtn;
+        else if (view === 'bonds') activeBtn = els.showBondsBtn;
+        else if (view === 'coins') activeBtn = els.showCoinsBtn; // <-- [신규] 코인 뷰
+        else activeBtn = els.showMiscBtn;
+        
+        activeBtn.classList.add('bg-indigo-600', 'text-white', 'shadow-sm');
+        activeBtn.classList.remove('bg-white', 'text-slate-500', 'hover:bg-slate-100');
+        
+        renderStockList();
+    }
+    
+    /**
+     * 종목 리스트 렌더링
+     */
+    function renderStockList() {
+        if (!els.stockSelector) return;
+        els.stockSelector.innerHTML = '';
+        
+        let tickersToShow = [];
+        if (currentView === 'stocks') tickersToShow = STOCK_TICKERS;
+        else if (currentView === 'assets') tickersToShow = ASSET_TICKERS;
+        else if (currentView === 'bonds') tickersToShow = BOND_TICKERS;
+        else if (currentView === 'coins') tickersToShow = COIN_TICKERS; 
+        else tickersToShow = MISC_TICKERS;
+
+        tickersToShow.forEach(ticker => {
+            const market = stockData[ticker];
+            if (!market) return; 
+            
+            // [신규] 상장폐지 여부 확인
+            const isDelisted = market.isDelisted || false;
+            
+            const price = market.price || 0;
+            const change = price - (market.prevPrice || price);
+            const changeRate = (market.prevPrice > 0) ? (change / market.prevPrice) * 100 : 0;
+            
+            const color = change > 0 ? 'text-red-600' : (change < 0 ? 'text-blue-600' : 'text-slate-500');
+            
+            // [수정] 상장폐지 시 회색 처리
+            const priceColor = isDelisted ? 'text-slate-400' : color;
+            const changeColor = isDelisted ? 'text-slate-400' : (change === 0 ? 'text-slate-500' : color); // (0일 때도 회색)
+            const nameColor = isDelisted ? 'text-slate-400' : 'text-slate-800';
+            
+            const isActive = (ticker === currentTicker) ? 'bg-indigo-100 border-indigo-500' : 'border-transparent hover:bg-slate-50';
+
+            const item = document.createElement('div');
+            item.className = `p-3 rounded-lg border ${isActive} cursor-pointer transition-colors`;
+
+            // [신규] 상장폐지 배지
+            const delistedBadge = isDelisted ? '<span class="text-xs font-bold text-red-600">(거래정지)</span>' : '';
+
+            item.innerHTML = `
+                <div class="flex justify-between items-center">
+                    <span class="font-bold text-sm ${nameColor}">${market.name || ticker} ${delistedBadge}</span>
+                    <span class="font-mono font-bold text-sm ${priceColor}">${formatCurrency(price)}</span>
+                </div>
+                <div class="flex justify-between items-center text-xs">
+                    <span class="text-slate-500">${ticker}</span>
+                    <span class="font-mono ${changeColor}">${isDelisted ? '(--.--%)' : (change > 0 ? '+' : '') + changeRate.toFixed(2) + '%'}</span>
+                </div>
+            `;
+            item.onclick = () => selectTicker(ticker);
+            els.stockSelector.appendChild(item);
+        });
+    }
+
+    /**
+     * 종목 선택 시
+     */
+    function selectTicker(ticker) {
+        currentTicker = ticker;
+        renderStockList(); // 활성 종목 UI 갱신
+        updateStockInfoUI(); // 차트 및 정보 갱신
+    }
+
+    /**
+     * 주식 정보 (차트 위) 갱신
+     */
+    function updateStockInfoUI() {
+        const market = stockData[currentTicker];
+        
+        // [수정] market이 없거나, 'isDelisted'일 경우 처리
+        if (!market || market.isDelisted) {
+            
+            // [신규] 상장폐지 UI 처리
+            if (market && market.isDelisted) {
+                els.stockName.textContent = market.name;
+                els.stockTicker.textContent = currentTicker;
+                els.price.textContent = "₩--";
+                
+                // ▼▼▼ [신규] 남은 시간 계산 타이머 ▼▼▼
+                const delistTimestamp = market.delistTimestamp;
+                
+                if (delistTimestamp) {
+                    const now = Date.now();
+                    const elapsed = now - delistTimestamp;
+                    const remainingMs = DELIST_DURATION_MS - elapsed;
+                    
+                    if (remainingMs <= 0) {
+                        els.change.textContent = "(복구 처리 중...)";
+                    } else {
+                        // 남은 시간을 MM:SS 형식으로 변환
+                        const remainingSeconds = Math.floor(remainingMs / 1000);
+                        const minutes = Math.floor(remainingSeconds / 60);
+                        const seconds = remainingSeconds % 60;
+                        const timerString = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+                        els.change.textContent = `(복구까지 ${timerString})`;
+                    }
+                } else {
+                    els.change.textContent = "(거래 정지)"; // 타임스탬프가 아직 없으면
+                }
+                // ▲▲▲ [신규] ▲▲▲
+                
+                els.price.className = `text-3xl font-bold text-slate-400`;
+                els.change.className = `text-base font-medium text-red-600`;
+                
+                // (거래 버튼 비활성화)
+                els.buyBtn.disabled = true;
+                els.buyMaxBtn.disabled = true;
+                els.sellBtn.disabled = true;
+                
+                updateChartData(market.history || []);
+                return; // 함수 종료
+            }
+
+            // (market이 아예 없는 경우 - 기존 로직)
+            if (currentTicker === 'SAFE') { 
+                currentTicker = 'AAPL';
+                selectTicker('AAPL');
+            }
+            return;
+        }
+        
+        // (거래 버튼 활성화 - 이미 정지된 것을 선택했다가 복귀했을 때를 대비)
+        els.buyBtn.disabled = false;
+        els.buyMaxBtn.disabled = false;
+        els.sellBtn.disabled = false;
+
+        els.stockName.textContent = market.name;
+        els.stockTicker.textContent = currentTicker;
+        
+        const price = market.price || 0;
+        const change = price - (market.prevPrice || price);
+        const changeRate = (market.prevPrice > 0) ? (change / market.prevPrice) * 100 : 0;
+        
+        const color = change > 0 ? 'text-red-600' : (change < 0 ? 'text-blue-600' : 'text-slate-500');
+        const sign = change > 0 ? '▲' : (change < 0 ? '▼' : '');
+        
+        els.price.textContent = formatCurrency(price);
+        els.change.textContent = `${sign} ${formatCurrency(change)} (${changeRate.toFixed(2)}%)`;
+        els.price.className = `text-3xl font-bold ${color}`;
+        els.change.className = `text-base font-medium ${color}`;
+        
+        updateChartData(market.history || []);
+    }
+
+    function calculateGrossHoldings(playerState, marketData) {
+        let cash = Number(playerState.cash) || 0;
+        let savings = Number(playerState.bank ? playerState.bank.savings : 0) || 0;
+        
+        let stockValue = 0;
+        if (playerState.stocks) {
+            for (const ticker in playerState.stocks) {
+                const stock = playerState.stocks[ticker];
+                // (거래 정지/상폐가 아니며, 가격 정보가 있는 주식만 계산)
+                if (stock && stock.shares > 0 && marketData[ticker] && !marketData[ticker].isDelisted && typeof marketData[ticker].price === 'number') {
+                    stockValue += stock.shares * marketData[ticker].price;
+                }
+            }
+        }
+        
+        // [신규] 현금 + 주식 + 예금
+        const grossHoldings = cash + stockValue + savings;
+        return grossHoldings;
+    }
+
+    /**
+     * 거래 내역 UI 갱신
+     */
+    function updateHistoryUI() {
+        if (!state.history) return;
+        els.log.innerHTML = '';
+        state.history.forEach(log => {
+            const p = document.createElement('p');
+            p.textContent = log;
+            if (log.includes('[매수]')) p.className = 'text-red-700';
+            else if (log.includes('[매도]')) p.className = 'text-blue-700';
+            else if (log.includes('[은행]')) p.className = 'text-blue-700';
+            els.log.appendChild(p);
+        });
+    }
+    
+    
+    // === 13. Chart Logic ===
+    
+    function initChart() {
+        if (!els.chart) return;
+        const ctx = els.chart.getContext('2d');
+        
+        chartInstance = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: [],
+                datasets: [{
+                    label: '주가',
+                    data: [],
+                    borderColor: 'rgba(79, 70, 229, 1)', // Indigo-600
+                    backgroundColor: 'rgba(79, 70, 229, 0.1)',
+                    borderWidth: 2,
+                    tension: 0.1,
+                    fill: true,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        ticks: { display: false },
+                        grid: { display: false }
+                    },
+                    y: {
+                        position: 'right',
+                        ticks: { 
+                            callback: (value) => `${formatCurrency(value, 0)}`
+                        }
+                    }
+                },
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        callbacks: {
+                            label: (context) => ` ${formatCurrency(context.parsed.y)}`
+                        }
+                    }
+                }
+            }
+        });
+    }
+
+    function updateChartData(history) {
+        if (!chartInstance) return;
+        
+        chartInstance.data.labels = history.map((_, index) => index);
+        chartInstance.data.datasets[0].data = history;
+        chartInstance.update('none'); // 애니메이션 없이 업데이트
+    }
+    
+
+    // === 14. Helper Functions ===
+    
+    /**
+     * 숫자 -> 통화 형식 (₩1,234)
+     */
+    function formatCurrency(value, decimals = 0) {
+        const num = Number(value);
+        if (isNaN(num)) {
+            return "₩--"; // NaN 방어
+        }
+        return "₩" + num.toLocaleString('ko-KR', { 
+            minimumFractionDigits: decimals, 
+            maximumFractionDigits: decimals 
+        });
+    }
+
+    /**
+     * [랭킹용] 총 자산 계산기
+     */
+    function calculateNetworth(playerState, marketData) {
+        
+        let cash = Number(playerState.cash) || 0;
+        let savings = Number(playerState.bank ? playerState.bank.savings : 0) || 0;
+        let loan = Number(playerState.bank ? playerState.bank.loan : 0) || 0;
+        
+        let stockValue = 0;
+        if (playerState.stocks) {
+            for (const ticker in playerState.stocks) {
+                const stock = playerState.stocks[ticker];
+                if (stock && stock.shares > 0 && marketData[ticker] && !marketData[ticker].isDelisted && typeof marketData[ticker].price === 'number') {
+                    stockValue += stock.shares * marketData[ticker].price;
+                }
+            }
+        }
+        
+        // [오류 발생 지점] 여기서 'savings'를 찾지 못해서 오류가 났습니다.
+        const networth = (cash + stockValue + savings) - loan;
+        return networth;
+    }
+
+    /**
+     * [최종 수정본] 거래 내역 추가 (TypeError 방어)
+     */
+    function addHistoryLogToPlayer(currentPlayerData, logMessage, type) {
+        try {
+            // [핵심 방어] history가 배열이 아니면 강제로 새 빈 배열로 초기화
+            if (!Array.isArray(currentPlayerData.history)) {
+                currentPlayerData.history = [];
+            }
+
+            currentPlayerData.history.unshift(logMessage);
+
+            const maxLogs = typeof MAX_HISTORY_LOG !== 'undefined' ? MAX_HISTORY_LOG : 100;
+            
+            while (currentPlayerData.history.length > maxLogs) {
+                currentPlayerData.history.pop();
+            }
+
+        } catch (e) {
+            console.error("addHistoryLogToPlayer 함수 실패:", e);
+            // (트랜잭션 자체는 중단시키지 않음)
+        }
+    }
+
+    // (알림/확인 모달 함수들)
+    let alertCallback = null;
+    function showAlert(message, callback = null) {
+        els.alertMessage.textContent = message;
+        els.alertModal.classList.remove('hidden');
+        els.alertModal.classList.add('flex');
+        alertCallback = callback;
+    }
+    function hideAlert() {
+        els.alertModal.classList.add('hidden');
+        els.alertModal.classList.remove('flex');
+        if (alertCallback) {
+            alertCallback();
+            alertCallback = null;
+        }
+    }
+    
+    function showConfirm(message, onOk) {
+        // [수정] textContent -> innerHTML
+        // (줄바꿈 <br> 태그를 렌더링하기 위함)
+        els.confirmMessage.innerHTML = message;
+        
+        els.confirmModal.classList.remove('hidden');
+        els.confirmModal.classList.add('flex');
+        
+        // (이벤트 리스너가 중첩되는 것을 방지하기 위해, 기존 리스너를 제거하고 새로 만듦)
+        els.confirmOkBtn.replaceWith(els.confirmOkBtn.cloneNode(true));
+        els.confirmCancelBtn.replaceWith(els.confirmCancelBtn.cloneNode(true));
+        
+        // (새로 바인딩)
+        els.confirmOkBtn = document.getElementById('confirmOkBtn');
+        els.confirmCancelBtn = document.getElementById('confirmCancelBtn');
+
+        els.confirmOkBtn.onclick = () => {
+            hideConfirm();
+            onOk(); // 확인 콜백 실행
+        };
+        els.confirmCancelBtn.onclick = hideConfirm;
+    }
+
+    function hideConfirm() {
+        els.confirmModal.classList.add('hidden');
+        els.confirmModal.classList.remove('flex');
+    }
+
+    
+    // === 15. Initial State Creation ===
+
+    function createInitialGameState() {
+        const initialPlayerStocks = {};
+        allTickers.forEach(ticker => {
+            initialPlayerStocks[ticker] = { shares: 0, averagePrice: 0 };
+        });
+
+        return {
+            cash: INITIAL_CASH,
+            bank: {
+                checking: 0, savings: 0, loan: 0,
+                savingsTimestamp: null, loanTimestamp: null
+            },
+            stocks: initialPlayerStocks
+        };
+    }
+
+    /**
+     * [수정] 새 플레이어 상태 (allTickers 사용)
+     */
+    function createInitialPlayerState(user) {
+        // [수정] 새 헬퍼 함수를 호출하여 초기 게임 데이터를 가져옴
+        const initialGameState = createInitialGameState();
+
+        return {
+            uid: user.uid, 
+            displayName: user.displayName || "Anonymous User", 
+            email: user.email || null,
+            
+            // (Helper 함수가 생성한 데이터)
+            cash: initialGameState.cash,
+            bank: initialGameState.bank,
+            stocks: initialGameState.stocks, 
+            
+            history: ["Firebase 멀티플레이어 게임에 오신 것을 환영합니다!"],
+
+            bank: {
+            savings: 0,
+            savingsTimestamp: null,
+            loan: 0,
+            loanTimestamp: null,
+            loanRepayTimestamp: null, // [신규] 대출 상환 쿨타임용
+            bankruptTimestamp: null
+            },
+            
+            timeAttack: {
+                isInTimeAttack: false, // 현재 타임 어택 중인지
+                startTime: null, 
+                endTime: null,
+                lastScore: 0
+            },
+            snapshot: null 
+        };
+    }
+    
+    /**
+     * [수정] 새 마켓 상태 (새 티커 이름 사용)
+     */
+    function createInitialMarketState() {
+        const createStock = (name, price, volatility, eventChance, riseProb) => ({
+            name, price, prevPrice: price, 
+            initialPrice: price, // '시작 가격'
+            history: Array(MAX_HISTORY).fill(price),
+            consecutiveRises: 0, consecutiveFalls: 0,
+            baseVolatility: volatility,     
+            bigEventChance: eventChance,    
+            baseRiseProbability: riseProb,  
+            isDelisted: false,
+            delistTimestamp: null
+        });
+
+        // (밸런스는 임의로 설정)
+        const marketStocks = {
+            // --- 주식 (30개) ---
+            'AAPL': createStock('Apple (애플)', 18000, 0.02, 0.03, 0.53), // 0.51 -> 0.53
+            'MSFT': createStock('Microsoft (마이크로소프트)', 35000, 0.018, 0.02, 0.514), // 0.52 -> 0.54
+            'GOOGL': createStock('Alphabet (구글)', 14000, 0.02, 0.03, 0.53), // 0.51 -> 0.53
+            'AMZN': createStock('Amazon (아마존)', 15000, 0.025, 0.04, 0.53), // 0.51 -> 0.53
+            'NVDA': createStock('NVIDIA (엔비디아)', 45000, 0.04, 0.08, 0.53), // 0.53 -> 0.54
+            'META': createStock('Meta Platforms (메타)', 30000, 0.035, 0.06, 0.53), // 0.50 -> 0.52
+            'TSLA': createStock('Tesla (테슬라)', 25000, 0.05, 0.1, 0.53), // 0.50 -> 0.52
+            'BRK-B': createStock('Berkshire Hathaway B (버크셔 해서웨이 B)', 36000, 0.01, 0.01, 0.515), // 0.52 -> 0.54
+            'V': createStock('Visa (비자)', 24000, 0.015, 0.02, 0.53), // 0.52 -> 0.54
+            'JNJ': createStock('Johnson & Johnson (존슨 앤 존슨)', 16000, 0.01, 0.01, 0.53), // 0.51 -> 0.53
+            'XOM': createStock('Exxon Mobil (엑슨모빌)', 11000, 0.018, 0.03, 0.53), // 0.51 -> 0.53
+            'JPM': createStock('JPMorgan Chase (JP모건 체이스)', 15000, 0.017, 0.02, 0.53), // 0.51 -> 0.53
+            'TSM': createStock('TSMC (TSMC)', 10000, 0.03, 0.05, 0.54), // 0.52 -> 0.54
+            'NFLX': createStock('Netflix (넷플릭스)', 40000, 0.035, 0.06, 0.53), // 0.50 -> 0.52
+            'SBUX': createStock('Starbucks (스타벅스)', 10000, 0.02, 0.03, 0.53), // 0.51 -> 0.53
+            'NKE': createStock('Nike (나이키)', 11000, 0.022, 0.04, 0.53), // 0.51 -> 0.53
+            'MCD': createStock("McDonald's (맥도날드)", 28000, 0.012, 0.01, 0.53), // 0.51 -> 0.53
+            'KO': createStock('Coca-Cola (코카콜라)', 6000, 0.01, 0.01, 0.535), // 0.52 -> 0.54
+            'DIS': createStock('Disney (디즈니)', 9000, 0.025, 0.04, 0.535), // 0.50 -> 0.52
+            'VT': createStock('Vanguard Total World ETF (뱅가드 토탈 월드 ETF)', 10000, 0.008, 0.01, 0.53), // 0.51 -> 0.53
+            'PG': createStock('Procter & Gamble (P&G)', 16000, 0.01, 0.01, 0.53), // 0.51 -> 0.53
+            'WMT': createStock('Walmart (월마트)', 15000, 0.012, 0.01, 0.53), // 0.51 -> 0.53
+            'COST': createStock('Costco (코스트코)', 50000, 0.015, 0.02, 0.52), // 0.52 -> 0.54
+            'PEP': createStock('PepsiCo (펩시코)', 17000, 0.01, 0.01, 0.53), // 0.51 -> 0.53
+            'HD': createStock('Home Depot (홈디포)', 30000, 0.017, 0.02, 0.53), // 0.51 -> 0.53
+            'SEC': createStock('삼성전자 (Samsung Elec.)', 75000, 0.018, 0.03, 0.515), // 0.52 -> 0.54
+            'SKH': createStock('SK하이닉스 (SK Hynix)', 20000, 0.025, 0.05, 0.53), // 0.51 -> 0.53
+            'LGES': createStock('LG에너지솔루션 (LG Energy Solution)', 35000, 0.03, 0.06, 0.535), // 0.50 -> 0.52
+            'HYMT': createStock('현대자동차 (Hyundai Motor)', 25000, 0.02, 0.04, 0.53), // 0.51 -> 0.53
+            'NAVER': createStock('네이버 (NAVER)', 17000, 0.035, 0.07, 0.535), // 0.50 -> 0.52
+
+            // --- 실물자산 (ASSETS) ---
+            'GOLD': createStock('금 (Gold)', 20000, 0.015, 0.02, 0.55), // 0.51 -> 0.53
+            'SLVR': createStock('은 (Silver)', 2500, 0.025, 0.04, 0.544), // 0.50 -> 0.52
+            'OIL': createStock('WTI 원유 (Crude Oil)', 8000, 0.035, 0.08, 0.544), // 0.50 -> 0.52
+            'NGAS': createStock('천연가스 (Natural Gas)', 3000, 0.095, 0.15, 0.544), // 0.50 -> 0.52
+            'COPR': createStock('구리 (Copper)', 8500, 0.025, 0.055, 0.545), // 0.51 -> 0.53
+            'WHEAT': createStock('밀 (Wheat)', 6000, 0.05, 0.105, 0.545), // 0.50 -> 0.52
+
+            // --- 채권 (BONDS) ---
+            'BOND_L': createStock('미국 장기채 (US Long Bond)', 10000, 0.007, 0.01, 0.6), // 0.505 -> 0.525
+            'BOND_S': createStock('미국 단기채 (US Short Bond)', 5000, 0.005, 0.00, 0.6), // 0.51 -> 0.53
+            'CORP_B': createStock('미국 회사채 (Corp. Bond)', 9000, 0.01, 0.01, 0.6), // 0.51 -> 0.53
+            'HY_B': createStock('하이일드 채권 (High-Yield)', 7000, 0.015, 0.03, 0.6), // 0.50 -> 0.52
+
+            // --- 코인 (COINS) ---
+            'BTC': createStock('비트코인 (Bitcoin)', 600000, 0.08, 0.15, 0.515), // 0.50 -> 0.52
+            'ETH': createStock('이더리움 (Ethereum)', 3000, 0.10, 0.18, 0.513), // 0.50 -> 0.52
+            'DOGE': createStock('도지코인 (Dogecoin)', 1000, 0.20, 0.30, 0.515), // 0.50 -> 0.52
+            'SOL': createStock('솔라나 (Solana)', 1500, 0.15, 0.25, 0.515), // 0.50 -> 0.52
+            
+            // --- 기타 (MISC) ---
+            'DEV_MOOD': createStock('개발자 기분 (Dev Mood)', 1000, 0.0, 0.0, 0), // 0.50 -> 0.52
+            'SONG': createStock('송송그룹 (Song)', 100000, 0.12, 0.05, 0.524),
+            'COOKIE': createStock('쿠키컴퍼니 (CookieCo)', 7500, 0.25, 0.15, 0.525)
+        };
+        return marketStocks;
+    }
+    /**
+     * (루프) 모든 마켓 가격 갱신 (트랜잭션 사용)
+     */
+    function updateStockPrices() {
+        // 상패 기록용
+        const now = Date.now();
+
+        marketRef.child('stocks').transaction((currentMarketData) => {
+            if (!currentMarketData) {
+                return createInitialMarketState(); 
+            }
+            // --- 상패 관련 상수 ---
+            const DELIST_PERCENT = 0.01; // 5% (시작 가격 대비)
+            
+            // --- [수정] 평균 회귀(Mean Reversion) 상수 설정 ---
+            
+            // --- [수정] 평균 회귀(Mean Reversion) 상수 설정 ---
+            const REVERSION_STRENGTH_DOWN = 0.05; 
+            const MIN_RISE_PROBABILITY = 0.1;     
+            const REVERSION_STRENGTH_UP = 0.1;    
+            const MAX_RISE_PROBABILITY = 0.9;
+            
+            Object.keys(currentMarketData).forEach(ticker => {
+                const stock = currentMarketData[ticker];
+                if (stock.isDelisted) {
+                    // 10분이 지났는지 확인
+                    // (stock.delistTimestamp가 null일 경우를 대비해 (stock.delistTimestamp || now) 사용)
+                    const timeElapsed = now - (stock.delistTimestamp || now);
+                    
+                    if (timeElapsed >= DELIST_DURATION_MS) {
+                        // 10분 경과: 주식 복귀
+                        stock.isDelisted = false;
+                        stock.delistTimestamp = null;
+                        stock.price = stock.initialPrice; // [핵심] '시작 가격'으로 리셋
+                        stock.prevPrice = stock.initialPrice;
+                        stock.history = Array(MAX_HISTORY).fill(stock.initialPrice);
+                    }
+                    
+                    // 10분이 지나지 않았다면, 가격 업데이트를 건너뛰기 위해 return
+                    return; // (forEach의 다음 아이템으로 넘어감)
+                }
+
+                // --- [B] 상장폐지 조건에 도달했는지 확인 ---
+                const initialPrice = stock.initialPrice || stock.price;
+                const delistThreshold = initialPrice * DELIST_PERCENT;
+
+                // (10원 이하의 '최저가' 주식은 상폐 방지)
+                if (stock.price <= delistThreshold && stock.price > 10) {
+                    // 조건 도달: 상장폐지 처리
+                    stock.isDelisted = true;
+                    stock.delistTimestamp = now; // (클라이언트 시간 기준)
+                    
+                    // 상장폐지 처리 후, 가격 업데이트를 건너뛰기 위해 return
+                    return; // (forEach의 다음 아이템으로 넘어감)
+                }
+                
+                let volatility = stock.baseVolatility;
+                let riseProbability = stock.baseRiseProbability - 0.03;
+                
+                // 1. 큰 이벤트 (폭등/폭락)
+                if (Math.random() < stock.bigEventChance) {
+                    volatility *= (Math.random() * 0.7 + 2.5); 
+                    if (Math.random() < 0.5) {
+                        riseProbability = 0.9;
+                    } else {
+                        riseProbability = 0.1;
+                    }
+                }
+                
+                // --- [수정] 대칭적 평균 회귀 로직 --
+                
+                // [A. 하락 압력] (버블 방지 - 기존 로직)
+                const DYNAMIC_HIGH_THRESHOLD = initialPrice * 50; 
+
+                if (stock.price > DYNAMIC_HIGH_THRESHOLD) {
+                    const ratio = stock.price / DYNAMIC_HIGH_THRESHOLD; 
+                    const downwardPressure = (ratio - 1) * REVERSION_STRENGTH_DOWN;
+                    riseProbability -= downwardPressure;
+                }
+                
+                // ▼▼▼ [신규] [B. 상승 압력] (폭락 방지) ▼▼▼
+                
+                // (시작 가격의 1/10 (10%) 이하로 떨어지면)
+                const DYNAMIC_LOW_THRESHOLD = initialPrice / 10; 
+
+                if (stock.price < DYNAMIC_LOW_THRESHOLD && stock.price > 10) { // (10원 미만 제외)
+                    // (e.g., 가격이 임계값의 절반(0.5)이 되면)
+                    const ratio = stock.price / DYNAMIC_LOW_THRESHOLD; 
+                    
+                    // (1.0 - 0.5) * 10% = 5%의 '상승 압력'이 추가됨
+                    const upwardPressure = (1.0 - ratio) * REVERSION_STRENGTH_UP;
+                    
+                    riseProbability += upwardPressure;
+
+                    // 상승 확률 상한선
+                    if (riseProbability > MAX_RISE_PROBABILITY) {
+                        riseProbability = MAX_RISE_PROBABILITY;
+                    }
+                }
+                // ▲▲▲ [신규] 상승 압력 로직 끝 ▲▲▲
+
+                // [C. 최종 확률 제한] (하한선)
+                if (riseProbability < MIN_RISE_PROBABILITY) {
+                    riseProbability = MIN_RISE_PROBABILITY;
+                }
+                // --- 평균 회귀 로직 끝 ---
+                
+                
+                // 2. 가격 변동 계산
+                const changePercent = (Math.random() * volatility) - (volatility / 2);
+                let newPrice = stock.price * (1 + changePercent);
+                
+                // 3. 상승/하락 확률 적용 (평균 회귀가 적용된 확률)
+                if (Math.random() < riseProbability) {
+                    newPrice = stock.price * (1 + Math.abs(changePercent));
+                } else {
+                    newPrice = stock.price * (1 - Math.abs(changePercent));
+                }
+
+                // 4. 가격 하한선 (10원)
+                if (newPrice < 10) newPrice = 10;
+                
+                // 5. 데이터 업데이트
+                stock.prevPrice = stock.price;
+                stock.price = Math.round(newPrice);
+                
+                if (!Array.isArray(stock.history)) {
+                    stock.history = Array(MAX_HISTORY).fill(stock.price);
+                }
+                stock.history.push(stock.price);
+                while (stock.history.length > MAX_HISTORY) {
+                    stock.history.shift();
+                }
+            });
+            
+            return currentMarketData; 
+            
+        }, (error, committed, snapshot) => {
+            if (error) {
+                console.error("주가 업데이트 트랜잭션 실패:", error);
+            }
+        });
+    }
+
+    function startMarketTimer() {
+        // [중요] 이미 타이머가 실행 중이면(null이 아니면) 중복 실행 방지
+        if (marketUpdateTimer) {
+            console.warn("관리자 타이머가 이미 이 브라우저에서 실행 중입니다.");
+            return;
+        }
+        
+        // [권장] 1.5초(1500)는 DB 요금에 매우 위험합니다. 5분(300000)을 강력히 권장합니다.
+        const UPDATE_INTERVAL_MS = 1500; // 5분 (300,000 밀리초)
+        
+        console.log(`관리자: 주식 시장 타이머 시작 (주기: ${UPDATE_INTERVAL_MS / 1000}초)`);
+        
+        // 타이머를 글로벌 변수에 할당
+        marketUpdateTimer = setInterval(updateStockPrices, UPDATE_INTERVAL_MS);
+        
+        // (선택) 관리자가 접속하자마자 1회 즉시 실행
+        // updateStockPrices(); 
+    }
+    // ▲▲▲ [신규 1/2] 끝 ▲▲▲
+
+
+    // ▼▼▼ [신규 2/2] 타이머 정지 함수 ▼▼▼
+    
+    /**
+     * [신규] 주식 시장 타이머를 정지합니다. (로그아웃 시)
+     */
+    function stopMarketTimer() {
+        if (marketUpdateTimer) {
+            console.log("관리자: 주식 시장 타이머 정지.");
+            clearInterval(marketUpdateTimer);
+            marketUpdateTimer = null;
+        }
+    }
+
+
+    // === 17. 게임 시작 ===
+    initGame();
+});
